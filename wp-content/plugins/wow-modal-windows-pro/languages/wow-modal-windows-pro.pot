@@ -1,0 +1,1841 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wow Modal Windows Pro\n"
+"POT-Creation-Date: 2024-12-12 15:27+0200\n"
+"PO-Revision-Date: 2024-11-06 10:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wow-modal-windows-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-settings-helper.php:148 admin/settings/options/button.php:14
+#: admin/settings/options/button.php:132 admin/settings/options/settings.php:58
+#: admin/settings/options/settings.php:218
+#: admin/settings/options/settings.php:228
+#: admin/settings/options/settings.php:238
+msgid "no"
+msgstr ""
+
+#: admin/class-settings-helper.php:149
+msgid "Blind Up"
+msgstr ""
+
+#: admin/class-settings-helper.php:150
+msgid "Blind Down"
+msgstr ""
+
+#: admin/class-settings-helper.php:151
+msgid "Blind Left"
+msgstr ""
+
+#: admin/class-settings-helper.php:152
+msgid "Blind Right"
+msgstr ""
+
+#: admin/class-settings-helper.php:153
+msgid "Bounce"
+msgstr ""
+
+#: admin/class-settings-helper.php:154
+msgid "Clip Vertical"
+msgstr ""
+
+#: admin/class-settings-helper.php:155
+msgid "Clip Horizontal"
+msgstr ""
+
+#: admin/class-settings-helper.php:156
+msgid "Drop Up"
+msgstr ""
+
+#: admin/class-settings-helper.php:157
+msgid "Drop Down"
+msgstr ""
+
+#: admin/class-settings-helper.php:158
+msgid "Drop Left"
+msgstr ""
+
+#: admin/class-settings-helper.php:159
+msgid "Drop Right"
+msgstr ""
+
+#: admin/class-settings-helper.php:160
+msgid "Explode 4 Pieces"
+msgstr ""
+
+#: admin/class-settings-helper.php:161
+msgid "Explode 9 Pieces"
+msgstr ""
+
+#: admin/class-settings-helper.php:162
+msgid "Explode 12 Pieces"
+msgstr ""
+
+#: admin/class-settings-helper.php:163
+msgid "Fade"
+msgstr ""
+
+#: admin/class-settings-helper.php:164
+msgid "Fold"
+msgstr ""
+
+#: admin/class-settings-helper.php:165
+msgid "Highlight"
+msgstr ""
+
+#: admin/class-settings-helper.php:166
+msgid "Puff"
+msgstr ""
+
+#: admin/class-settings-helper.php:167
+msgid "Pulsate"
+msgstr ""
+
+#: admin/class-settings-helper.php:168
+msgid "Scale Both"
+msgstr ""
+
+#: admin/class-settings-helper.php:169
+msgid "Scale Vertical"
+msgstr ""
+
+#: admin/class-settings-helper.php:170
+msgid "Scale Horizontal"
+msgstr ""
+
+#: admin/class-settings-helper.php:171
+msgid "Shake Left"
+msgstr ""
+
+#: admin/class-settings-helper.php:172
+msgid "Shake Up"
+msgstr ""
+
+#: admin/class-settings-helper.php:173
+msgid "Slide Left"
+msgstr ""
+
+#: admin/class-settings-helper.php:174
+msgid "Slide Right"
+msgstr ""
+
+#: admin/class-settings-helper.php:175
+msgid "Slide Up"
+msgstr ""
+
+#: admin/class-settings-helper.php:176
+msgid "Slide Down"
+msgstr ""
+
+#: admin/class-settings-helper.php:445 admin/class-settings-helper.php:454
+msgid "Not created yet"
+msgstr ""
+
+#: admin/class-settings-helper.php:452 classes/Admin/ListTable.php:138
+msgid "UnTitle"
+msgstr ""
+
+#: admin/class-settings-helper.php:476 admin/settings/options/rules.php:246
+#: admin/settings/options/rules.php:252 admin/settings/options/settings.php:96
+#: admin/settings/options/settings.php:103
+#: admin/settings/options/settings.php:110
+#: admin/settings/options/settings.php:250
+#: admin/settings/options/settings.php:291 admin/settings/options/style.php:360
+msgid "Enable"
+msgstr ""
+
+#: admin/pages/1.list.php:55
+msgid "Search"
+msgstr ""
+
+#: admin/pages/2.settings.php:32
+msgid "Enter title here"
+msgstr ""
+
+#: admin/pages/2.settings.php:34
+msgid "Add title"
+msgstr ""
+
+#: admin/pages/2.settings.php:36
+msgid "Modal Preview"
+msgstr ""
+
+#: admin/pages/3.tools.php:19
+msgid "Export Settings"
+msgstr ""
+
+#. translators: %s: plugin name
+#: admin/pages/3.tools.php:23
+#, php-format
+msgid ""
+"Export the  settings for %s as a .json file. This allows you to easily "
+"import the configuration into another site."
+msgstr ""
+
+#: admin/pages/3.tools.php:31
+msgid "Import Settings"
+msgstr ""
+
+#. translators: %s: plugin name
+#: admin/pages/3.tools.php:35
+#, php-format
+msgid ""
+"Import the %s settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+
+#: admin/pages/3.tools.php:44
+msgid "Manage Capabilities"
+msgstr ""
+
+#: admin/pages/3.tools.php:46
+msgid ""
+"Manage the visibility of the plugin for users based on their Manage User "
+"Capabilities."
+msgstr ""
+
+#: admin/pages/4.support.php:17
+msgid ""
+"To get your support related question answered in the fastest timing, please "
+"send a message via the form below or write to us via"
+msgstr ""
+
+#: admin/pages/4.support.php:18
+msgid "support page"
+msgstr ""
+
+#: admin/pages/4.support.php:23
+msgid ""
+"Also, you can send us your ideas and suggestions for improving the plugin."
+msgstr ""
+
+#: admin/pages/5.license.php:15
+msgid "License deactivation"
+msgstr ""
+
+#: admin/pages/5.license.php:15
+msgid "License activation"
+msgstr ""
+
+#: admin/pages/5.license.php:39
+msgid "Deactivate plugin"
+msgstr ""
+
+#: admin/pages/5.license.php:44
+msgid "Activate plugin"
+msgstr ""
+
+#: admin/settings/1.content.php:80
+msgid "Insert Shortcode"
+msgstr ""
+
+#: admin/settings/2.style.php:21 admin/settings/options/rules.php:9
+#: admin/settings/options/rules.php:12
+msgid "General"
+msgstr ""
+
+#: admin/settings/2.style.php:31
+msgid "Properties"
+msgstr ""
+
+#: admin/settings/2.style.php:40
+msgid "Border"
+msgstr ""
+
+#: admin/settings/2.style.php:49 admin/settings/options/style.php:112
+msgid "Shadow"
+msgstr ""
+
+#: admin/settings/2.style.php:60 admin/settings/options/content.php:26
+#: admin/settings/options/rules.php:123
+msgid "Content"
+msgstr ""
+
+#: admin/settings/2.style.php:73 admin/settings/options/button.php:237
+#: admin/settings/options/form.php:83 admin/settings/options/form.php:131
+#: admin/settings/options/form.php:174 admin/settings/options/style.php:248
+#: admin/settings/options/style.php:448 admin/settings/options/style.php:619
+msgid "Background"
+msgstr ""
+
+#: admin/settings/2.style.php:92 admin/settings/5.button.php:38
+#: admin/settings/options/button.php:95 admin/settings/options/style.php:461
+msgid "Location"
+msgstr ""
+
+#: admin/settings/2.style.php:121 classes/Admin/ListTable.php:96
+msgid "Title"
+msgstr ""
+
+#: admin/settings/2.style.php:159
+msgid "Close Button"
+msgstr ""
+
+#: admin/settings/2.style.php:168
+msgid "Positioning"
+msgstr ""
+
+#: admin/settings/2.style.php:178 admin/settings/options/button.php:129
+msgid "Type"
+msgstr ""
+
+#: admin/settings/2.style.php:189
+msgid "Font"
+msgstr ""
+
+#: admin/settings/2.style.php:199
+msgid "Colors"
+msgstr ""
+
+#: admin/settings/2.style.php:220
+msgid "Mobile Rule"
+msgstr ""
+
+#: admin/settings/3.settings.php:23
+msgid "Triggers"
+msgstr ""
+
+#: admin/settings/3.settings.php:45
+msgid "You can open popup via adding to the element:"
+msgstr ""
+
+#: admin/settings/3.settings.php:72 admin/settings/5.button.php:62
+msgid "Animation"
+msgstr ""
+
+#: admin/settings/3.settings.php:103
+msgid "Closing Modal"
+msgstr ""
+
+#: admin/settings/3.settings.php:129
+msgid "You can сlose popup via adding to the element:"
+msgstr ""
+
+#: admin/settings/3.settings.php:154 admin/settings/options/settings.php:215
+msgid "Video support"
+msgstr ""
+
+#: admin/settings/3.settings.php:169
+msgid ""
+"Use this option if you insert video in the content via shortcode [videoBox]."
+msgstr ""
+
+#: admin/settings/3.settings.php:185
+msgid "Google Event Tracking"
+msgstr ""
+
+#: admin/settings/3.settings.php:194
+msgid "Open Popup"
+msgstr ""
+
+#: admin/settings/3.settings.php:205 admin/settings/options/content.php:104
+msgid "Close Popup"
+msgstr ""
+
+#: admin/settings/4.rules.php:25
+msgid "Display Rules"
+msgstr ""
+
+#: admin/settings/4.rules.php:59
+msgid "Add Rule"
+msgstr ""
+
+#: admin/settings/4.rules.php:75
+msgid "Responsive Visibility"
+msgstr ""
+
+#: admin/settings/4.rules.php:105 admin/settings/4.rules.php:114
+msgid "Permissions"
+msgstr ""
+
+#: admin/settings/4.rules.php:136 admin/settings/options/rules.php:295
+msgid "Other"
+msgstr ""
+
+#: admin/settings/4.rules.php:170
+msgid "Schedule"
+msgstr ""
+
+#: admin/settings/4.rules.php:199
+msgid "Add Schedule"
+msgstr ""
+
+#: admin/settings/4.rules.php:215
+msgid "Hide Based on Browser"
+msgstr ""
+
+#: admin/settings/5.button.php:17
+msgid "Floating Button"
+msgstr ""
+
+#: admin/settings/5.button.php:28 admin/settings/options/button.php:42
+#: admin/settings/options/content.php:25 admin/settings/options/style.php:506
+msgid "Icon"
+msgstr ""
+
+#: admin/settings/5.button.php:47 admin/settings/options/content.php:207
+#: admin/settings/options/style.php:72
+msgid "Style"
+msgstr ""
+
+#: admin/settings/6.form.php:24
+msgid "Form"
+msgstr ""
+
+#: admin/settings/6.form.php:33
+msgid "Fields"
+msgstr ""
+
+#: admin/settings/6.form.php:44
+msgid "Form Style"
+msgstr ""
+
+#: admin/settings/6.form.php:61
+msgid "Fields Style"
+msgstr ""
+
+#: admin/settings/6.form.php:79
+msgid "Button Style"
+msgstr ""
+
+#: admin/settings/6.form.php:102
+msgid "Email Settings"
+msgstr ""
+
+#: admin/settings/6.form.php:111
+msgid "Confirmation"
+msgstr ""
+
+#: admin/settings/6.form.php:121 admin/settings/options/form.php:230
+msgid "Email to Admin"
+msgstr ""
+
+#: admin/settings/6.form.php:133 admin/settings/options/form.php:260
+msgid "Email to User"
+msgstr ""
+
+#: admin/settings/options/button.php:11
+msgid "Show button"
+msgstr ""
+
+#: admin/settings/options/button.php:15 admin/settings/options/settings.php:59
+#: admin/settings/options/settings.php:219
+#: admin/settings/options/settings.php:229
+#: admin/settings/options/settings.php:239
+msgid "yes"
+msgstr ""
+
+#: admin/settings/options/button.php:21
+msgid "Appearance"
+msgstr ""
+
+#: admin/settings/options/button.php:24
+msgid "Only Text"
+msgstr ""
+
+#: admin/settings/options/button.php:25
+msgid "Text and icon"
+msgstr ""
+
+#: admin/settings/options/button.php:26
+msgid "Only Icon"
+msgstr ""
+
+#: admin/settings/options/button.php:32 admin/settings/options/form.php:196
+#: admin/settings/options/form.php:278 admin/settings/options/style.php:505
+#: admin/settings/options/style.php:523 admin/settings/options/style.php:599
+msgid "Text"
+msgstr ""
+
+#: admin/settings/options/button.php:33
+msgid "Feedback"
+msgstr ""
+
+#: admin/settings/options/button.php:50
+msgid "Rotate icon"
+msgstr ""
+
+#: admin/settings/options/button.php:53
+msgid "none"
+msgstr ""
+
+#: admin/settings/options/button.php:54
+msgid "90&deg;"
+msgstr ""
+
+#: admin/settings/options/button.php:55
+msgid "180&deg;"
+msgstr ""
+
+#: admin/settings/options/button.php:56
+msgid "270&deg;"
+msgstr ""
+
+#: admin/settings/options/button.php:62
+msgid "Text location"
+msgstr ""
+
+#: admin/settings/options/button.php:65
+msgid "Before Icon"
+msgstr ""
+
+#: admin/settings/options/button.php:66
+msgid "After Icon"
+msgstr ""
+
+#: admin/settings/options/button.php:72
+msgid "Shape"
+msgstr ""
+
+#: admin/settings/options/button.php:98 admin/settings/options/style.php:335
+#: admin/settings/options/style.php:494
+msgid "Right"
+msgstr ""
+
+#: admin/settings/options/button.php:99 admin/settings/options/style.php:315
+#: admin/settings/options/style.php:487
+msgid "Left"
+msgstr ""
+
+#: admin/settings/options/button.php:100 admin/settings/options/style.php:275
+#: admin/settings/options/style.php:473
+msgid "Top"
+msgstr ""
+
+#: admin/settings/options/button.php:101 admin/settings/options/style.php:295
+#: admin/settings/options/style.php:480
+msgid "Bottom"
+msgstr ""
+
+#: admin/settings/options/button.php:107
+msgid "Offset"
+msgstr ""
+
+#: admin/settings/options/button.php:117 admin/settings/options/form.php:65
+msgid "Margin"
+msgstr ""
+
+#: admin/settings/options/button.php:133
+msgid "bounce"
+msgstr ""
+
+#: admin/settings/options/button.php:134
+msgid "flash"
+msgstr ""
+
+#: admin/settings/options/button.php:135
+msgid "pulse"
+msgstr ""
+
+#: admin/settings/options/button.php:136
+msgid "rubberBand"
+msgstr ""
+
+#: admin/settings/options/button.php:137
+msgid "shake"
+msgstr ""
+
+#: admin/settings/options/button.php:138
+msgid "swing"
+msgstr ""
+
+#: admin/settings/options/button.php:139
+msgid "tada"
+msgstr ""
+
+#: admin/settings/options/button.php:140
+msgid "wobble"
+msgstr ""
+
+#: admin/settings/options/button.php:141
+msgid "jello"
+msgstr ""
+
+#: admin/settings/options/button.php:147
+msgid "Duration"
+msgstr ""
+
+#: admin/settings/options/button.php:158
+msgid "Iteration Count"
+msgstr ""
+
+#: admin/settings/options/button.php:169
+msgid "Pause"
+msgstr ""
+
+#: admin/settings/options/button.php:182 admin/settings/options/form.php:115
+#: admin/settings/options/form.php:160
+msgid "Text size"
+msgstr ""
+
+#: admin/settings/options/button.php:193
+msgid "em"
+msgstr ""
+
+#: admin/settings/options/button.php:194 admin/settings/options/content.php:173
+#: admin/settings/options/content.php:190
+#: admin/settings/options/settings.php:47 admin/settings/options/style.php:20
+#: admin/settings/options/style.php:35 admin/settings/options/style.php:286
+#: admin/settings/options/style.php:306 admin/settings/options/style.php:326
+#: admin/settings/options/style.php:346 admin/settings/options/style.php:655
+msgid "px"
+msgstr ""
+
+#: admin/settings/options/button.php:201 admin/settings/options/form.php:59
+#: admin/settings/options/style.php:163 admin/settings/options/style.php:529
+msgid "Padding"
+msgstr ""
+
+#: admin/settings/options/button.php:207 admin/settings/options/style.php:62
+msgid "Radius"
+msgstr ""
+
+#: admin/settings/options/button.php:217 admin/settings/options/form.php:149
+#: admin/settings/options/form.php:165
+msgid "Text color"
+msgstr ""
+
+#: admin/settings/options/button.php:227
+msgid "Text hover color"
+msgstr ""
+
+#: admin/settings/options/button.php:247
+msgid "Hover Background"
+msgstr ""
+
+#: admin/settings/options/content.php:11
+msgid "Welcome to Modal Window plugin"
+msgstr ""
+
+#: admin/settings/options/content.php:19
+msgid "Shortcode Type"
+msgstr ""
+
+#: admin/settings/options/content.php:22
+msgid "Button"
+msgstr ""
+
+#: admin/settings/options/content.php:23
+msgid "Video"
+msgstr ""
+
+#: admin/settings/options/content.php:24
+msgid "Iframe"
+msgstr ""
+
+#: admin/settings/options/content.php:32
+msgid "Video Hosting"
+msgstr ""
+
+#: admin/settings/options/content.php:34
+msgid "YouTube"
+msgstr ""
+
+#: admin/settings/options/content.php:35
+msgid "Vimeo"
+msgstr ""
+
+#: admin/settings/options/content.php:40
+msgid "Video ID"
+msgstr ""
+
+#: admin/settings/options/content.php:43
+msgid "Enter video ID"
+msgstr ""
+
+#: admin/settings/options/content.php:48
+msgid "Video Width"
+msgstr ""
+
+#: admin/settings/options/content.php:59
+msgid "Video Height"
+msgstr ""
+
+#: admin/settings/options/content.php:71
+msgid "Button Type"
+msgstr ""
+
+#: admin/settings/options/content.php:74
+msgid "Popup Close Button"
+msgstr ""
+
+#: admin/settings/options/content.php:75
+msgid "Button with Link"
+msgstr ""
+
+#: admin/settings/options/content.php:81
+msgid "Button Size"
+msgstr ""
+
+#: admin/settings/options/content.php:84
+msgid "Small"
+msgstr ""
+
+#: admin/settings/options/content.php:85
+msgid "Normal"
+msgstr ""
+
+#: admin/settings/options/content.php:86
+msgid "Medium"
+msgstr ""
+
+#: admin/settings/options/content.php:87
+msgid "Large"
+msgstr ""
+
+#: admin/settings/options/content.php:93
+msgid "Full Width"
+msgstr ""
+
+#: admin/settings/options/content.php:96 admin/settings/options/style.php:53
+msgid "No"
+msgstr ""
+
+#: admin/settings/options/content.php:97 admin/settings/options/style.php:52
+#: admin/settings/options/style.php:116
+msgid "Yes"
+msgstr ""
+
+#: admin/settings/options/content.php:103
+msgid "Button Text"
+msgstr ""
+
+#: admin/settings/options/content.php:108
+msgid "Text Color"
+msgstr ""
+
+#: admin/settings/options/content.php:118
+msgid "Background Color"
+msgstr ""
+
+#: admin/settings/options/content.php:128
+#: admin/settings/options/content.php:242
+msgid "Link"
+msgstr ""
+
+#: admin/settings/options/content.php:132
+#: admin/settings/options/content.php:246 admin/settings/options/rules.php:125
+#: admin/settings/options/settings.php:145
+msgid "Enter URL"
+msgstr ""
+
+#: admin/settings/options/content.php:138
+#: admin/settings/options/content.php:252
+msgid "Target"
+msgstr ""
+
+#: admin/settings/options/content.php:141
+#: admin/settings/options/content.php:255
+#: admin/settings/options/settings.php:154
+msgid "New tab"
+msgstr ""
+
+#: admin/settings/options/content.php:142
+#: admin/settings/options/content.php:256
+#: admin/settings/options/settings.php:155
+msgid "Same tab"
+msgstr ""
+
+#: admin/settings/options/content.php:147
+msgid "Extra class"
+msgstr ""
+
+#: admin/settings/options/content.php:155
+msgid "Iframe link"
+msgstr ""
+
+#: admin/settings/options/content.php:163 admin/settings/options/form.php:53
+#: admin/settings/options/style.php:13 admin/settings/options/style.php:649
+msgid "Width"
+msgstr ""
+
+#: admin/settings/options/content.php:174
+#: admin/settings/options/content.php:191
+#: admin/settings/options/settings.php:48 admin/settings/options/style.php:21
+#: admin/settings/options/style.php:36 admin/settings/options/style.php:285
+#: admin/settings/options/style.php:305 admin/settings/options/style.php:325
+#: admin/settings/options/style.php:345 admin/settings/options/style.php:656
+msgid "%"
+msgstr ""
+
+#: admin/settings/options/content.php:180 admin/settings/options/style.php:27
+msgid "Height"
+msgstr ""
+
+#: admin/settings/options/content.php:197
+msgid "ID"
+msgstr ""
+
+#: admin/settings/options/content.php:202
+msgid "Class"
+msgstr ""
+
+#: admin/settings/options/content.php:215
+msgid "Select Icon"
+msgstr ""
+
+#: admin/settings/options/content.php:222 admin/settings/options/form.php:212
+#: admin/settings/options/style.php:100 admin/settings/options/style.php:152
+#: admin/settings/options/style.php:438
+msgid "Color"
+msgstr ""
+
+#: admin/settings/options/content.php:232
+msgid "Size"
+msgstr ""
+
+#: admin/settings/options/content.php:262
+msgid "Include Title"
+msgstr ""
+
+#: admin/settings/options/content.php:263 admin/settings/options/form.php:223
+#: admin/settings/options/form.php:231 admin/settings/options/form.php:261
+#: admin/settings/options/rules.php:323
+msgid "Enabled"
+msgstr ""
+
+#: admin/settings/options/content.php:269
+msgid "Post Type"
+msgstr ""
+
+#: admin/settings/options/content.php:271
+msgid "post"
+msgstr ""
+
+#: admin/settings/options/form.php:12
+msgid "Name"
+msgstr ""
+
+#: admin/settings/options/form.php:17 classes/Admin/SupportForm.php:29
+msgid "Your Name"
+msgstr ""
+
+#: admin/settings/options/form.php:23
+msgid "Email"
+msgstr ""
+
+#: admin/settings/options/form.php:28
+msgid "Your Email"
+msgstr ""
+
+#: admin/settings/options/form.php:34
+msgid "Textarea"
+msgstr ""
+
+#: admin/settings/options/form.php:39
+msgid "Write a Comment"
+msgstr ""
+
+#: admin/settings/options/form.php:44
+msgid "Button text"
+msgstr ""
+
+#: admin/settings/options/form.php:45
+msgid "Send"
+msgstr ""
+
+#: admin/settings/options/form.php:71 admin/settings/options/form.php:105
+msgid "Border width"
+msgstr ""
+
+#: admin/settings/options/form.php:77 admin/settings/options/form.php:110
+msgid "Border radius"
+msgstr ""
+
+#: admin/settings/options/form.php:93 admin/settings/options/form.php:140
+msgid "Border color"
+msgstr ""
+
+#: admin/settings/options/form.php:120
+msgid "Input height"
+msgstr ""
+
+#: admin/settings/options/form.php:126
+msgid "Textarea height"
+msgstr ""
+
+#: admin/settings/options/form.php:183
+msgid "Background on hover"
+msgstr ""
+
+#: admin/settings/options/form.php:197
+msgid "Thank you. We will contact you shortly."
+msgstr ""
+
+#: admin/settings/options/form.php:202
+msgid "Font size"
+msgstr ""
+
+#: admin/settings/options/form.php:222
+msgid "EMS_Integration"
+msgstr ""
+
+#: admin/settings/options/form.php:236
+msgid "Send to"
+msgstr ""
+
+#: admin/settings/options/form.php:242 admin/settings/options/form.php:272
+msgid "Subject"
+msgstr ""
+
+#: admin/settings/options/form.php:243 admin/settings/options/form.php:273
+msgid "Letter from the site."
+msgstr ""
+
+#: admin/settings/options/form.php:266
+msgid "From"
+msgstr ""
+
+#: admin/settings/options/rules.php:10
+msgid "Everywhere"
+msgstr ""
+
+#: admin/settings/options/rules.php:11 classes/Admin/ListTable.php:97
+msgid "Shortcode"
+msgstr ""
+
+#: admin/settings/options/rules.php:13
+msgid "Posts"
+msgstr ""
+
+#: admin/settings/options/rules.php:14
+msgid "All posts"
+msgstr ""
+
+#: admin/settings/options/rules.php:15
+msgid "Selected posts"
+msgstr ""
+
+#: admin/settings/options/rules.php:16
+msgid "Post has category"
+msgstr ""
+
+#: admin/settings/options/rules.php:17
+msgid "Post has tag"
+msgstr ""
+
+#: admin/settings/options/rules.php:18
+msgid "Posts End"
+msgstr ""
+
+#: admin/settings/options/rules.php:19
+msgid "Pages"
+msgstr ""
+
+#: admin/settings/options/rules.php:20
+msgid "All pages"
+msgstr ""
+
+#: admin/settings/options/rules.php:21
+msgid "Selected pages"
+msgstr ""
+
+#: admin/settings/options/rules.php:22 admin/settings/options/rules.php:116
+msgid "Page type"
+msgstr ""
+
+#: admin/settings/options/rules.php:23
+msgid "Pages End"
+msgstr ""
+
+#: admin/settings/options/rules.php:24
+msgid "Archives"
+msgstr ""
+
+#: admin/settings/options/rules.php:25
+msgid "All Archives"
+msgstr ""
+
+#: admin/settings/options/rules.php:26
+msgid "All Categories"
+msgstr ""
+
+#: admin/settings/options/rules.php:27
+msgid "All Tags"
+msgstr ""
+
+#: admin/settings/options/rules.php:28
+msgid "All Authors"
+msgstr ""
+
+#: admin/settings/options/rules.php:29
+msgid "All Dates"
+msgstr ""
+
+#: admin/settings/options/rules.php:30 admin/settings/options/settings.php:255
+#: admin/settings/options/settings.php:296
+msgid "Category"
+msgstr ""
+
+#: admin/settings/options/rules.php:31 classes/Admin/ListTable.php:98
+msgid "Tag"
+msgstr ""
+
+#: admin/settings/options/rules.php:32
+msgid "Author"
+msgstr ""
+
+#: admin/settings/options/rules.php:33
+msgid "Archives End"
+msgstr ""
+
+#: admin/settings/options/rules.php:34
+msgid "URL"
+msgstr ""
+
+#: admin/settings/options/rules.php:35
+msgid "URL contains"
+msgstr ""
+
+#: admin/settings/options/rules.php:36
+msgid "Referrer URL"
+msgstr ""
+
+#: admin/settings/options/rules.php:37
+msgid "Custom URL End"
+msgstr ""
+
+#: admin/settings/options/rules.php:47 admin/settings/options/rules.php:62
+msgid "Custom Post:"
+msgstr ""
+
+#: admin/settings/options/rules.php:49 classes/Admin/ListTable.php:326
+msgid "All"
+msgstr ""
+
+#: admin/settings/options/rules.php:50
+msgid "Selected"
+msgstr ""
+
+#: admin/settings/options/rules.php:58
+msgid "taxonomy"
+msgstr ""
+
+#: admin/settings/options/rules.php:60
+msgid "Archive"
+msgstr ""
+
+#: admin/settings/options/rules.php:66
+msgid "Home Page"
+msgstr ""
+
+#: admin/settings/options/rules.php:67
+msgid "Posts Page"
+msgstr ""
+
+#: admin/settings/options/rules.php:68
+msgid "Search Pages"
+msgstr ""
+
+#: admin/settings/options/rules.php:69
+msgid "404 Pages"
+msgstr ""
+
+#: admin/settings/options/rules.php:78
+msgid "Everyday"
+msgstr ""
+
+#: admin/settings/options/rules.php:79
+msgid "Monday"
+msgstr ""
+
+#: admin/settings/options/rules.php:80
+msgid "Tuesday"
+msgstr ""
+
+#: admin/settings/options/rules.php:81
+msgid "Wednesday"
+msgstr ""
+
+#: admin/settings/options/rules.php:82
+msgid "Thursday"
+msgstr ""
+
+#: admin/settings/options/rules.php:83
+msgid "Friday"
+msgstr ""
+
+#: admin/settings/options/rules.php:84
+msgid "Saturday"
+msgstr ""
+
+#: admin/settings/options/rules.php:85
+msgid "Sunday"
+msgstr ""
+
+#: admin/settings/options/rules.php:92
+msgid "Display"
+msgstr ""
+
+#: admin/settings/options/rules.php:99
+msgid "Match"
+msgstr ""
+
+#: admin/settings/options/rules.php:107
+msgid "Enter ID's"
+msgstr ""
+
+#: admin/settings/options/rules.php:109
+msgid "Enter IDs, separated by comma."
+msgstr ""
+
+#: admin/settings/options/rules.php:135
+msgid "Users"
+msgstr ""
+
+#: admin/settings/options/rules.php:137
+msgid "All users"
+msgstr ""
+
+#: admin/settings/options/rules.php:138
+msgid "Authorized Users"
+msgstr ""
+
+#: admin/settings/options/rules.php:139
+msgid "Unauthorized Users"
+msgstr ""
+
+#: admin/settings/options/rules.php:148
+msgid "URL has param"
+msgstr ""
+
+#: admin/settings/options/rules.php:162
+msgid "URL has Hash"
+msgstr ""
+
+#: admin/settings/options/rules.php:176
+msgid "Show after popup"
+msgstr ""
+
+#: admin/settings/options/rules.php:188
+msgid "Enable for specific language"
+msgstr ""
+
+#: admin/settings/options/rules.php:198
+msgid "Locale"
+msgstr ""
+
+#: admin/settings/options/rules.php:208
+msgid "Geotargeting"
+msgstr ""
+
+#: admin/settings/options/rules.php:211
+msgid "Country codes separated by comma"
+msgstr ""
+
+#: admin/settings/options/rules.php:214
+msgid "Ex: US,CA,GB,UA"
+msgstr ""
+
+#: admin/settings/options/rules.php:224
+msgid "Hide on smaller screens"
+msgstr ""
+
+#: admin/settings/options/rules.php:235
+msgid "Hide on larger screens"
+msgstr ""
+
+#: admin/settings/options/rules.php:245
+msgid "Remove on Mobile"
+msgstr ""
+
+#: admin/settings/options/rules.php:251
+msgid "Remove on Desktop"
+msgstr ""
+
+#: admin/settings/options/rules.php:259
+msgid "Opera"
+msgstr ""
+
+#: admin/settings/options/rules.php:260 admin/settings/options/rules.php:266
+#: admin/settings/options/rules.php:272 admin/settings/options/rules.php:278
+#: admin/settings/options/rules.php:284 admin/settings/options/rules.php:290
+#: admin/settings/options/rules.php:296
+msgid "Disable"
+msgstr ""
+
+#: admin/settings/options/rules.php:265
+msgid "Microsoft Edge"
+msgstr ""
+
+#: admin/settings/options/rules.php:271
+msgid "Chrome"
+msgstr ""
+
+#: admin/settings/options/rules.php:277
+msgid "Safari"
+msgstr ""
+
+#: admin/settings/options/rules.php:283
+msgid "Firefox"
+msgstr ""
+
+#: admin/settings/options/rules.php:289
+msgid "Internet Explorer"
+msgstr ""
+
+#: admin/settings/options/rules.php:304
+msgid "Weekday"
+msgstr ""
+
+#: admin/settings/options/rules.php:310
+msgid "Start time"
+msgstr ""
+
+#: admin/settings/options/rules.php:315
+msgid "End time"
+msgstr ""
+
+#: admin/settings/options/rules.php:320
+msgid "Define Dates"
+msgstr ""
+
+#: admin/settings/options/rules.php:322
+msgid "Disabled"
+msgstr ""
+
+#: admin/settings/options/rules.php:329
+msgid "Date From"
+msgstr ""
+
+#: admin/settings/options/rules.php:334
+msgid "Date To"
+msgstr ""
+
+#: admin/settings/options/settings.php:11
+msgid "Trigger Types"
+msgstr ""
+
+#: admin/settings/options/settings.php:14
+msgid "Click"
+msgstr ""
+
+#: admin/settings/options/settings.php:15
+msgid "Auto"
+msgstr ""
+
+#: admin/settings/options/settings.php:16 admin/settings/options/style.php:609
+msgid "Hover"
+msgstr ""
+
+#: admin/settings/options/settings.php:17
+msgid "Exit"
+msgstr ""
+
+#: admin/settings/options/settings.php:18
+msgid "Scrolled"
+msgstr ""
+
+#: admin/settings/options/settings.php:19
+msgid "Right Click"
+msgstr ""
+
+#: admin/settings/options/settings.php:20
+msgid "Selected Text"
+msgstr ""
+
+#: admin/settings/options/settings.php:26
+msgid "Delay time"
+msgstr ""
+
+#: admin/settings/options/settings.php:37
+msgid "Scroll distance"
+msgstr ""
+
+#: admin/settings/options/settings.php:55
+msgid "Show only once"
+msgstr ""
+
+#: admin/settings/options/settings.php:65
+msgid "Timing"
+msgstr ""
+
+#: admin/settings/options/settings.php:68
+msgid "After Open"
+msgstr ""
+
+#: admin/settings/options/settings.php:69
+msgid "After Close"
+msgstr ""
+
+#: admin/settings/options/settings.php:75
+msgid "Reset"
+msgstr ""
+
+#: admin/settings/options/settings.php:86
+#: admin/settings/options/settings.php:171
+msgid "Custom Selectors"
+msgstr ""
+
+#: admin/settings/options/settings.php:94
+msgid "Remove Close Button"
+msgstr ""
+
+#: admin/settings/options/settings.php:101 admin/settings/options/style.php:234
+msgid "Overlay"
+msgstr ""
+
+#: admin/settings/options/settings.php:108
+msgid "Esc"
+msgstr ""
+
+#: admin/settings/options/settings.php:115
+msgid "Delay"
+msgstr ""
+
+#: admin/settings/options/settings.php:127
+msgid "Auto close"
+msgstr ""
+
+#: admin/settings/options/settings.php:139
+msgid "Redirect after close"
+msgstr ""
+
+#: admin/settings/options/settings.php:151
+msgid "Redirect Target"
+msgstr ""
+
+#: admin/settings/options/settings.php:161
+msgid "Form Submission"
+msgstr ""
+
+#: admin/settings/options/settings.php:178
+msgid "AnimateIn"
+msgstr ""
+
+#: admin/settings/options/settings.php:185
+msgid "AnimateIn Speed"
+msgstr ""
+
+#: admin/settings/options/settings.php:195
+msgid "AnimateOut"
+msgstr ""
+
+#: admin/settings/options/settings.php:202
+msgid "AnimateOut Speed"
+msgstr ""
+
+#: admin/settings/options/settings.php:225
+msgid "Video autoplay"
+msgstr ""
+
+#: admin/settings/options/settings.php:235
+msgid "Stop on close"
+msgstr ""
+
+#: admin/settings/options/settings.php:249
+#: admin/settings/options/settings.php:290
+msgid "Event Tracking"
+msgstr ""
+
+#: admin/settings/options/settings.php:261
+#: admin/settings/options/settings.php:302
+msgid "Action"
+msgstr ""
+
+#: admin/settings/options/settings.php:268
+#: admin/settings/options/settings.php:309
+msgid "Label"
+msgstr ""
+
+#: admin/settings/options/settings.php:278
+#: admin/settings/options/settings.php:319
+msgid "Value"
+msgstr ""
+
+#: admin/settings/options/style.php:34
+msgid "auto"
+msgstr ""
+
+#: admin/settings/options/style.php:43
+msgid "Z-index"
+msgstr ""
+
+#: admin/settings/options/style.php:49
+msgid "Block page"
+msgstr ""
+
+#: admin/settings/options/style.php:75 admin/settings/options/style.php:115
+msgid "None"
+msgstr ""
+
+#: admin/settings/options/style.php:76
+msgid "Solid"
+msgstr ""
+
+#: admin/settings/options/style.php:77
+msgid "Dotted"
+msgstr ""
+
+#: admin/settings/options/style.php:78
+msgid "Dashed"
+msgstr ""
+
+#: admin/settings/options/style.php:79
+msgid "Double"
+msgstr ""
+
+#: admin/settings/options/style.php:80
+msgid "Groove"
+msgstr ""
+
+#: admin/settings/options/style.php:81 admin/settings/options/style.php:117
+msgid "Inset"
+msgstr ""
+
+#: admin/settings/options/style.php:82
+msgid "Outset"
+msgstr ""
+
+#: admin/settings/options/style.php:83
+msgid "Ridge"
+msgstr ""
+
+#: admin/settings/options/style.php:89
+msgid "Thickness"
+msgstr ""
+
+#: admin/settings/options/style.php:123
+msgid "Horizontal Position"
+msgstr ""
+
+#: admin/settings/options/style.php:130
+msgid "Vertical Position"
+msgstr ""
+
+#: admin/settings/options/style.php:137
+msgid "Blur"
+msgstr ""
+
+#: admin/settings/options/style.php:144
+msgid "Spread"
+msgstr ""
+
+#: admin/settings/options/style.php:173 admin/settings/options/style.php:365
+#: admin/settings/options/style.php:588
+msgid "Font Size"
+msgstr ""
+
+#: admin/settings/options/style.php:183 admin/settings/options/style.php:385
+#: admin/settings/options/style.php:546
+msgid "Font Family"
+msgstr ""
+
+#: admin/settings/options/style.php:186 admin/settings/options/style.php:388
+#: admin/settings/options/style.php:549
+msgid "Use Your Themes"
+msgstr ""
+
+#: admin/settings/options/style.php:199
+msgid "Scrollbar Thickness"
+msgstr ""
+
+#: admin/settings/options/style.php:202
+msgid "Thin"
+msgstr ""
+
+#: admin/settings/options/style.php:203
+msgid "Default"
+msgstr ""
+
+#: admin/settings/options/style.php:204
+msgid "No shown"
+msgstr ""
+
+#: admin/settings/options/style.php:211
+msgid "Scrollbar Color"
+msgstr ""
+
+#: admin/settings/options/style.php:221
+msgid "Scrollbar Background"
+msgstr ""
+
+#: admin/settings/options/style.php:258
+msgid "Background Image"
+msgstr ""
+
+#: admin/settings/options/style.php:261
+msgid "Enter image URL"
+msgstr ""
+
+#: admin/settings/options/style.php:359
+msgid "Used title as Modal Title."
+msgstr ""
+
+#: admin/settings/options/style.php:375
+msgid "Line Height"
+msgstr ""
+
+#: admin/settings/options/style.php:400 admin/settings/options/style.php:561
+msgid "Font Weight"
+msgstr ""
+
+#: admin/settings/options/style.php:417 admin/settings/options/style.php:578
+msgid "Font Style"
+msgstr ""
+
+#: admin/settings/options/style.php:427
+msgid "Align"
+msgstr ""
+
+#: admin/settings/options/style.php:464
+msgid "Top Right"
+msgstr ""
+
+#: admin/settings/options/style.php:465
+msgid "Top Left"
+msgstr ""
+
+#: admin/settings/options/style.php:466
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/settings/options/style.php:467
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/settings/options/style.php:502
+msgid "Button type"
+msgstr ""
+
+#: admin/settings/options/style.php:512
+msgid "Box Size"
+msgstr ""
+
+#: admin/settings/options/style.php:524
+msgid "Close"
+msgstr ""
+
+#: admin/settings/options/style.php:530
+msgid "6px 12px"
+msgstr ""
+
+#: admin/settings/options/style.php:535
+msgid "Border Radius"
+msgstr ""
+
+#: admin/settings/options/style.php:629
+msgid "Background Hover"
+msgstr ""
+
+#: admin/settings/options/style.php:642
+msgid "Mobile screen"
+msgstr ""
+
+#: admin/settings/pro-plugin.php:17
+msgid "PRO FEATURES"
+msgstr ""
+
+#: admin/settings/sidebar.php:23
+msgid "Publish"
+msgstr ""
+
+#: admin/settings/sidebar.php:27 classes/Admin/ListTable.php:102
+msgid "Status"
+msgstr ""
+
+#: admin/settings/sidebar.php:30 classes/Admin/ListTable.php:270
+msgid "Deactivate"
+msgstr ""
+
+#: admin/settings/sidebar.php:35 classes/Admin/ListTable.php:99
+msgid "Test mode"
+msgstr ""
+
+#: admin/settings/sidebar.php:38 classes/Admin/ListTable.php:269
+msgid "Activate"
+msgstr ""
+
+#: admin/settings/sidebar.php:83 classes/Admin/ListTable.php:58
+msgid "Delete"
+msgstr ""
+
+#: admin/settings/sidebar.php:91 classes/Admin/ListTable.php:56
+msgid "Duplicate"
+msgstr ""
+
+#: classes/Admin/AdminNotices.php:39
+msgid "Item Saved"
+msgstr ""
+
+#: classes/Admin/AdminNotices.php:45
+msgid "Item Remove"
+msgstr ""
+
+#: classes/Admin/Dashboard.php:37
+msgid "Check Version"
+msgstr ""
+
+#: classes/Admin/Dashboard.php:46
+msgid "Settings"
+msgstr ""
+
+#. translators: 1: Rating link (URL), 2: Plugin name
+#: classes/Admin/Dashboard.php:61
+#, php-format
+msgid ""
+"Thank you for using <b>%2$s</b>! Please <a href=\"%1$s\" "
+"target=\"_blank\">rate us</a>"
+msgstr ""
+
+#: classes/Admin/Dashboard.php:141
+msgid "Add New"
+msgstr ""
+
+#: classes/Admin/Dashboard.php:175
+msgid "Update"
+msgstr ""
+
+#: classes/Admin/ImporterExporter.php:25
+msgid "Export All Data"
+msgstr ""
+
+#: classes/Admin/ImporterExporter.php:44
+msgid "Update item if item already exists."
+msgstr ""
+
+#: classes/Admin/ImporterExporter.php:51
+msgid "Import"
+msgstr ""
+
+#: classes/Admin/ImporterExporter.php:71
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: classes/Admin/ImporterExporter.php:72
+#: includes/class-wowp-plugin-updater.php:538
+msgid "Error"
+msgstr ""
+
+#: classes/Admin/ListTable.php:50
+msgid "Untitled"
+msgstr ""
+
+#: classes/Admin/ListTable.php:54
+msgid "Edit"
+msgstr ""
+
+#: classes/Admin/ListTable.php:60
+msgid "Export"
+msgstr ""
+
+#: classes/Admin/ListTable.php:64
+msgid "View"
+msgstr ""
+
+#: classes/Admin/ListTable.php:100
+msgid "The item will only be displayed for administrators."
+msgstr ""
+
+#: classes/Admin/ListTable.php:103
+msgid "Display item on the Frontend."
+msgstr ""
+
+#: classes/Admin/ListTable.php:139
+msgid "Click for Deactivate."
+msgstr ""
+
+#: classes/Admin/ListTable.php:140
+msgid "Click for Activate."
+msgstr ""
+
+#: classes/Admin/ListTable.php:141 classes/Admin/ListTable.php:150
+msgid "OFF"
+msgstr ""
+
+#: classes/Admin/ListTable.php:143 classes/Admin/ListTable.php:152
+msgid "ON"
+msgstr ""
+
+#: classes/Admin/ListTable.php:147
+msgid "Click for OFF."
+msgstr ""
+
+#: classes/Admin/ListTable.php:148
+msgid "Click for ON."
+msgstr ""
+
+#: classes/Admin/ListTable.php:268
+msgid "Delate"
+msgstr ""
+
+#: classes/Admin/ListTable.php:271
+msgid "Test mode ON"
+msgstr ""
+
+#: classes/Admin/ListTable.php:272
+msgid "Test mode OFF"
+msgstr ""
+
+#: classes/Admin/ListTable.php:323
+msgid "Filter by tag"
+msgstr ""
+
+#: classes/Admin/ListTable.php:339
+msgid "Filter"
+msgstr ""
+
+#: classes/Admin/ManageCapabilities.php:34
+msgid "Save Change"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:24
+msgid "Support Form"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:37
+msgid "Contact email"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:49
+msgid "Link to the issue"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:58
+msgid "Message type"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:62
+msgid "Issue"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:63
+msgid "Idea"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:71
+msgid "Plugin"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:80
+msgid "License Key"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:91
+msgid "Enter Your Message"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:102
+msgid "Send to Support"
+msgstr ""
+
+#: classes/Admin/SupportForm.php:167
+msgid "Your message has been sent to the support team."
+msgstr ""
+
+#: classes/Admin/SupportForm.php:170
+msgid "Sorry, but message did not send. Please, contact us via support page."
+msgstr ""
+
+#: classes/Admin/SupportForm.php:182
+msgid "Please fill in all the form fields below."
+msgstr ""
+
+#: includes/class-wow-company.php:27
+msgid "WordPress plugins from Wow-Company"
+msgstr ""
+
+#: includes/class-wow-company.php:28
+msgid "Wow Plugins"
+msgstr ""
+
+#: includes/class-wowp-plugin-checker.php:145
+#: includes/class-wowp-plugin-checker.php:187
+#: includes/class-wowp-plugin-checker.php:271
+msgid "An error occurred, please try again."
+msgstr ""
+
+#. translators: the license key expiration date
+#: includes/class-wowp-plugin-checker.php:158
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/class-wowp-plugin-checker.php:165
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/class-wowp-plugin-checker.php:169
+msgid "Invalid license."
+msgstr ""
+
+#: includes/class-wowp-plugin-checker.php:174
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. translators: the plugin name
+#: includes/class-wowp-plugin-checker.php:179
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/class-wowp-plugin-checker.php:183
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#. translators: the plugin name.
+#: includes/class-wowp-plugin-updater.php:269
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: includes/class-wowp-plugin-updater.php:275
+msgid "Contact your network administrator to install the update."
+msgstr ""
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: includes/class-wowp-plugin-updater.php:280
+#, php-format
+msgid "%1$sView version %2$s details%3$s."
+msgstr ""
+
+#: includes/class-wowp-plugin-updater.php:289
+#, php-format
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr ""
+
+#: includes/class-wowp-plugin-updater.php:300
+msgid "Update now."
+msgstr ""
+
+#: includes/class-wowp-plugin-updater.php:538
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: wow-modal-windows-pro.php:149 wow-modal-windows-pro.php:160
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wow Modal Windows Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wow-estore.com/item/wow-modal-windows-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Designed to ease the process of creating and setting the modal windows."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wow-Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wow-estore.com/"
+msgstr ""

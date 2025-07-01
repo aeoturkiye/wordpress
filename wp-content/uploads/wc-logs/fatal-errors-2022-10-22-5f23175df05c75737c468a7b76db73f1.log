@@ -1,0 +1,10 @@
+2022-10-22T19:01:01+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php dosyasında 280 numaralı satırda Out of memory (allocated 108003328) (tried to allocate 28672 bytes)
+
+2022-10-22T19:05:31+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php dosyasında 667 numaralı satırda Out of memory (allocated 108003328) (tried to allocate 20480 bytes)
+
+2022-10-22T19:05:31+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/the-events-calendar/src/Tribe/REST/V1/Documentation/Event_Definition_Provider.php dosyasında 171 numaralı satırda Out of memory (allocated 112197632) (tried to allocate 32768 bytes)
+
+2022-10-22T19:05:31+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/elementor/core/common/modules/connect/apps/base-app.php dosyasında 387 numaralı satırda Out of memory (allocated 110100480) (tried to allocate 32768 bytes)
+
+2022-10-22T19:06:04+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php dosyasında 53 numaralı satırda Out of memory (allocated 63963136) (tried to allocate 65536 bytes)
+

@@ -1,0 +1,14 @@
+{
+    "name": "loveicon/loveicon-core",
+    "description": "A plugin for loveicon WordPress Theme",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Loveicon\\Helper\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}

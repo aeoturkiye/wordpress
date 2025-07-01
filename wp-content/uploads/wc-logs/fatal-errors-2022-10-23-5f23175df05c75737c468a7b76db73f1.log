@@ -1,0 +1,124 @@
+2022-10-23T09:58:35+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/charitable/includes/public/charitable-template-functions.php dosyasında 625 numaralı satırda Out of memory (allocated 91226112) (tried to allocate 32768 bytes)
+
+2022-10-23T09:58:35+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/redux-framework/redux-core/inc/classes/class-redux-autoloader.php dosyasında 87 numaralı satırda Out of memory (allocated 93323264) (tried to allocate 40960 bytes)
+
+2022-10-23T09:58:36+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/pomo/mo.php dosyasında 315 numaralı satırda Out of memory (allocated 9437184) (tried to allocate 4096 bytes)
+
+2022-10-23T09:58:46+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/src/Admin/API/ProductReviews.php dosyasında 1 numaralı satırda Out of memory (allocated 116391936) (tried to allocate 32768 bytes)
+
+2022-10-23T09:58:47+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart.asset.php dosyasında 1 numaralı satırda Out of memory (allocated 59768832) (tried to allocate 32768 bytes)
+
+2022-10-23T10:06:47+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/wp-mail-smtp/src/Tasks/Tasks.php dosyasında 1 numaralı satırda Out of memory (allocated 30408704) (tried to allocate 32768 bytes)
+
+2022-10-23T10:06:47+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/elementor/core/app/modules/onboarding/module.php dosyasında 127 numaralı satırda Out of memory (allocated 101711872) (tried to allocate 65536 bytes)
+
+2022-10-23T10:09:35+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/redux-framework/redux-core/inc/classes/class-redux-autoloader.php dosyasında 87 numaralı satırda Out of memory (allocated 42991616) (tried to allocate 40960 bytes)
+
+2022-10-23T10:09:47+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/the-events-calendar/src/Tribe/REST/V1/Documentation/Event_Definition_Provider.php dosyasında 20 numaralı satırda Out of memory (allocated 112197632) (tried to allocate 20480 bytes)
+
+2022-10-23T11:28:22+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/wp-mail-smtp/src/Tasks/Tasks.php dosyasında 1 numaralı satırda Out of memory (allocated 103809024) (tried to allocate 32768 bytes)
+
+2022-10-23T11:28:46+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/litespeed-cache/src/img-optm.cls.php dosyasında 1652 numaralı satırda Out of memory (allocated 51380224) (tried to allocate 32768 bytes)
+
+2022-10-23T11:28:47+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version3/class-wc-rest-product-reviews-controller.php dosyasında 1 numaralı satırda Out of memory (allocated 68157440) (tried to allocate 32768 bytes)
+
+2022-10-23T11:46:12+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/pomo/mo.php dosyasında 315 numaralı satırda Out of memory (allocated 78643200) (tried to allocate 131072 bytes)
+
+2022-10-23T11:46:19+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/src/Admin/API/ProductReviews.php dosyasında 1 numaralı satırda Out of memory (allocated 116391936) (tried to allocate 32768 bytes)
+
+2022-10-23T11:46:19+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php dosyasında 280 numaralı satırda Out of memory (allocated 108003328) (tried to allocate 28672 bytes)
+
+2022-10-23T11:46:19+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/elementor/core/common/modules/finder/template.php dosyasında 1 numaralı satırda Out of memory (allocated 110100480) (tried to allocate 32768 bytes)
+
+2022-10-23T11:46:31+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/charitable/includes/public/charitable-template-functions.php dosyasında 625 numaralı satırda Out of memory (allocated 40894464) (tried to allocate 32768 bytes)
+
+2022-10-23T12:05:04+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/elementor/core/common/modules/connect/apps/base-app.php dosyasında 1 numaralı satırda Out of memory (allocated 110100480) (tried to allocate 32768 bytes)
+
+2022-10-23T12:05:09+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/rest-api/endpoints/class-wp-rest-controller.php dosyasında 402 numaralı satırda Out of memory (allocated 126877696) (tried to allocate 20480 bytes)
+
+2022-10-23T12:06:25+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/Requests/IRI.php dosyasında 1063 numaralı satırda Out of memory (allocated 7340032) (tried to allocate 32768 bytes)
+
+2022-10-23T12:06:25+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/pomo/mo.php dosyasında 323 numaralı satırda Out of memory (allocated 105906176) (tried to allocate 20480 bytes)
+
+2022-10-23T12:06:27+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/Requests/IRI.php dosyasında 1063 numaralı satırda Out of memory (allocated 110100480) (tried to allocate 32768 bytes)
+
+2022-10-23T13:03:40+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/pomo/mo.php dosyasında 323 numaralı satırda Out of memory (allocated 30408704) (tried to allocate 20480 bytes)
+
+2022-10-23T13:03:40+00:00 CRITICAL /home/tiudorg/public_html/wp-includes/functions.php dosyasında 4542 numaralı satırda Out of memory (allocated 59768832) (tried to allocate 20480 bytes)
+
+2022-10-23T13:19:18+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php dosyasında 104 numaralı satırda Uncaught Error: Call to undefined function Loveicon\Helper\Widgets\loveicon_posted_on() in /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php:104
+Stack trace:
+#0 /home/tiudorg/public_html/wp-includes/class-wp-widget.php(393): Loveicon\Helper\Widgets\Loveicon_Recent_Posts->widget(Array, Array)
+#1 /home/tiudorg/public_html/wp-includes/widgets.php(835): WP_Widget->display_callback(Array, Array)
+#2 /home/tiudorg/public_html/wp-content/themes/storefront/sidebar.php(14): dynamic_sidebar('sidebar-1')
+#3 /home/tiudorg/public_html/wp-includes/template.php(770): require_once('/home/tiudorg/p...')
+#4 /home/tiudorg/public_html/wp-includes/template.php(716): load_template('/home/tiudorg/p...', true, Array)
+#5 /home/tiudorg/public_html/wp-includes/general-template.php(136): locate_template(Array, true, true, Array)
+#6 /home/tiudorg/public_html/wp-content/themes/storefront/inc/storefront-template-functions.php(643): get_sidebar()
+#7 /home/tiudorg/public_html/wp-includes/cla
+
+2022-10-23T13:26:22+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php dosyasında 104 numaralı satırda Uncaught Error: Call to undefined function Loveicon\Helper\Widgets\loveicon_posted_on() in /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php:104
+Stack trace:
+#0 /home/tiudorg/public_html/wp-includes/class-wp-widget.php(393): Loveicon\Helper\Widgets\Loveicon_Recent_Posts->widget(Array, Array)
+#1 /home/tiudorg/public_html/wp-includes/widgets.php(835): WP_Widget->display_callback(Array, Array)
+#2 /home/tiudorg/public_html/wp-content/themes/storefront/sidebar.php(14): dynamic_sidebar('sidebar-1')
+#3 /home/tiudorg/public_html/wp-includes/template.php(770): require_once('/home/tiudorg/p...')
+#4 /home/tiudorg/public_html/wp-includes/template.php(716): load_template('/home/tiudorg/p...', true, Array)
+#5 /home/tiudorg/public_html/wp-includes/general-template.php(136): locate_template(Array, true, true, Array)
+#6 /home/tiudorg/public_html/wp-content/themes/storefront/inc/storefront-template-functions.php(643): get_sidebar()
+#7 /home/tiudorg/public_html/wp-includes/cla
+
+2022-10-23T14:32:48+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php dosyasında 104 numaralı satırda Uncaught Error: Call to undefined function Loveicon\Helper\Widgets\loveicon_posted_on() in /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php:104
+Stack trace:
+#0 /home/tiudorg/public_html/wp-includes/class-wp-widget.php(393): Loveicon\Helper\Widgets\Loveicon_Recent_Posts->widget(Array, Array)
+#1 /home/tiudorg/public_html/wp-includes/widgets.php(835): WP_Widget->display_callback(Array, Array)
+#2 /home/tiudorg/public_html/wp-content/plugins/elementor/includes/widgets/sidebar.php(134): dynamic_sidebar('cs-1')
+#3 /home/tiudorg/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2249): Elementor\Widget_Sidebar->render()
+#4 /home/tiudorg/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#5 /home/tiudorg/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#6 /home/tiudorg/public_html/wp-content/plugins/elementor
+
+2022-10-23T14:41:51+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php dosyasında 104 numaralı satırda Uncaught Error: Call to undefined function Loveicon\Helper\Widgets\loveicon_posted_on() in /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php:104
+Stack trace:
+#0 /home/tiudorg/public_html/wp-includes/class-wp-widget.php(393): Loveicon\Helper\Widgets\Loveicon_Recent_Posts->widget(Array, Array)
+#1 /home/tiudorg/public_html/wp-includes/widgets.php(835): WP_Widget->display_callback(Array, Array)
+#2 /home/tiudorg/public_html/wp-content/themes/storefront/sidebar.php(14): dynamic_sidebar('sidebar-1')
+#3 /home/tiudorg/public_html/wp-includes/template.php(770): require_once('/home/tiudorg/p...')
+#4 /home/tiudorg/public_html/wp-includes/template.php(716): load_template('/home/tiudorg/p...', true, Array)
+#5 /home/tiudorg/public_html/wp-includes/general-template.php(136): locate_template(Array, true, true, Array)
+#6 /home/tiudorg/public_html/wp-content/themes/storefront/inc/storefront-template-functions.php(643): get_sidebar()
+#7 /home/tiudorg/public_html/wp-includes/cla
+
+2022-10-23T14:47:21+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php dosyasında 104 numaralı satırda Uncaught Error: Call to undefined function Loveicon\Helper\Widgets\loveicon_posted_on() in /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php:104
+Stack trace:
+#0 /home/tiudorg/public_html/wp-includes/class-wp-widget.php(393): Loveicon\Helper\Widgets\Loveicon_Recent_Posts->widget(Array, Array)
+#1 /home/tiudorg/public_html/wp-includes/widgets.php(835): WP_Widget->display_callback(Array, Array)
+#2 /home/tiudorg/public_html/wp-content/themes/storefront/sidebar.php(14): dynamic_sidebar('sidebar-1')
+#3 /home/tiudorg/public_html/wp-includes/template.php(770): require_once('/home/tiudorg/p...')
+#4 /home/tiudorg/public_html/wp-includes/template.php(716): load_template('/home/tiudorg/p...', true, Array)
+#5 /home/tiudorg/public_html/wp-includes/general-template.php(136): locate_template(Array, true, true, Array)
+#6 /home/tiudorg/public_html/wp-content/themes/storefront/inc/storefront-template-functions.php(643): get_sidebar()
+#7 /home/tiudorg/public_html/wp-includes/cla
+
+2022-10-23T16:05:57+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php dosyasında 104 numaralı satırda Uncaught Error: Call to undefined function Loveicon\Helper\Widgets\loveicon_posted_on() in /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php:104
+Stack trace:
+#0 /home/tiudorg/public_html/wp-includes/class-wp-widget.php(393): Loveicon\Helper\Widgets\Loveicon_Recent_Posts->widget(Array, Array)
+#1 /home/tiudorg/public_html/wp-includes/widgets.php(835): WP_Widget->display_callback(Array, Array)
+#2 /home/tiudorg/public_html/wp-content/themes/storefront/sidebar.php(14): dynamic_sidebar('sidebar-1')
+#3 /home/tiudorg/public_html/wp-includes/template.php(770): require_once('/home/tiudorg/p...')
+#4 /home/tiudorg/public_html/wp-includes/template.php(716): load_template('/home/tiudorg/p...', true, Array)
+#5 /home/tiudorg/public_html/wp-includes/general-template.php(136): locate_template(Array, true, true, Array)
+#6 /home/tiudorg/public_html/wp-content/themes/storefront/inc/storefront-template-functions.php(643): get_sidebar()
+#7 /home/tiudorg/public_html/wp-includes/cla
+
+2022-10-23T16:30:09+00:00 CRITICAL /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php dosyasında 104 numaralı satırda Uncaught Error: Call to undefined function Loveicon\Helper\Widgets\loveicon_posted_on() in /home/tiudorg/public_html/wp-content/plugins/loveicon-core/includes/Widgets/Loveicon_Recent_Posts.php:104
+Stack trace:
+#0 /home/tiudorg/public_html/wp-includes/class-wp-widget.php(393): Loveicon\Helper\Widgets\Loveicon_Recent_Posts->widget(Array, Array)
+#1 /home/tiudorg/public_html/wp-includes/widgets.php(835): WP_Widget->display_callback(Array, Array)
+#2 /home/tiudorg/public_html/wp-content/themes/storefront/sidebar.php(14): dynamic_sidebar('sidebar-1')
+#3 /home/tiudorg/public_html/wp-includes/template.php(770): require_once('/home/tiudorg/p...')
+#4 /home/tiudorg/public_html/wp-includes/template.php(716): load_template('/home/tiudorg/p...', true, Array)
+#5 /home/tiudorg/public_html/wp-includes/general-template.php(136): locate_template(Array, true, true, Array)
+#6 /home/tiudorg/public_html/wp-content/themes/storefront/inc/storefront-template-functions.php(643): get_sidebar()
+#7 /home/tiudorg/public_html/wp-includes/cla
+

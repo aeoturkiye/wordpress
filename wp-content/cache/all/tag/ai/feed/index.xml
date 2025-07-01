@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<atom:link href="https://tiud.org.tr/tag/ai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tiud.org.tr</link>
+	<description>Ticaret Uzmanları Derneği</description>
+	<lastBuildDate>Fri, 28 Jun 2024 21:12:34 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://tiud.org.tr/wp-content/uploads/2021/12/cropped-tiud_logo_icon-32x32.png</url>
+	<title>AI &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<link>https://tiud.org.tr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dünyada Yapay Zekâ Düzenlemeleri</title>
+		<link>https://tiud.org.tr/2023/07/17/dunyada-yapay-zeka-duzenlemeleri/</link>
+		
+		<dc:creator><![CDATA[Yasin Uzun]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 06:04:05 +0000</pubDate>
+				<category><![CDATA[Ticarette Uzman Görüş 63]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Algoritmik Sapma]]></category>
+		<category><![CDATA[İnovasyon]]></category>
+		<category><![CDATA[Veri Gizliliği]]></category>
+		<category><![CDATA[Yapay Zeka]]></category>
+		<category><![CDATA[Yapay Zeka Düzenlemeleri]]></category>
+		<guid isPermaLink="false">https://tiud.org.tr/?p=6410</guid>
+
+					<description><![CDATA[Çalışmada, 2022 yılından itibaren küresel yapay zeka sektörünün büyümesi, istihdam etkisi ve ekonomiye katkısı üzerine bilgiler sunulmuş ve gelecekteki potansiyel etkileri tartışılarak yapay zekanın getirdiği riskler ve düzenlemeye ihtiyaç duyulan alanlar vurgulanmıştır. Algoritmik sapma, şeffaflık eksikliği, veri gizliliği ve güvenliği gibi konular, yapay zekanın sorumluluğu ve etik kullanımı konusunda dikkat çekici problemler olarak ortaya çıkmaktadır. Özel sektör ve kamu tarafından yapılan bazı hatalı uygulamalar, yapay zekanın ayrımcı kararlar alabileceğini ve topluma zarar verebileceğini göstermektedir. Devletlerin yapay zekayı düzenlemesi gerekliliği ve düzenlemelerin dengeli bir şekilde inovasyonu teşvik etmeye ve potansiyel zararları önlemeye yönelik olması ihtiyacı ortaya çıkmaktadır. Örnek olarak, yapay zekanın hayatın farklı alanlarına güçlü bir şekilde girmesi nedeniyle bu konuda öğrencilerin de ödevlerini yapay zeka yardımı olmadan tamamlayabilmeleri için çözümler aranmaktadır. Son olarak, dünya genelinde yapılan yapay zeka düzenlemelerine dair özet bilgilere çalışma kapsamında yer verilmektedir.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>ÖZET</strong></p>
+
+
+
+<p>Çalışmada, 2022 yılından itibaren küresel yapay zeka sektörünün büyümesi, istihdam etkisi ve ekonomiye katkısı üzerine bilgiler sunulmuş ve gelecekteki potansiyel etkileri tartışılarak yapay zekanın getirdiği riskler ve düzenlemeye ihtiyaç duyulan alanlar vurgulanmıştır. Algoritmik sapma, şeffaflık eksikliği, veri gizliliği ve güvenliği gibi konular, yapay zekanın sorumluluğu ve etik kullanımı konusunda dikkat çekici problemler olarak ortaya çıkmaktadır. Özel sektör ve kamu tarafından yapılan bazı hatalı uygulamalar, yapay zekanın ayrımcı kararlar alabileceğini ve topluma zarar verebileceğini göstermektedir. Devletlerin yapay zekayı düzenlemesi gerekliliği ve düzenlemelerin dengeli bir şekilde inovasyonu teşvik etmeye ve potansiyel zararları önlemeye yönelik olması ihtiyacı ortaya çıkmaktadır. Örnek olarak, yapay zekanın hayatın farklı alanlarına güçlü bir şekilde girmesi nedeniyle bu konuda öğrencilerin de ödevlerini yapay zeka yardımı olmadan tamamlayabilmeleri için çözümler aranmaktadır. Son olarak, dünya genelinde yapılan yapay zeka düzenlemelerine dair özet bilgilere çalışma kapsamında yer verilmektedir.</p>
+
+
+
+<p><strong>Anahtar Kelimeler</strong>: AI, yapay zeka, yapay zeka düzenlemeleri, veri gizliliği, algoritmik sapma, inovasyon</p>
+
+
+
+<p><strong>GİRİŞ</strong></p>
+
+
+
+<p>2022 yılı itibariyle küresel yapay zeka sektörünün 136 milyar dolara ulaştığı tahmin edilmektedir. Önümüzdeki 10 yıl içindeyse 13 katlık bir büyüme öngörülmektedir. 2025 yılında 100 milyona yakın kişinin bu alanda istihdam edileceği tahmin edilirken birçok sektör bu teknolojiyi önemli oranda kullanmaya başlamıştır. Gartner’ın araştırmasına göre her üç tıp uzmanından biri teşhise yardımcı olması için bilgisayar sistemlerini kullanmaktadır. Öte yandan, 2025 yılına gelindiğinde online ve telefona çağrı merkezi hizmetlerinin %95’inin yapay zeka teknolojilerini kullanması beklenmektedir.<a href="#_ftn1" id="_ftnref1">[1]</a> PWC’nin raporuna göre 2030 yılına kadar yapay zekanın küresel milli geliri %26 artrması ve yaklaşık 16 trilyon dolarlık bir katkı sağlaması öngörülmektedir.<a href="#_ftn2" id="_ftnref2">[2]</a> UNDP, mevcut yapay zeka önek uygulamalarının halihazırda 17 sosyal gelişme hedefine dokunduğunu ve diyabetin önceden teşhisi gibi uygulamaların 400 milyon diyabet hastanasına yardımcı olabileceğini değerlendirmektedir.<a href="#_ftn3" id="_ftnref3">[3]</a> MIT araştırmacıları yapay zeka kullanarak Halicin isimli uzun bir süredir üretilen en güçlü antibiyotiği ürettiler.<a href="#_ftn4" id="_ftnref4">[4]</a> IPSOS’un geçtiğimiz yıl World Economic Forum için yaptığı bir çalışmaya göre insanların %60’ı yapay zeka tabanlı ürün ve hizmetlerin önümüzdeki 3-5 yıl içerisinde hayatlarını ciddi şekilde etkileyeceğini düşünmektedir. 2022 yılında hayatımıza yeni giren yapay zeka uygulamalarını düşündüğümüzde bu oranın artması bizleri şaşırtmayacaktır.</p>
+
+
+
+<p>Ancak, madalyonun diğer yüzünde yapay zekaya karşı önemli sayılabilecek bir güven sorunu da olduğu muhakkak. Ankete katılan 20 bin kişinin sadece yarısı yapay zekanın getirdiği faydanın neden olduğu zarardan daha fazla olduğunu düşünmektedir. Yine katılımcıların sadece yarısı yapa zeka şirketlerine diğer şirketler kadar güvendiklerini belirtmiştir.<a href="#_ftn5" id="_ftnref5">[5]</a></p>
+
+
+
+<p>Yapay zekanın birçok alanda hayatımızı etkileyeceği muhakkak. Ancak, bugün alınan kararlar, atılan adımlar yapay zekanın gelecekte nasıl şekilleneceğini belirleyecektir. Konu gelişmeye devam eden bir teknoloji olduğunda ne yapılması gerektiğine ilişkin tartışmalar kaçınılmaz. Farklı kamu ve özel sektör kurum ve kuruluşları konuya farklı yaklaşımlar sergilemektedir. Teknolojiyi düzenlemek için atılacak adımların inovasyona zarar vereceğini savunanlarla birlikte yapay zekanın kötü amaçlı kullanıma açık taraflarına odaklanan da ciddi bir kesim bulunmaktadır.</p>
+
+
+
+<p>Sebebi ne olursa olsun son yıllarda kamu otoriteleri bu alana giderek daha fazla odaklanmaktadır. Rekabet gücünü artırmaktan insan odaklı bir yaklaşımla vatandaşlarının zarar görmesini engellemek isteyenlere kadar farklı motiflerle daha fazla politika belgesi ve düzenleme üretildiğine şahit olmaktayız. Gerçekten de yapay zekanın art niyetli kullanımlar bir yana tam olarak anlaşılmadan yanlış kullanımlarının bile önemli etkileri olabildiğini görmekteyiz. Örneğin, İngiltere’de öğrencilerin notlarını hesaplamak için bir algoritma kullanıldığında öğrencilerin %40’ının öğretmenlerinin verdiğinden daha kötü notlar aldığı görülmüştür.<a href="#_ftn6" id="_ftnref6">[6]</a>&nbsp; Başka bir örnekte, Apple’ın kredi kartının kadınlar için daha düşük limitler sunduğu tespit edilmiştir.<a href="#_ftn7" id="_ftnref7">[7]</a>&nbsp;</p>
+
+
+
+<p><strong>YAPAY ZEKANIN YARATTIĞI RİSKLER</strong></p>
+
+
+
+<p>Yapay zekanın düzenlenmesi gerektiğini savunanlar bazı temel noktalarda birleşmektedir. Bunlardan biri algoritmik sapma (algorithmic bias) olarak adlandırılan ve yapay zekanın eğitildiği veri setindeki yanlış varsayım ve sapmalar nedeniyle sistematik bir şekilde belirli gruplara ayrımcı davranmak gibi kararlar alması olarak tanımlayabileceğimiz durumdur. Örneğin, 2019 yılında ABD’de 200 milyondan fazla insan üzerinde hangi hastaların ekstra tıbbi bakıma ihtiyaç duyacağını tahmin etmek için kullanılan bir algoritmanın beyaz hastaları siyah hastalara göre büyük ölçüde tercih ettiği görülmüştür.<a href="#_ftn8" id="_ftnref8">[8]</a> ProPublica’nın raporuna göre algoritmik sapmanın çok daha ciddi sonuçları da olabilmektedir. Örneğin, ABD’de yargıçlar tarafından sanıkların tutuklanması mı yoksa kefaletle serbest bırakılması mı gerektiğini tahmin etmek için kullanılan COMPAS algoritmasının Afrikalı-Amerikalılara karşı önyargılı olduğu bulunmuştur. Söz konusu algoritma çeşitli değişkenler üzerinden sanığın tekrar suç işleme ihtimalini analiz etmekte olup, Yeniden suç işleme olasılığı eşit olan beyazlarla karşılaştırıldığında, Afrikalı-Amerikalılara daha yüksek bir risk puanı verildiği iddia edilmiştir.<a href="#_ftn9" id="_ftnref9">[9]</a> Yine kamu tarafında başka bir örnek ABD’de birçok eyalette suç işlenme ihtimalini hesaplayarak polisleri söz konusu bölgelere yönlendiren PredPol isimli algoritmanın gerçek suç oranlarından ziyade polis tarafından kaydedilen raporlardan öğrendiği için belirli etnik gruplara ayrımcılık yapacak şekilde bir &#8220;geri bildirim döngüsü&#8221; yarattığını göstermiştir.<a href="#_ftn10" id="_ftnref10">[10]</a></p>
+
+
+
+<p>Özel sektör uygulamalarında da benzer ayrımcı kararların alındığı görülmektedir. Örneğin, Amazon 2015 yılında çalışanları işe almak için kullandıkları algoritmanın kadınlara karşı önyargılı olduğunu fark etmiştir. Bunun temel sebebi algoritmayı eğitmek için kullanılan 10 yıllık dönemde başvuran adayların çoğunun erkek olması nedeniyle, algoritmanın erkekleri kadınlara tercih edecek şekilde eğitilmiş olmasıdır.<a href="#_ftn11" id="_ftnref11">[11]</a> Daha detaylı açıklanacak olursa algoritma özgeçmişteki kelimeleri dikkate alarak başvuranların uygunluğunu ağırlıklı olarak erkek mühendislik departmanlarıyla karşılaştırdı ve metinde kadın kelimesi geçmesi ya da kadın kolejlerinden mezun olan adaylar olması durumunda bu özgeçmişlere daha düşük puanlar vermiştir.<a href="#_ftn12" id="_ftnref12">[12]</a></p>
+
+
+
+<p>Şüphesiz yapay zekayla ilgili riskler bununla sınırlı değildir. Diğer önemli bir konu birçok algoritmanın “kapalı kutu” olarak çalışması ve aldığı kararların hangi gerekçelere dayandığının şeffaf bir şekilde ortaya koyamamasıdır. Diğer önemli bir konu ise yapay zeka algoritmalarının başarısının artmasının temel sebeplerinden olan ve 2025 yılında 175 trilyon gigyabayta erişmesi öngörülen küresel verilerin toplanma ve işlenme şekilleridir. Kişisel verilerimizin izinsiz ve art niyetli kullanımına ilişkin haklı olarak artan çekince ve taleplerimiz kaçınılmaz olarak bu alandaki düzenlemeleri tetiklemektedir. Tabi bir de yasal sorumluluk gibi yaklaşmakta olan başka riskler var. Örneğin, 2018 yılında bir otonom araç bir yayayı öldürdüğünde aracın içindeki yedek şöforün dikkatsiz davrandığı ve suçlu olduğu sonucuna varılmıştı.<a href="#_ftn13" id="_ftnref13">[13]</a> Yapay zekanın insan gözetimi olmadan giderek daha çok karar aldığı bir dünyaya doğru giderken burada detaylarına girmeyeceğimiz algoritmik kişilik (algorithmic entity) gibi kavramların hukuk alanında önemli reformlara ihtiyaç duyulacağını göstermektedir.</p>
+
+
+
+<p>Yukarıda sayılan riskler devletlerin bu alandaki düzenleme isteğini artırmaktadır. Bu alandaki düzenlemeler yapay zeka sistemlerinin sorumlu bir şekilde geliştirilmesini ve kullanılmasını sağlamaya yardımcı olabilir ve bazı risklerin azaltılmasına yardımcı olabilir. Hükümetler, yapay zekanın geliştirilmesi ve kullanılması için standartlar belirlemek, veri gizliliği ve güvenliği için yönergeler oluşturmak ve yapay zeka sistemlerinin şeffaf ve hesap verebilir olmasını sağlamak için düzenlemeleri kullanabilir. Öte yandan, aşırı düzenleme inovasyonu engelleyebilir ve yapay zekanın gelişimini ve dağıtımını yavaşlatabilir. Hızla gelişen teknolojiye ayak uyduracak kadar esnek düzenlemeler oluşturmak da zor olabilir. Genel olarak, inovasyonu teşvik etmekle toplumu potansiyel zararlardan korumak arasında bir denge kurmak önemlidir.</p>
+
+
+
+<p>Yukarıdaki paragrafın ChatGPT’ye sorduğum “Sence devlet yapay zekayı düzenlemeli mi?” sorusunun cevabı olduğu ve birçok ülkede öğrencilerin ödevlerini yapay zeka yardımı olmadan yaptıklarını tespit etmek için uygulamalar aradıkları düşünüldüğünde yapay zekanın hayatın her alanına ne denlü güçlü bir şekilde girmeye başladığını daha iyi anlayabiliriz bence. Aşağıda Ocak 2023 itibariyle dünyada seçili ülkelerdeki yapay zeka düzenlemeleri özetlenmektedir.</p>
+
+
+
+<p><strong>DÜNYADA YAPAY ZEKA POLİTİKALARI VE DÜZENLEMELERİ</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ABD</strong></li>
+</ul>
+
+
+
+<p>ABD’de eyaletler bazında farklı düzenlemeler bulunmakla birlikte ulusal düzeyde henüz yapay zekayla ilgili adımları atacak yapıları oluşturmaya odaklanmaktadır.<a href="#_ftn14" id="_ftnref14">[14]</a> Ocak 2021’de yürürlüğe giren Ulusal Yapay Zeka Girişimi Yasası<a href="#_ftn15" id="_ftnref15">[15]</a> federal hükümet ve ulusal bir ağı içeren bir networkun yapay zeka araştırma ve politikalarını koordine etmek için bir çerçeve çizmektedir.<a href="#_ftn16" id="_ftnref16">[16]</a> Söz konusu yasa, yapay zeka alanında arge çalışmaları ve yatırımların artırılması, veri ve işletim gücüne erişimi geliştirecek altyapı çalışmalarının gerçekleştirilmesi, bu alandaki işgücü kalite ve nüfusunun artırılması, ulusal işbirliklerinin geliştirilmesi ve güvenilir yapay zeka için standartlar ve politikaların oluşturulmasına dayanmaktadır.<a href="#_ftn17" id="_ftnref17">[17]</a> Söz konusu yasa bu amaçlar doğrultusunda çalışacak ofis ve görev güçlerini belirtmektedir. İlk olarak Ocak 2021’de Ulusal Yapay Zeka Girişimi Ofisi kurularak yasayla ilgili çalışmaları koordine etmekle görevlendirilmiştir. Temmuz 2021’de kurulan Ulusal Yapay Zeka (AI) Araştırma Kaynak Görev Gücü ise yapay zeka alanında ulusal bir inovasyon kapasitesi için kritik kaynaklara ve eğitim araçlarına erişimi genişletmek için yol haritasını hazırlamakla görevlendirilmiştir.<a href="#_ftn18" id="_ftnref18">[18]</a> Nisan 2022’de kurulan Ulusal Yapay Zeka Danışma Komitesinin görevi Başkan&#8217;a ve Ulusal Yapay Zeka Girişimi Ofisine bu yasanın amaçları kapsamında danışmanlık yapmaktır.<a href="#_ftn19" id="_ftnref19">[19]</a> ABD örneğinde birçok kamu kurumunun bu alanda yürütülen çalışmalarda koordineli çalışmasının amaçlandığı görülmektedir. Nitekim, Bilim ve Teknoloji Politikası Ofisi (OSTP), Ulusal Bilim ve Teknoloji Konseyi, Enerji Bakanlığı (DOE), Ulusal Bilim Vakfı (NSF) ve Ulusal Standartlar ve Teknoloji Enstitüsü (NIST )gibi kurumlara doğrudan görevler verilirken birçok kurum ile koordine halinde bulunulması öngörülmüştür.<a href="#_ftn20" id="_ftnref20">[20]</a></p>
+
+
+
+<p>Öte yandan, bu alanda ciddi etkileri olabileceği değerlendirilen Algoritmik Sorumluluk Yasası<a href="#_ftn21" id="_ftnref21">[21]</a>, ilk kez 2019’da hazırlanmış ve değişikliklerle 2022’de tekrar suınulmuştur. Söz konusu yasa, mevcut haliyle yıllık cirosu 50 milyon doların ya da kontrol ettiği kişisel bilgi sayısı 1 milyonun üzerinde olan firmaları regüle edecektir. Yasa, şirketlerin verilen toplanmasından geliştirme sürecine yapay zeka sürecinin tamamına ilişkin değerlendirmeler yapmalarını zorunlu kılmaktadır.<a href="#_ftn22" id="_ftnref22">[22]</a></p>
+
+
+
+<p>ABD’de bekleyen önemli diğer bir düzenleme Yapay Zekanın Geleceği Yasası’dır.<a href="#_ftn23" id="_ftnref23">[23]</a> Söz konusu yasa bir yandan yapay zekanın toplumsal etkilerini yönetmek ve güvenilir yapay zeka uygulamaları desteklemek bir yandan da ABD’nin bu alandaki rekabetçiliğini artırmak ve uygun bir yatırım ortamı hazırlamak gibi amaçlara sahiptir.<a href="#_ftn24" id="_ftnref24">[24]</a> Benzer şekilde Kasım 2022’de Yapay Zeka Haklar Beyannamesi<a href="#_ftn25" id="_ftnref25">[25]</a> Beyaz Saray Bilim ve Teknoloji Politikası Ofisi (OSTP) tarafından kamuyoyula paylaşılmış olup, şeffaf ve güvenilir otonom kararların alınabilmesine ilişkin temel prensipler, kaynaklar ve en iyi uygulamaları içeren bir çerçeve çizmektedir.<a href="#_ftn26" id="_ftnref26">[26]</a></p>
+
+
+
+<p>Federal seviyede Federal Ticaret Komisyonu (FTC) ve NIST yapay zeka kullanımına ilişkin çeşitli prensipler yayınlamış olup, FTC yeni mevzuat çalışmalarını tamamlamadan da mevcut yetkileri çerçevesinde yapay zekaya ilişkin bazı düzenlemeleri yürürlüğe koymuştur.<a href="#_ftn27" id="_ftnref27">[27]</a></p>
+
+
+
+<p>Federal seviyede yürüyen çalışmaların yanı sıra eyalet bazında ve sektör özelinde de birçok yapay zeka düzenlemesi bulunmaktadır. Bunların arasında 2017’de New York Algoritma İzleme Görev Gücü&#8217;nü<a href="#_ftn28" id="_ftnref28">[28]</a> kuran algoritmik sorumluluk yasası, 2018’de Kaliforniya’da hazırlanan 23 maddelik yapay zeka prensipleri ve kişisel verilen kullanımına ilişkin çıkarılan Kaliforniya Tüketici Gizliliği Yasası, 2018’de Vermont ve Washington’da kurulan yapay zeka görev güçleri ve yüz tanıma gibi daha özel alanlarda San Francisco ve Massachusetts gibi eyaletlerde getirilen yasaklar sayılabilmektedir.<a href="#_ftn29" id="_ftnref29">[29]</a> Sektörel ve konu bazlı uygulamalar incelendiğinde ön plana çıkan alanlardan birisi işe alım süreçleridir. New York’ta istihdam süreçlerinde kullanılan araçlara ilişkin yasanın 2023’te çıkması beklenirken<a href="#_ftn30" id="_ftnref30">[30]</a> Adalet Bakanlığı bu alandaki prensipleri yayınlamıştır.<a href="#_ftn31" id="_ftnref31">[31]</a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Çin</strong></li>
+</ul>
+
+
+
+<p>Çin’de yapay zeka politikaları 2017 yılında yayımlanan ulusal stratejisi sonrasında hızlanmakla birlikte Çin Yapay Zeka Derneği<a href="#_ftn32" id="_ftnref32">[32]</a>, 1981 yılında Sivil İşler Bakanalığı altında kurulmuştur. 2000 yılından sonra Bilim ve Teknoloji Bakanlığı başta olmak üzere birçok ulusal ve yerel kurum bu alandaki desteklerini artırmıştır. 2017 yılını özel kılan, yapay zeka ve robotik alanlarına yapılan vurgunun iyice belirginleşmesi ve yapay zekada 2030 yılı itibariyle dünya liderliğini amaçlayan iddialı bir plan hazırlanmasıdır.<a href="#_ftn33" id="_ftnref33">[33]</a> Yapay zekayla alanındaki bu kırılmanın 2016’de Google’ın DeepMind algoritmasının Güney Koreli rakibini AlphaGo oyununda yenmesiyle ilgili olduğunu belirten birçok kaynak da bulunmaktadır.<a href="#_ftn34" id="_ftnref34">[34]</a></p>
+
+
+
+<p>Çin’de ulusal düzeyde bir yapay zeka düzenlemesi henüz hazırlanmamış olmakla birlikte, 2021-2025 dönemini kapsayan 14. Kalkınma planı içerisinde bu konuda hedefler bulunmaktadır.<a href="#_ftn35" id="_ftnref35">[35]</a> Öte yandan, birçok kamu kurumu yayınladıkları tavsiye metinleri yayınlamıştır. 2018 yılında Çin Elektrik Standartları Enstitüsü’nün “Yapay Zeka Standartları Belgesi”, 2019 yılında “Platform Ekonomisini Teşvik Etmek” başlıklı prensipler, 2019 yılında Pekin Yapay Zeka Akademisi’nin&nbsp; “Pekin Yapay Zeka Presnsipleri” başta olmak üzere birçok dokümandan söz edilebilmektedir.<a href="#_ftn36" id="_ftnref36">[36]</a> Çin Bilgi ve İletişim Teknolojileri Akademisi (CAICT)<a href="#_ftn37" id="_ftnref37">[37]</a> ile Bilim ve Sanayi Bakanlığı güvenilir yapay zeka ve etik üzerinde 2018, 2021 ve 2022 yıllarında çeşitli rehberler hazırlamıştır.<a href="#_ftn38" id="_ftnref38">[38]</a> Bilim ve Sanayi Bakanlığı tarafından 2019 yılından beri kurulan birçok Yapay Zeka Pilot Bölgeleri ise özel sektörü teşvik etmenin yanı sıra yerel yönetimlere mevzuat ve kurumsal mekanizmalar anlamında çeşitli özgürlükler tanıması açısından da önemlidir.<a href="#_ftn39" id="_ftnref39">[39]</a></p>
+
+
+
+<p>Yapay zekayla ilgili en somut düzenleme Mart 2022’de Çin Siber Uzay İdaresi tarafından yürürlüğe giren “İnternet Bilgi Hizmeti Algoritması Öneri Yönetimi Yönetmelikleri” olup, söz konusu yönetmelikle kullanıcılara yapay zeka algoritmalarıyla bir tavsiyede bulunulduğunda şirketlerin bunu kullanacılara açık bir şekilde belirtmeleri ve kullanıcılara hedeflenmekten çıkma (opt-out) imkanı getirmiştir.<a href="#_ftn40" id="_ftnref40">[40]</a> Ayrıca, henüz yürürlüğe girmemiş olmakla birlikte, taslak Yol Trafiği Güvenliği yasasında otonom araçlara ilişkin hükümler yer almaktadır.<a href="#_ftn41" id="_ftnref41">[41]</a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>AB</strong></li>
+</ul>
+
+
+
+<p>Avrupa Birliği, geniş kapsamlı bir yapay zeka düzenlemesi hazırlayan ilk önemli oyuncu olmuştur. 2018 yılında somut bir şekil alan çalışmalar Nisan 2021’de hazırlanan ilk yasal düzenlemeyi meydan getirmiştir.</p>
+
+
+
+<p>AB’nin yapay zekaya yaklaşımı birçok ülkeye benzer şekilde hem bu alandaki rekabetçiliği desteklemeyi hem de yapay zeka uygulamalarının insan odaklı ve güvenilir olmasını içermektedir.<a href="#_ftn42" id="_ftnref42">[42]</a> 2018 yılında Yapay Zeka Uzman Grubu ve Avrupa Yapay Zeka İttifakı kurularak bu alanda yapılacak çalışmaların geniş bir koordinasyon içerisinde yürütülmesi amaçlanmıştır. Seçilen uzmanların çalışmaları ve gerçekleştirilen birçok görüşme sonrasında güvenilir yapay zeka için etik tavsiyeler ve güvenilir yapay zeka için politika ve yatırım tavsiyeleri gibi<a href="#_ftn43" id="_ftnref43">[43]</a> ilk dokümanlar oluşmaya başlamıştır. Aralık 2018’de Yapay Zeka Alanında Koordineli Plan bu alanda ortak yatırımların artırılması, önemli bir girdi olan veriye ilişkin işbirliği yapılması, gerekli insan kaynağının yetiştirilmesi ve etik standartların geliştirilmesi gibi amaçlar için bir yol haritası niteliğindedir.<a href="#_ftn44" id="_ftnref44">[44]</a> 2020 yılında Komisyon ilk beyaz kitabını yayınlamıştır. Söz konusu belge “mükemmeliyet ekosistemi” ve “güven ekosistemi” başlıkları altında hem rekabetçilik hem de yasal düzenlemelere ilişkin prensiplerini paylaşmıştır.<a href="#_ftn45" id="_ftnref45">[45]</a></p>
+
+
+
+<p>Nisan 2021’e gelindiğinde ise Komisyon tarafından ilk taslak yapay zeka düzenlemesi yayınlanmıştır. Avrupa Konseyi, taslak ile ilgili ortak tutumunu 6 Aralık 2022’de açıklamıştır.<a href="#_ftn46" id="_ftnref46">[46]</a> Parlamento tarafında oylamanın Mart 2023’te gerçekleştirilmesi planlanmaktadır. Parlamentonun onay vermesinin ardından Üçleme (Trilogue)<a href="#_ftn47" id="_ftnref47">[47]</a> isimli gayri resmi müzakere sürecinin Nisan ayında başlaması öngörülmektedir.<a href="#_ftn48" id="_ftnref48">[48]</a></p>
+
+
+
+<p>Taslak kanun, risk bazlı bir yaklaşım benimsemekte olup, “minimum ya da risksiz” den “kabul edilemez riske” kadar 4 farklı risk seviyesi tanımlamaktadır. İnsanların sağlık, güvenlik ya da haklarına ilişkin risk yaratan uygumalar kabul edilemez olarak tanımlanmakta olup,&nbsp; bu tür uygulamalar yasaklanmaktadır. Örnek olarak, kamu otoriteleri tarafından sosyal puanlama amaçlı sistemler, gerçek zamanlı yüz tanıma sistemleri gibi uygulamalar verilmektedir. Yüksek risk barındıran uygulamalar ise (kritik önemdeki altyapıların güvenliğini yöneten sistemler, işe alım, terfi ve işten çıkarma kararı veren sistemler vb. ) piyasaya sürülmeden önce izne tabi tutulacaktır. Limitli risk grubundaki uygulamalar belirli şeffaflık kriterlerini yerine getirecektir. Örneğin, kullanıcılara yapay zeka tabanlı bir chatbot ile iletişim oldukları bilgisi verilmelidir. En düşük risk grubunda ise herhangi bir aksiyon alınmasına gerek olmayıp, yapay zekalı video oyunları ya da spam filtreleri bu gruba dahil edilmiştir.<a href="#_ftn49" id="_ftnref49">[49]</a></p>
+
+
+
+<p>Söz konusu kanun AB’nin yapay zeka alanında yürürlüğe koyacağı en kapsamlı düzenleme olacaktır. Bununla birlikte, yürürlükte olan Genel Veri Koruma Yönetmeliği (GDPR)’in bazı temel prensipleri yapay zeka tabanlı uygulamalar için çeşitli yükümlülükler doğurmaktadır. Örneğin, şeffaflık prensibi gereği yapay zekayla işlenen verilere ilişkin kullanıcılara bilgi verilmesi ve izin alınması gerekmektedir. Ayrıca, alınan kararların açıklanabilir olması da gerekmektedir.<a href="#_ftn50" id="_ftnref50">[50]</a> Özellikle 22. Madde açıkça otomatik karar alma mekanizmalarına ilişkin kurallar içermektedir.<a href="#_ftn51" id="_ftnref51">[51]</a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>İngiltere</strong></li>
+</ul>
+
+
+
+<p>10 yıllık Ulusal Yapay Zeka Planını açıklayan İngiltere’de henüz bir yasal düzenleme bulunmamaktadır. Bununla birlikte, İngiltere gerek konu bazlı yaptığı dar kapsamlı düzenlemeler gerekse yayımladığı dokümanlarla bu alanda aktif bir duruş sergilemektedir. Örneğin, Verinin Korunması Yasası, otonom karar mekanizmalarına ve verilerin işlenmesine dair somut maddeler içermektedir. Benzer şekilde, hazırlanmakta olan Sanal Güvenlik Yasası da algoritmaların tasarım ve kullanımına dair düzenlemeler getirmektedir. İlaç ve Sağlık Ürünleri Düzenleyici Kurumu ve Bilgi Komiserlik Ofisi (ICO) gibi kurumlar kendi alanlarına ilişki çeşitli prensip ve programlar yayımlamıştır.<a href="#_ftn52" id="_ftnref52">[52]</a></p>
+
+
+
+<p>Kamuda oluşturulan en somut yapı iki farklı bakanlığın ortak kurduğu Yapay Zeka Ofisi olup, hazırlanan Ulusal Yapay Zeka planının işleyişinden sorumludur.<a href="#_ftn53" id="_ftnref53">[53]</a> 2021 sonrasında hazırlanan Yapay Zeka Yol Haritası, oluşturulan Yapay Zeka Konseyi gibi yapılar bu alandaki çalışmaları canlı tutmaktadır.<a href="#_ftn54" id="_ftnref54">[54]</a></p>
+
+
+
+<p>Temmuz 2022 yılında yayımlanan politika çerçeve belgesinde yapay zeka alanında yapılacak yasal düzenlemelere ilişkin esaslar açıklanmıştır. Söz konusu çerçevenin en önemli özelliklerinden birisi AB’nin aksine sektörler üstü bir düzenleme öngörmemesidir. Her alanda mevcut düzenleyici kurumların kendi alanlarındaki tecrübelerini yapay zekayla ilgili düzenlemelere de aktaracakları öngörülmüştür. Öte yandan, regülatörlerin risk bazlı bir değerlendirme yapmaları istenirken kullanımı yasaklanan uygulamalar yer almamaktadır.<a href="#_ftn55" id="_ftnref55">[55]</a> Çerçeve dokümanın odaklandığı temel konular uygulamaların adil, güvenli, açıklanabilir ve şeffaf olması ve belirli gerçek kişilerin sorumluluk almaları gibi konulardır.<a href="#_ftn56" id="_ftnref56">[56]</a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Singapur</strong></li>
+</ul>
+
+
+
+<p>Singapur’da da genel bir yapay zeka düzenlemesi bulunmamaktadır. Kişisel Verilerin Korunması Kurumu (PDPA) 2019 yılında yayımladığı Model Yapay Zeka Yönetim Çerçevesi ile özel sektöre bu konuda tavsiye niteliğinde prensipler açıklamıştır. 2020 yılında ise bu belgenin ikinci versiyonu yayımlanmıştır. 2022 yılında PDPA ile Infocomm Medya Geliştirme Kurumu (IMDA) ile birlikte oluşturdukları platform üzerinden şirketlerin kendi değerlendirmeleri yapabilmelerine imkan sağlamıştır.<a href="#_ftn57" id="_ftnref57">[57]</a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Kanada</strong></li>
+</ul>
+
+
+
+<p>Kanada, AB’de olduğu gibi geniş bir kapsamlı bir düzenleme üzerinde çalışmaktadır. Bill C-27 olarak da bilinen Şart Uygulama Yasası, 2022<a href="#_ftn58" id="_ftnref58">[58]</a> altında yer alan üç kanundan birisi Yapay Zeka ve Veri Yasası (AIDA)’dır. Bu üçlü yasayla kişisel verilerin ve tüketicilerin korunması ve yapay zeka konusu bir çerçeve içerisinde birlikte ele alınmaktadır.<a href="#_ftn59" id="_ftnref59">[59]</a> Kanunun parlamentodaki yasalaşma süreci devam etmektedir. AIDA, yapay zeka sistemlerinin tasarımı ve oluşturulması sırasında verilerin nasıl kullanılabileceğine dair anonimleştirme vb kısıt ve kural getirmektedir. AB örneğinde olduğu gibi bir yapay zeka sistemleri önem ve etkilerine göre bir sınıflandırmaya tabi tutulmakta olup, “yüksek etkili” sistemler için sistem detaylarının kamuoyuyla paylaşılması ve risk değerlendirmesi yapılması gibi ek yükümlülükler tanımlanmaktadır.<a href="#_ftn60" id="_ftnref60">[60]</a> AIDA kapsamında İnovasyon, Bilim ve Sanayi Bakanlığı altında Yapay Zeka ve Veri Komiseri pozisyonu da yaratılmakta olup, şirketlerin yasaya uyumundan diğer düzenleyicilerle ilişkilere kadar farklı alanlarda Bakanlığa yardımcı olması amaçlanmaktadır.<a href="#_ftn61" id="_ftnref61">[61]</a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Avustralya</strong></li>
+</ul>
+
+
+
+<p>Haziran 2021’de aksiyon planını açıklayan Avustralya’da yapay zeka düzenlemeleri konusunda gönüllülük esaslı prensipler belirlenmesi üzerinden yürüyen yumuşak bir yaklaşım bulunmaktadır. Sanayi, Bilim, Enerji ve Kaynaklar Bakamlığı, yapay zeka alanında koordinasyonu sağlayan temek kurum olarak Yapay Zeka Etik Prensiplerini yayımlamıştır.<a href="#_ftn62" id="_ftnref62">[62]</a></p>
+
+
+
+<p><strong>GENEL DEĞERLENDİRME</strong></p>
+
+
+
+<p>Seçilen ülkelerin yapay zeka konusuna yaklaşımlarında ortak noktalardan birisi rekabetçilik ve vatandaşların korunması şeklindeki iki temel amaca odaklanmalarıdır. Bu doğrultuda, oluşturulan ulusal stratejiler ve yol haritaları kurumsal yapının oluşturulması ve özel sektörün teşviki için mekanizmalar içerirken, hazırlanan dar ya da geniş kapsamlı düzenleme ve tavsiye niteliğindeki raporlar şeffaf, güvenli ve açıklanabilir yapay zeka uygulamaları için yükümlülük ve prensipler ortaya koymaktadır. Diğer bir ortak nokta olarak, bu makalede detayına girilmemiş olmakla birlikte, yapay zekaya ilişkin bir çok düzenlemenin önce verilerin korunması amaçlı mevzuat içerisinde yer almasıdır. Bu nedenle, doğrudan yapay zeka düzenlemesi olmayan birçok ülkede verilerin toplanması ve kullanılmasına ilişkin kurallar içerisinde otonom karar vericileri etkileyen maddeler yer almaktadır. Yine ayrı bir makale konusu olan, düzenleyici kum havuzları<a href="#_ftn63" id="_ftnref63">[63]</a> kullanımının da giderek yaygınlaştığı görülmektedir.</p>
+
+
+
+<p>Düzenlemelerin kapsamına ilişkin bir karşılaştırma yapıldığında, AB’deki Yapay Zeka Yasası, ABD’deki Algoritmik Sorumluluk Yasası ve Kanada’daki AIDA’nın yapay zekaya ilişkin yatay ve geniş kurallar içerdiği görülmekle birlikte, söz konusu taslak mevzuatlar henüz yasalaşmamıştır. İngiltere, Çin, Singapur ve Avustrayla örnekleri daha yumuşak prensip ve tavsiye kararlarının hazırlandığı ve düzenlemelerin sektör bazlı yapıldığı uygulamalardır.</p>
+
+
+
+<p>2023 yılında AB’deki Yapay Zeka Yasası’nın son haline gelmesi ve 2024 yılında yürürlüğe girmesi ihtimali Brüksel Etkisi’yle diğer bazı ülkelerde de benzer düzenlemeleri de olası kılmaktadır. Ayrıca, ABD ve Çin gibi ülkelerde de uluslararası rekabetçiliğin ön plana çıkmasının bir süre de bu alandaki düzenlemelerin ağırdan alınmasına sebep olabileceği değerlendirilmektedir.</p>
+
+
+
+<p>Yapay zeka gibi küresel etkileri olan bir konuda uluslararası koordinasyon ve işbirliklerinin arttığı görülmektedir. Nitekim, birçok OECD tarafından oluşturulan prensipleri İngiltere örneğinde olduğu gibi kendi mevzuatları açısından yol gösterici olarak görmektedir. Benzer şekilde, ilk olarak 2018 yılındaki G8 zirvesinde açıklanan Yapay Zeka Küresel İşbirliği girişiminin 15 üyesi bulunmakta olup, bu çatı altında alınacak kararların ulusal stratejileri etkilemesi de kaçınılmazdır.</p>
+
+
+
+<p>Son olarak, bu makale ülkelerin düzenlemelerine odaklanmış olup, yapay zeka konusunda rekabet gücü farklı bir çalışmanın konusudur.</p>
+
+
+
+<p><strong>KAYNAKÇA</strong></p>
+
+
+
+<p><em>5 charts that show what people around the world think about ai</em> (no date) <em>World Economic Forum</em>. Available at: <a href="https://www.weforum.org/agenda/2022/01/artificial-intelligence-ai-technology-trust-survey/" target="_blank" rel="noreferrer noopener">https://www.weforum.org/agenda/2022/01/artificial-intelligence-ai-technology-trust-survey/ </a>(Accessed: January 27, 2023).</p>
+
+
+
+<p>Anne Trafton | MIT News Office (no date) <em>Artificial intelligence yields new antibiotic</em>, <em>MIT News | Massachusetts Institute of Technology</em>. Available at: <a href="https://news.mit.edu/2020/artificial-intelligence-identifies-new-antibiotic-0220" target="_blank" rel="noreferrer noopener">https://news.mit.edu/2020/artificial-intelligence-identifies-new-antibiotic-0220</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p>“AI Regulation: Where Do China, the EU, and the U.S. Stand Today?: Foley &amp; Lardner LLP.” <em>Blogs | Innovative Technology Insights | Foley &amp; Lardner LLP</em>, <a href="https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today" target="_blank" rel="noreferrer noopener">https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today</a>.</p>
+
+
+
+<p>“Artificial Intelligence Act: Council Calls for Promoting Safe AI That Respects Fundamental Rights.” <em>Council of the EU</em>, Council of the EU, 6 Dec. 2022, <a href="https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/?utm_source=dsms-auto&amp;utm_medium=email&amp;utm_campaign=Artificial%2BIntelligence%2BAct%3A%2BCouncil%2Bcalls%2Bfor%2Bpromoting%2Bsafe%2BAI%2Bthat%2Brespects%2Bfundamental%2Brights" target="_blank" rel="noreferrer noopener">https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/?utm_source=dsms-auto&amp;utm_medium=email&amp;utm_campaign=Artificial%2BIntelligence%2BAct%3A%2BCouncil%2Bcalls%2Bfor%2Bpromoting%2Bsafe%2BAI%2Bthat%2Brespects%2Bfundamental%2Brights</a></p>
+
+
+
+<p>“Artificial Intelligence Work Group Project Australia.” <em>Artificial Intelligence Work Group Project Australia | G+T</em>, <a href="https://www.gtlaw.com.au/knowledge/artificial-intelligence-work-group-project-australia" target="_blank" rel="noreferrer noopener">https://www.gtlaw.com.au/knowledge/artificial-intelligence-work-group-project-australia</a>.</p>
+
+
+
+<p>Adams, R. and Weale, S. (2020) <em>A-level results: Almost 40% of teacher assessments in England downgraded</em>, <em>The Guardian</em>. Guardian News and Media. Available at: <a href="https://www.theguardian.com/education/2020/aug/13/almost-40-of-english-students-have-a-level-results-downgraded" target="_blank" rel="noreferrer noopener">https://www.theguardian.com/education/2020/aug/13/almost-40-of-english-students-have-a-level-results-downgraded</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><em>Apple&#8217;s &#8216;sexist&#8217; credit card investigated by US Regulator</em> (2019) <em>BBC News</em>. BBC. Available at: <a href="https://www.bbc.com/news/business-50365609" target="_blank" rel="noreferrer noopener">https://www.bbc.com/news/business-50365609</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p>Canada, Government of. “Bill C-27 Summary: Digital Charter Implementation Act, 2022.” <em>Government of Canada</em>, 18 Aug. 2022, <a href="https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter/bill-summary-digital-charter-implementation-act-2020" target="_blank" rel="noreferrer noopener">https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter/bill-summary-digital-charter-implementation-act-2020</a>.</p>
+
+
+
+<p>Cossins, D. (2018) <em>Discriminating algorithms: 5 times AI showed prejudice</em>, <em>New Scientist</em>. New Scientist. Available at: <a href="https://www.newscientist.com/article/2166207-discriminating-algorithms-5-times-ai-showed-prejudice/" target="_blank" rel="noreferrer noopener">https://www.newscientist.com/article/2166207-discriminating-algorithms-5-times-ai-showed-prejudice/</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p>“Establishing a pro-Innovation Approach to Regulating AI.” <em>GOV.UK</em>, <a href="https://www.gov.uk/government/publications/establishing-a-pro-innovation-approach-to-regulating-ai/establishing-a-pro-innovation-approach-to-regulating-ai-policy-statement." target="_blank" rel="noreferrer noopener">https://www.gov.uk/government/publications/establishing-a-pro-innovation-approach-to-regulating-ai/establishing-a-pro-innovation-approach-to-regulating-ai-policy-statement.</a></p>
+
+
+
+<p>Freda. “Privacy Reform Is on the Table Once More: Canada Introduces the Digital Charter Implementation Act, 2022.” <em>McMillan LLP</em>, 23 June 2022, <a href="https://mcmillan.ca/insights/privacy-reform-is-on-the-table-once-more-canada-introduces-the-digital-charter-implementation-act-2022/." target="_blank" rel="noreferrer noopener">https://mcmillan.ca/insights/privacy-reform-is-on-the-table-once-more-canada-introduces-the-digital-charter-implementation-act-2022/.</a></p>
+
+
+
+<p>“GDPR and AI: Friends, Foes or Something in between?” <em>SAS</em>, <a href="https://www.sas.com/en_us/insights/articles/data-management/gdpr-and-ai--friends--foes-or-something-in-between-.html." target="_blank" rel="noreferrer noopener">https://www.sas.com/en_us/insights/articles/data-management/gdpr-and-ai&#8211;friends&#8211;foes-or-something-in-between-.html.</a></p>
+
+
+
+<p>“Government Proposals for UK AI Regulation.” <em>The UK&#8217;s Technology Trade Association</em>, <a href="https://www.techuk.org/resource/government-proposals-for-uk-ai-regulation.html" target="_blank" rel="noreferrer noopener">https://www.techuk.org/resource/government-proposals-for-uk-ai-regulation.html</a>.</p>
+
+
+
+<p>“High-Level Expert Group on Artificial Intelligence.” <em>Shaping Europe&#8217;s Digital Future</em>, <a href="https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai." target="_blank" rel="noreferrer noopener">https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai.</a></p>
+
+
+
+<p><em>H.R.6216 &#8211; 116th Congress (2019-2020): National Artificial Intelligence &#8230;</em> <a href="https://www.congress.gov/bill/116th-congress/house-bill/6216." target="_blank" rel="noreferrer noopener">https://www.congress.gov/bill/116th-congress/house-bill/6216.</a></p>
+
+
+
+<p>Howell, C.T. (2022) <em>Ai regulation: Where do china, the EU, and the U.S. stand today?: Foley &amp; Lardner LLP</em>, <em>Blogs | Innovative Technology Insights | Foley &amp; Lardner LLP</em>. Available at: <a href="https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today" target="_blank" rel="noreferrer noopener">https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today </a>(Accessed: February 1, 2023).</p>
+
+
+
+<p>Howarth, J. (2023) <em>57+ amazing artificial intelligence statistics (2023)</em>, <em>Exploding Topics</em>. Exploding Topics. Available at: <a href="https://cutt.ly/W9WaBmK" target="_blank" rel="noreferrer noopener">https://cutt.ly/W9WaBmK</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p>Korobeev et al. (2022) Global atlas of AI Regulation 2022 Edition: Oriental Vector, Publishing House of the Far Eastern Federal University, 2022</p>
+
+
+
+<p>LaCasse, Alex. “Canada Introduces New Federal Privacy and AI Legislation.” <em>IAPP</em>, International Association of Privacy Professionals, 16 June 2022, <a href="https://iapp.org/news/a/canada-introduces-new-federal-privacy-and-ai-legislation/." target="_blank" rel="noreferrer noopener">https://iapp.org/news/a/canada-introduces-new-federal-privacy-and-ai-legislation/.</a></p>
+
+
+
+<p>Lee, N.T., Resnick, P. and Barton, G. (2022) <em>Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms</em>, <em>Brookings</em>. Brookings. Available at: <a href="https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/" target="_blank" rel="noreferrer noopener">https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p>“Member States and Commission to Work Together to Boost Artificial Intelligence ‘Made in Europe.’” <em>European Commission &#8211; European Commission</em>, European Commission, <a href="https://ec.europa.eu/commission/presscorner/detail/en/IP_18_6689" target="_blank" rel="noreferrer noopener">https://ec.europa.eu/commission/presscorner/detail/en/IP_18_6689</a>.</p>
+
+
+
+<p>McKeown, P. (2021) <em>What are the risks of Artificial Intelligence?</em>, <em>AuditBoard</em>. Available at: <a href="https://www.auditboard.com/blog/what-are-risks-artificial-intelligence/" target="_blank" rel="noreferrer noopener">https://www.auditboard.com/blog/what-are-risks-artificial-intelligence/</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p>Michael Chui Partner, Rita Chung Fellow and Ashley van Heteren Expert Associate Principal and leader of McKinsey Global Institute&#8217;s Nobel Intelligence venture (2019) <em>Using AI to help Achieve Sustainable Development Goals: United Nations Development Programme</em>, <em>UNDP</em>. Available at: <a href="https://cutt.ly/H9WaJLE" target="_blank" rel="noreferrer noopener">https://cutt.ly/H9WaJLE</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><em>National Artificial Intelligence Initiative Becomes Law in FY2021 NDAA</em> (no date) <em>ASME</em>. Available at: <a href="https://www.asme.org/government-relations/capitol-update/national-artificial-intelligence-initiative-becomes-law-in-fy2021-ndaa" target="_blank" rel="noreferrer noopener">https://www.asme.org/government-relations/capitol-update/national-artificial-intelligence-initiative-becomes-law-in-fy2021-ndaa</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p>“The National AI Advisory Committee (NAIAC).” <em>National Artificial Intelligence Initiative</em>, 30 Jan. 2023, <a href="https://www.ai.gov/naiac/" target="_blank" rel="noreferrer noopener">https://www.ai.gov/naiac/</a>.</p>
+
+
+
+<p>“Office for Artificial Intelligence.” <em>GOV.UK</em>, <a href="https://www.gov.uk/government/organisations/office-for-artificial-intelligence" target="_blank" rel="noreferrer noopener">https://www.gov.uk/government/organisations/office-for-artificial-intelligence</a>.</p>
+
+
+
+<p>Office for Artificial Intelligence. “Ai Roadmap.” <em>GOV.UK</em>, GOV.UK, 6 Jan. 2021, <a href="https://www.gov.uk/government/publications/ai-roadmap" target="_blank" rel="noreferrer noopener">https://www.gov.uk/government/publications/ai-roadmap</a>.</p>
+
+
+
+<p>“Proposal for EU Artificial Intelligence Act Passes Next Level – Where Do We Stand and What&#8217;s next?” <em>Insights | Sidley Austin LLP</em>, <a href="https://www.sidley.com/en/insights/newsupdates/2022/12/proposal-for-eu-artificial-intelligence-act-passes-next-level" target="_blank" rel="noreferrer noopener">https://www.sidley.com/en/insights/newsupdates/2022/12/proposal-for-eu-artificial-intelligence-act-passes-next-level</a>.</p>
+
+
+
+<p>PricewaterhouseCoopers (no date) <em>PWC&#8217;s Global Artificial Intelligence Study: Sizing the prize</em>, <em>PwC</em>. Available at: <a href="https://cutt.ly/P9WaZ4T" target="_blank" rel="noreferrer noopener">https://cutt.ly/P9WaZ4T </a>(Accessed: January 27, 2023).</p>
+
+
+
+<p>“Regulatory Framework Proposal on Artificial Intelligence.” <em>Shaping Europe&#8217;s Digital Future</em>, <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai." target="_blank" rel="noreferrer noopener">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai.</a></p>
+
+
+
+<p>“White Paper on Artificial Intelligence: A European Approach to Excellence and Trust.” <em>European Commission</em>, <a href="https://commission.europa.eu/document/d2ec4039-c5be-423a-81ef-b9e44e79825b_en" target="_blank" rel="noreferrer noopener">https://commission.europa.eu/document/d2ec4039-c5be-423a-81ef-b9e44e79825b_en</a>.</p>
+
+
+
+<p>Shin, T. (2020) <em>Real-life examples of discriminating artificial intelligence</em>, <em>Medium</em>. Towards Data Science. Available at: <a href="https://towardsdatascience.com/real-life-examples-of-discriminating-artificial-intelligence-cae395a90070" target="_blank" rel="noreferrer noopener">https://towardsdatascience.com/real-life-examples-of-discriminating-artificial-intelligence-cae395a90070</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p>“Regulatory Framework Proposal on Artificial Intelligence.” <em>Shaping Europe&#8217;s Digital Future</em>, European Commission, <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noreferrer noopener">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai</a>.</p>
+
+
+
+<p>“PDPC: Singapore&#8217;s Approach to AI Governance.” <em>Personal Data Protection Commission</em>, <a href="https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework" target="_blank" rel="noreferrer noopener">https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework</a>.</p>
+
+
+
+<p><em>Strategic pillars</em> (2021) <em>National Artificial Intelligence Initiative</em>. National Artificial Intelligence Initiative Office . Available at: <a href="https://www.ai.gov/strategic-pillars/" target="_blank" rel="noreferrer noopener">https://www.ai.gov/strategic-pillars/ </a>(Accessed: February 1, 2023).</p>
+
+
+
+<p>The United States Government. (2021, June 10). <em>The Biden Administration launches the National Artificial Intelligence Research Resource Task Force</em>. The White House. Retrieved February 1, 2023, from <a href="https://www.whitehouse.gov/ostp/news-updates/2021/06/10/the-biden-administration-launches-the-national-artificial-intelligence-research-resource-task-force/" target="_blank" rel="noreferrer noopener">https://www.whitehouse.gov/ostp/news-updates/2021/06/10/the-biden-administration-launches-the-national-artificial-intelligence-research-resource-task-force/</a></p>
+
+
+
+<p>“UK Government Proposes a New Approach to Regulating Artificial Intelligence (AI): Perspectives &amp; Events: Mayer Brown.” <em>Perspectives &amp; Events | Mayer Brown</em>, <a href="https://www.mayerbrown.com/en/perspectives-events/publications/2022/08/uk-government-proposes-a-new-approach-to-regulating-artificial-intelligence-ai" target="_blank" rel="noreferrer noopener">https://www.mayerbrown.com/en/perspectives-events/publications/2022/08/uk-government-proposes-a-new-approach-to-regulating-artificial-intelligence-ai</a>.</p>
+
+
+
+<p>Visier. “What the GDPR Shows Us about the Future of AI Regulation.” <em>Visier</em>, <a href="https://www.visier.com/blog/what-the-gdpr-shows-us-about-the-future-of-ai-regulation/.">https://www.visier.com/blog/what-the-gdpr-shows-us-about-the-future-of-ai-regulation/.</a></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><a id="_ftn1" href="#_ftnref1">[1]</a> Howarth, J. (2023) <em>57+ amazing artificial intelligence statistics (2023)</em>, <em>Exploding Topics</em>. Exploding Topics. Available at: <a href="https://cutt.ly/W9WaBmK" target="_blank" rel="noreferrer noopener">https://cutt.ly/W9WaBmK</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><a id="_ftn2" href="#_ftnref2">[2]</a> PricewaterhouseCoopers (no date) <em>PWC&#8217;s Global Artificial Intelligence Study: Sizing the prize</em>, <em>PwC</em>. Available at: <a href="https://cutt.ly/P9WaZ4T" target="_blank" rel="noreferrer noopener">https://cutt.ly/P9WaZ4T</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><a id="_ftn3" href="#_ftnref3">[3]</a> Michael Chui Partner, Rita Chung Fellow and Ashley van Heteren Expert Associate Principal and leader of McKinsey Global Institute&#8217;s Nobel Intelligence venture (2019) <em>Using AI to help Achieve Sustainable Development Goals: United Nations Development Programme</em>, <em>UNDP</em>. Available at: <a href="https://cutt.ly/H9WaJLE" target="_blank" rel="noreferrer noopener">https://cutt.ly/H9WaJLE</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><a id="_ftn4" href="#_ftnref4">[4]</a> Anne Trafton | MIT News Office (no date) <em>Artificial intelligence yields new antibiotic</em>, <em>MIT News | Massachusetts Institute of Technology</em>. Available at: <a href="https://news.mit.edu/2020/artificial-intelligence-identifies-new-antibiotic-0220" target="_blank" rel="noreferrer noopener">https://news.mit.edu/2020/artificial-intelligence-identifies-new-antibiotic-0220</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><a id="_ftn5" href="#_ftnref5">[5]</a> <em>5 charts that show what people around the world think about ai</em> (no date) <em>World Economic Forum</em>. Available at: <a href="https://www.weforum.org/agenda/2022/01/artificial-intelligence-ai-technology-trust-survey/ ">https://www.weforum.org/agenda/2022/01/artificial-intelligence-ai-technology-trust-survey/ </a>(Accessed: January 27, 2023).</p>
+
+
+
+<p><a id="_ftn6" href="#_ftnref6">[6]</a> Adams, R. and Weale, S. (2020) <em>A-level results: Almost 40% of teacher assessments in England downgraded</em>, <em>The    Guardian</em>. Guardian News and Media. Available at: <a href="https://www.theguardian.com/education/2020/aug/13/almost-40-of-english-students-have-a-level-results-downgraded">https://www.theguardian.com/education/2020/aug/13/almost-40-of-english-students-have-a-level-results-downgraded</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><a id="_ftn7" href="#_ftnref7">[7]</a> <em>Apple&#8217;s &#8216;sexist&#8217; credit card investigated by US Regulator</em> (2019) <em>BBC News</em>. BBC. Available at: <a href="https://www.bbc.com/news/business-50365609" target="_blank" rel="noreferrer noopener">https://www.bbc.com/news/business-50365609</a> (Accessed: January 27, 2023).</p>
+
+
+
+<p><a id="_ftn8" href="#_ftnref8">[8]</a> Shin, T. (2020) <em>Real-life examples of discriminating artificial intelligence</em>, <em>Medium</em>. Towards Data Science. Available at: <a href="https://towardsdatascience.com/real-life-examples-of-discriminating-artificial-intelligence-cae395a90070">https://towardsdatascience.com/real-life-examples-of-discriminating-artificial-intelligence-cae395a90070</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p><a href="#_ftnref9" id="_ftn9">[9]</a> Shin, T. (2020)</p>
+
+
+
+<p><a id="_ftn10" href="#_ftnref10">[10]</a> Cossins, D. (2018) <em>Discriminating algorithms: 5 times AI showed prejudice</em>, <em>New Scientist</em>. New Scientist. Available at: <a href="https://www.newscientist.com/article/2166207-discriminating-algorithms-5-times-ai-showed-prejudice/">https://www.newscientist.com/article/2166207-discriminating-algorithms-5-times-ai-showed-prejudice/</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p><a href="#_ftnref11" id="_ftn11">[11]</a> Shin, T. (2020)</p>
+
+
+
+<p><a id="_ftn12" href="#_ftnref12">[12]</a> Lee, N.T., Resnick, P. and Barton, G. (2022) <em>Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms</em>, <em>Brookings</em>. Brookings. Available at: <a href="https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/" target="_blank" rel="noreferrer noopener">https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p><a id="_ftn13" href="#_ftnref13">[13]</a> McKeown, P. (2021) <em>What are the risks of Artificial Intelligence?</em>, <em>AuditBoard</em>. Available at: <a href="https://www.auditboard.com/blog/what-are-risks-artificial-intelligence/" target="_blank" rel="noreferrer noopener">https://www.auditboard.com/blog/what-are-risks-artificial-intelligence/ </a>(Accessed: February 1, 2023).</p>
+
+
+
+<p><a id="_ftn14" href="#_ftnref14">[14]</a> Howell, C.T. (2022) <em>Ai regulation: Where do china, the EU, and the U.S. stand today?: Foley &amp; Lardner LLP</em>, <em>Blogs | Innovative Technology Insights | Foley &amp; Lardner LLP</em>. Available at: <a href="https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today" target="_blank" rel="noreferrer noopener">https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p><a href="#_ftnref15" id="_ftn15">[15]</a> Artificial Intelligence Initiative Act</p>
+
+
+
+<p><a id="_ftn16" href="#_ftnref16">[16]</a> <em>National Artificial Intelligence Initiative Becomes Law in FY2021 NDAA</em> (no date) <em>ASME</em>. Available at: <a href="https://www.asme.org/government-relations/capitol-update/national-artificial-intelligence-initiative-becomes-law-in-fy2021-ndaa" target="_blank" rel="noreferrer noopener">https://www.asme.org/government-relations/capitol-update/national-artificial-intelligence-initiative-becomes-law-in-fy2021-ndaa</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p><a id="_ftn17" href="#_ftnref17">[17]</a> <em>Strategic pillars</em> (2021) <em>National Artificial Intelligence Initiative</em>. National Artificial Intelligence Initiative Office . Available at: <a href="https://www.ai.gov/strategic-pillars/" target="_blank" rel="noreferrer noopener">https://www.ai.gov/strategic-pillars/</a> (Accessed: February 1, 2023).</p>
+
+
+
+<p><a id="_ftn18" href="#_ftnref18">[18]</a> The United States Government. (2021, June 10). <em>The Biden Administration launches the National Artificial Intelligence Research Resource Task Force</em>. The White House. Retrieved February 1, 2023, from <a href="https://www.whitehouse.gov/ostp/news-updates/2021/06/10/the-biden-administration-launches-the-national-artificial-intelligence-research-resource-task-force/" target="_blank" rel="noreferrer noopener">https://www.whitehouse.gov/ostp/news-updates/2021/06/10/the-biden-administration-launches-the-national-artificial-intelligence-research-resource-task-force/</a></p>
+
+
+
+<p><a id="_ftn19" href="#_ftnref19">[19]</a> “The National AI Advisory Committee (NAIAC).” <em>National Artificial Intelligence Initiative</em>, 30 Jan. 2023, <a href="https://www.ai.gov/naiac/." target="_blank" rel="noreferrer noopener">https://www.ai.gov/naiac/.</a></p>
+
+
+
+<p><a id="_ftn20" href="#_ftnref20">[20]</a> <em>H.R.6216 &#8211; 116th Congress (2019-2020): National Artificial Intelligence &#8230;</em> <a href="https://www.congress.gov/bill/116th-congress/house-bill/6216." target="_blank" rel="noreferrer noopener">https://www.congress.gov/bill/116th-congress/house-bill/6216.</a></p>
+
+
+
+<p><a href="#_ftnref21" id="_ftn21">[21]</a> Algorithmic Accountability Act</p>
+
+
+
+<p><a href="#_ftnref22" id="_ftn22">[22]</a> Larsen, B. C. (2022). Governing Artificial Intelligence: Lessons from the United States and China. Copenhagen Business School [Phd]. PhD Series No. 29.2022</p>
+
+
+
+<p><a href="#_ftnref23" id="_ftn23">[23]</a> The Future of Artificial Intelligence Act</p>
+
+
+
+<p><a id="_ftn24" href="#_ftnref24">[24]</a> <em>The FUTURE of AI Act</em>. <a href="https://www.foreign.senate.gov/imo/media/doc/DAV21598%20-%20Strategic%20Competition%20Act%20of%202021.pdf." target="_blank" rel="noreferrer noopener">https://www.foreign.senate.gov/imo/media/doc/DAV21598%20-%20Strategic%20Competition%20Act%20of%202021.pdf.</a></p>
+
+
+
+<p><a href="#_ftnref25" id="_ftn25">[25]</a> AI Bill of Rights</p>
+
+
+
+<p><a id="_ftn26" href="#_ftnref26">[26]</a> Wheeler, Russell, and Daniel L. Byman. “Unpacking the White House Blueprint for an AI Bill of Rights.” <em>Brookings</em>, Brookings, 13 Dec. 2022, <a href="https://www.brookings.edu/events/unpacking-the-white-house-blueprint-for-an-ai-bill-of-rights/#:~:text=In%20October%2C%20the%20White%20House,automated%2C%20or%20artificial%20intelligence%20systems." target="_blank" rel="noreferrer noopener">https://www.brookings.edu/events/unpacking-the-white-house-blueprint-for-an-ai-bill-of-rights/#:~:text=In%20October%2C%20the%20White%20House,automated%2C%20or%20artificial%20intelligence%20systems.</a></p>
+
+
+
+<p><a id="_ftn27" href="#_ftnref27">[27]</a> “AI Regulation in the U.S.: What&#8217;s Coming, and What Companies Need to Do in 2023.” <em>JD Supra</em>, <a href="https://www.jdsupra.com/legalnews/ai-regulation-in-the-u-s-what-s-coming-6467203/." target="_blank" rel="noreferrer noopener">https://www.jdsupra.com/legalnews/ai-regulation-in-the-u-s-what-s-coming-6467203/.</a></p>
+
+
+
+<p><a href="#_ftnref28" id="_ftn28">[28]</a> New York Algorithm Monitoring Task Force</p>
+
+
+
+<p><a id="_ftn29" href="#_ftnref29">[29]</a> Larsen, Benjamin Cedric. “Governing Artificial Intelligence: Lessons from the United States and China.” <em>CBS Research Portal</em>, Copenhagen Business School [Phd], 21 Sept. 2022, <a href="https://research.cbs.dk/en/publications/governing-artificial-intelligence-lessons-from-the-united-states-." target="_blank" rel="noreferrer noopener">https://research.cbs.dk/en/publications/governing-artificial-intelligence-lessons-from-the-united-states-.</a></p>
+
+
+
+<p><a id="_ftn30" href="#_ftnref30">[30]</a> “New York City Postpones Enforcement of Law Regulating AI Employment Tools.” <em>JD Supra</em>, <a href="https://www.jdsupra.com/legalnews/new-york-city-postpones-enforcement-of-1737511/#:~:text=New%20York%20City%20employers%20who,effect%20on%20January%201%2C%202023." target="_blank" rel="noreferrer noopener">https://www.jdsupra.com/legalnews/new-york-city-postpones-enforcement-of-1737511/#:~:text=New%20York%20City%20employers%20who,effect%20on%20January%201%2C%202023.</a></p>
+
+
+
+<p><a href="#_ftnref31" id="_ftn31">[31]</a> “AI Regulation in the U.S.: What&#8217;s Coming, and What Companies Need to Do in 2023”</p>
+
+
+
+<p><a href="#_ftnref32" id="_ftn32">[32]</a> The Chinese Association for Artificial Intelligence (CAAI)</p>
+
+
+
+<p><a id="_ftn33" href="#_ftnref33">[33]</a> Larsen, B. C. (2022). Governing Artificial Intelligence: Lessons from the United States and China. Copenhagen Business School [Phd]. PhD Series No. 29.2022</p>
+
+
+
+<p><a id="_ftn34" href="#_ftnref34">[34]</a> Roberts, Huw, et al. “The Chinese Approach to Artificial Intelligence: An Analysis of Policy, Ethics, and Regulation &#8211; AI &amp; Society.” <em>SpringerLink</em>, Springer London, 17 June 2020, <a href="https://link.springer.com/article/10.1007/s00146-020-00992-2." target="_blank" rel="noreferrer noopener">https://link.springer.com/article/10.1007/s00146-020-00992-2.</a></p>
+
+
+
+<p><a id="_ftn35" href="#_ftnref35">[35]</a> Korobeev et al. (2022) Global atlas of AI Regulation 2022 Edition: Oriental Vector, Publishing House of the Far Eastern Federal University, 2022</p>
+
+
+
+<p><a href="#_ftnref36" id="_ftn36">[36]</a> Korobeev et al. (2022)</p>
+
+
+
+<p><a href="#_ftnref37" id="_ftn37">[37]</a> the China Academy of Information and Communications Technology (CAICT)</p>
+
+
+
+<p><a id="_ftn38" href="#_ftnref38">[38]</a> “AI Regulation: Where Do China, the EU, and the U.S. Stand Today?: Foley &amp; Lardner LLP.” <em>Blogs | Innovative Technology Insights | Foley &amp; Lardner LLP</em>, <a href="https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today." target="_blank" rel="noreferrer noopener">https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today.</a></p>
+
+
+
+<p><a href="#_ftnref39" id="_ftn39">[39]</a> Korobeev et al. (2022)</p>
+
+
+
+<p><a id="_ftn40" href="#_ftnref40">[40]</a> “Ai Regulation: Where Do China, the EU, and the U.S. Stand Today?: Foley &amp; Lardner LLP.” <em>Blogs | Innovative Technology Insights | Foley &amp; Lardner LLP</em>, <a href="https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today." target="_blank" rel="noreferrer noopener">https://www.foley.com/en/insights/publications/2022/08/ai-regulation-where-china-eu-us-stand-today.</a></p>
+
+
+
+<p><a href="#_ftnref41" id="_ftn41">[41]</a> Korobeev et al. (2022)</p>
+
+
+
+<p><a id="_ftn42" href="#_ftnref42">[42]</a> “Regulatory Framework Proposal on Artificial Intelligence.” <em>Shaping Europe&#8217;s Digital Future</em>, <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai." target="_blank" rel="noreferrer noopener">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai.</a></p>
+
+
+
+<p><a id="_ftn43" href="#_ftnref43">[43]</a> “High-Level Expert Group on Artificial Intelligence.” <em>Shaping Europe&#8217;s Digital Future</em>, <a href="https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai." target="_blank" rel="noreferrer noopener">https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai.</a></p>
+
+
+
+<p><a id="_ftn44" href="#_ftnref44">[44]</a> “Member States and Commission to Work Together to Boost Artificial Intelligence ‘Made in Europe.’” <em>European Commission &#8211; European Commission</em>, European Commission, <a href="https://ec.europa.eu/commission/presscorner/detail/en/IP_18_6689." target="_blank" rel="noreferrer noopener">https://ec.europa.eu/commission/presscorner/detail/en/IP_18_6689.</a></p>
+
+
+
+<p><a id="_ftn45" href="#_ftnref45">[45]</a> “White Paper on Artificial Intelligence: A European Approach to Excellence and Trust.” <em>European Commission</em>, <a href="https://commission.europa.eu/document/d2ec4039-c5be-423a-81ef-b9e44e79825b_en.">https://commission.europa.eu/document/d2ec4039-c5be-423a-81ef-b9e44e79825b_en.</a></p>
+
+
+
+<p><a id="_ftn46" href="#_ftnref46">[46]</a> “Artificial Intelligence Act: Council Calls for Promoting Safe AI That Respects Fundamental Rights.” <em>Council of the EU</em>, Council of the EU, 6 Dec. 2022, <a href="https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/?utm_source=dsms-auto&amp;utm_medium=email&amp;utm_campaign=Artificial%2BIntelligence%2BAct%3A%2BCouncil%2Bcalls%2Bfor%2Bpromoting%2Bsafe%2BAI%2Bthat%2Brespects%2Bfundamental%2Brights." target="_blank" rel="noreferrer noopener">https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/?utm_source=dsms-auto&amp;utm_medium=email&amp;utm_campaign=Artificial%2BIntelligence%2BAct%3A%2BCouncil%2Bcalls%2Bfor%2Bpromoting%2Bsafe%2BAI%2Bthat%2Brespects%2Bfundamental%2Brights.</a></p>
+
+
+
+<p><a href="#_ftnref47" id="_ftn47">[47]</a> Konsey, Komisyon ve Parlamento</p>
+
+
+
+<p><a id="_ftn48" href="#_ftnref48">[48]</a> “Proposal for EU Artificial Intelligence Act Passes Next Level – Where Do We Stand and What&#8217;s next?” <em>Insights | Sidley Austin LLP</em>, <a href="https://www.sidley.com/en/insights/newsupdates/2022/12/proposal-for-eu-artificial-intelligence-act-passes-next-level." target="_blank" rel="noreferrer noopener">https://www.sidley.com/en/insights/newsupdates/2022/12/proposal-for-eu-artificial-intelligence-act-passes-next-level.</a></p>
+
+
+
+<p><a id="_ftn49" href="#_ftnref49">[49]</a> “Regulatory Framework Proposal on Artificial Intelligence.” <em>Shaping Europe&#8217;s Digital Future</em>, European Commission, <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai." target="_blank" rel="noreferrer noopener">https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai.</a></p>
+
+
+
+<p><a id="_ftn50" href="#_ftnref50">[50]</a> Visier. “What the GDPR Shows Us about the Future of AI Regulation.” <em>Visier</em>, <a href="https://www.visier.com/blog/what-the-gdpr-shows-us-about-the-future-of-ai-regulation/." target="_blank" rel="noreferrer noopener">https://www.visier.com/blog/what-the-gdpr-shows-us-about-the-future-of-ai-regulation/.</a></p>
+
+
+
+<p><a id="_ftn51" href="#_ftnref51">[51]</a> “GDPR and AI: Friends, Foes or Something in between?” <em>SAS</em>, <a href="https://www.sas.com/en_us/insights/articles/data-management/gdpr-and-ai--friends--foes-or-something-in-between-.html." target="_blank" rel="noreferrer noopener">https://www.sas.com/en_us/insights/articles/data-management/gdpr-and-ai&#8211;friends&#8211;foes-or-something-in-between-.html.</a></p>
+
+
+
+<p><a id="_ftn52" href="#_ftnref52">[52]</a> “Establishing a pro-Innovation Approach to Regulating AI.” <em>GOV.UK</em>, <a href="https://www.gov.uk/government/publications/establishing-a-pro-innovation-approach-to-regulating-ai/establishing-a-pro-innovation-approach-to-regulating-ai-policy-statement." target="_blank" rel="noreferrer noopener">https://www.gov.uk/government/publications/establishing-a-pro-innovation-approach-to-regulating-ai/establishing-a-pro-innovation-approach-to-regulating-ai-policy-statement.</a></p>
+
+
+
+<p><a id="_ftn53" href="#_ftnref53">[53]</a> “Office for Artificial Intelligence.” <em>GOV.UK</em>, <a href="https://www.gov.uk/government/organisations/office-for-artificial-intelligence." target="_blank" rel="noreferrer noopener">https://www.gov.uk/government/organisations/office-for-artificial-intelligence.</a></p>
+
+
+
+<p><a id="_ftn54" href="#_ftnref54">[54]</a> Office for Artificial. “AI Roadmap.” <em>GOV.UK</em>, GOV.UK, 6 Jan. 2021, <a href="https://www.gov.uk/government/publications/ai-roadmap." target="_blank" rel="noreferrer noopener">https://www.gov.uk/government/publications/ai-roadmap.</a></p>
+
+
+
+<p><a id="_ftn55" href="#_ftnref55">[55]</a> “UK Government Proposes a New Approach to Regulating Artificial Intelligence (AI): Perspectives &amp; Events: Mayer Brown.” <em>Perspectives &amp; Events | Mayer Brown</em>, <a href="https://www.mayerbrown.com/en/perspectives-events/publications/2022/08/uk-government-proposes-a-new-approach-to-regulating-artificial-intelligence-ai." target="_blank" rel="noreferrer noopener">https://www.mayerbrown.com/en/perspectives-events/publications/2022/08/uk-government-proposes-a-new-approach-to-regulating-artificial-intelligence-ai.</a></p>
+
+
+
+<p><a id="_ftn56" href="#_ftnref56">[56]</a> “Government Proposals for UK AI Regulation.” <em>The UK&#8217;s Technology Trade Association</em>, <a href="https://www.techuk.org/resource/government-proposals-for-uk-ai-regulation.html." target="_blank" rel="noreferrer noopener">https://www.techuk.org/resource/government-proposals-for-uk-ai-regulation.html.</a></p>
+
+
+
+<p><a id="_ftn57" href="#_ftnref57">[57]</a> “PDPC: Singapore&#8217;s Approach to AI Governance.” <em>Personal Data Protection Commission</em>, <a href="https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework.">https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework.</a></p>
+
+
+
+<p><a href="#_ftnref58" id="_ftn58">[58]</a> The Digital Charter Implementation Act, 2022</p>
+
+
+
+<p><a id="_ftn59" href="#_ftnref59">[59]</a> LaCasse, Alex. “Canada Introduces New Federal Privacy and AI Legislation.” <em>IAPP</em>, International Association of Privacy Professionals, 16 June 2022, <a href="https://iapp.org/news/a/canada-introduces-new-federal-privacy-and-ai-legislation/." target="_blank" rel="noreferrer noopener">https://iapp.org/news/a/canada-introduces-new-federal-privacy-and-ai-legislation/.</a></p>
+
+
+
+<p><a id="_ftn60" href="#_ftnref60">[60]</a> Freda. “Privacy Reform Is on the Table Once More: Canada Introduces the Digital Charter Implementation Act, 2022.” <em>McMillan LLP</em>, 23 June 2022, <a href="https://mcmillan.ca/insights/privacy-reform-is-on-the-table-once-more-canada-introduces-the-digital-charter-implementation-act-2022/.">https://mcmillan.ca/insights/privacy-reform-is-on-the-table-once-more-canada-introduces-the-digital-charter-implementation-act-2022/.</a></p>
+
+
+
+<p><a id="_ftn61" href="#_ftnref61">[61]</a> Canada, Government of. “Bill C-27 Summary: Digital Charter Implementation Act, 2022.” <em>Government of Canada</em>, 18 Aug. 2022, <a href="https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter/bill-summary-digital-charter-implementation-act-2020." target="_blank" rel="noreferrer noopener">https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter/bill-summary-digital-charter-implementation-act-2020.</a></p>
+
+
+
+<p><a id="_ftn62" href="#_ftnref62">[62]</a> “Artificial Intelligence Work Group Project Australia.” <em>Artificial Intelligence Work Group Project Australia | G+T</em>, <a href="https://www.gtlaw.com.au/knowledge/artificial-intelligence-work-group-project-australia." target="_blank" rel="noreferrer noopener">https://www.gtlaw.com.au/knowledge/artificial-intelligence-work-group-project-australia.</a></p>
+
+
+
+<p><a href="#_ftnref63" id="_ftn63">[63]</a> Regulatory sandbox</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

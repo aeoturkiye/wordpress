@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Import Control System &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<atom:link href="https://tiud.org.tr/tag/import-control-system/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tiud.org.tr</link>
+	<description>Ticaret Uzmanları Derneği</description>
+	<lastBuildDate>Fri, 28 Jun 2024 21:13:17 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://tiud.org.tr/wp-content/uploads/2021/12/cropped-tiud_logo_icon-32x32.png</url>
+	<title>Import Control System &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<link>https://tiud.org.tr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AB İthalat Kontrol Sisteminin (Import Control System ICS2) Taşımacılık Sektörüne Etkileri</title>
+		<link>https://tiud.org.tr/2022/12/22/ab-ithalat-kontrol-sisteminin-import-control-system-ics2-tasimacilik-sektorune-etkileri/</link>
+		
+		<dc:creator><![CDATA[Ali Kelleci]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 06:54:03 +0000</pubDate>
+				<category><![CDATA[Ticarette Uzman Görüş 62]]></category>
+		<category><![CDATA[ICS2]]></category>
+		<category><![CDATA[Import Control System]]></category>
+		<category><![CDATA[ithalat kontrol sistemi]]></category>
+		<category><![CDATA[ortak risk analizi]]></category>
+		<category><![CDATA[PLACI]]></category>
+		<guid isPermaLink="false">https://tiud.org.tr/?p=5855</guid>
+
+					<description><![CDATA[Günümüzde uluslararası ticaretin kolaylaştırılması ve hızlandırılması konusunun önemi giderek artmaktadır. Uluslararası ticaretin kolaylaştırılması uygulamalarında da gümrük idarelerine önemli bir rol düşmektedir. Bu kapsamda, ulusal gümrük idareleri yeni gümrük sistemleri geliştirip uygulamaya koysa da bu alandaki önemli aktörlerden biri olan Avrupa Komisyonu, yeni sistemler oluşturmanın yanında bu sistemleri 27 üye ülke arasında koordineli olarak uygulamaya çalışmakta, “Birlik Felsefesi”ni gümrük alanında da ileri bir noktaya taşımaktadır. Bu çalışmada,  bir AB elektronik gümrük sistemi olan ICS2’nin ne olduğu, işlevi ve yapısı ortaya konularak birçok ülke tarafından ortak kullanılan bir elektronik gümrük sisteminin ulusal sistemlerden ayrıştığı yönler gösterilecek, diğer taraftan ICS2’nin ilerleyen dönmelerde devreye alınacak yeni aşamalarının ülkemiz taşıyıcılarına ve taşıma işleri organizatörlerine olası etkileri değerlendirilecektir.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>ÖZET</strong></p>
+
+
+
+<p><em>Günümüzde uluslararası ticaretin kolaylaştırılması ve hızlandırılması konusunun önemi giderek artmaktadır. Uluslararası ticaretin kolaylaştırılması uygulamalarında da gümrük idarelerine önemli bir rol düşmektedir. Bu kapsamda, ulusal gümrük idareleri yeni gümrük sistemleri geliştirip uygulamaya koysa da bu alandaki önemli aktörlerden biri olan Avrupa Komisyonu, yeni sistemler oluşturmanın yanında bu sistemleri 27 üye ülke arasında koordineli olarak uygulamaya çalışmakta, “Birlik Felsefesi”ni gümrük alanında da ileri bir noktaya taşımaktadır. Bu çalışmada,  bir AB elektronik gümrük sistemi olan ICS2’nin ne olduğu, işlevi ve yapısı ortaya konularak birçok ülke tarafından ortak kullanılan bir elektronik gümrük sisteminin ulusal sistemlerden ayrıştığı yönler gösterilecek, diğer taraftan ICS2’nin ilerleyen dönemlerde devreye alınacak yeni aşamalarının ülkemiz taşıyıcılarına ve taşıma işleri organizatörlerine olası etkileri değerlendirilecektir.</em></p>
+
+
+
+<p><strong>Anahtar Kelimeler</strong>: ICS2, Import Control System, ithalat kontrol sistemi, PLACI, ortak risk analizi</p>
+
+
+
+<p><strong>GİRİŞ</strong></p>
+
+
+
+<p>İthalat Kontrol Sistemini (Import Control System-ICS2) anlayabilmek için öncelikle Avrupa Birliğini (AB) böyle bir sistemi oluşturup kullanmaya iten nedenleri anlamak gerekmektedir.</p>
+
+
+
+<p>AB’nin en büyük önceliklerinden biri, Birlik üyesi ülke vatandaşlarının güvenliği ile AB tek pazarının emniyetini ve güvenliğini sağlamaktır. Söz konusu güvenlik, ancak AB’ye giren eşyaların güvenilir olmasıyla mümkündür. Zira, her yıl AB’ye trilyon Euro değerinde eşya girmekte ve dünya eşya ticaretinin %15’i AB’den geçmektedir. Bu nedenle AB, vatandaşlarının ve pazarının güvenliğini sağlayabilmek için eşyaların varışı öncesi bir emniyet ve güvenlik programı uygulamaktadır. (TAXUD, 2022)</p>
+
+
+
+<p>Söz konusu program, tüm eşyaların AB’ye varışı öncesinde ekonomik operatörlerin (gümrük mevzuatı kapsamındaki faaliyetlerle ilgili kişi) özet beyan yoluyla emniyet ve güvenlik verisini elektronik bir gümrük sistemi olan ICS2 ile beyan etmelerini zorunlu tutmaktadır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>ICS2, özet beyan verisini aldıktan sonra verileri AB Ortak Risk Yönetimi Çerçevesi kapsamında emniyet ve güvenlik risk analizine tabi tutarak tehditleri tespit etmekte ve bu suretle gümrük idarelerine arz zincirinin en uygun noktasında müdahale etme şansı tanımaktadır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>Emniyet ve güvenlik kapsamındaki riskleri; hava kargodaki patlayıcılar, narkotikler, prekürsörler, tehlikeli sahte ilaçlar, tehlikeli oyuncaklar veya elektronikler, kontamine gıdalar, silahlar ve her türlü organize kaçakçılık olarak sayabiliriz. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p><strong>İTHALAT KONTROL SİSTEMİ (ICS2) NEDİR?</strong></p>
+
+
+
+<p>ICS2 aslında 1 Ocak 2011 tarihinde uygulamaya giren ICS1’in yeni bir versiyonudur. 1 Mayıs 2016 tarihinde yürürlüğe giren Birlik Gümrük Kodu (Union Customs Code-UCC) ile uygulamaya giren yeni düzenlemeler ve diğer elektronik gümrük sistemlerindeki dönüşüm ICS1’in dönüşümünü de beraberinde getirmiştir.</p>
+
+
+
+<p>Her ne kadar sistemin adında “ithalat” kelimesi geçse de sistem, serbest dolaşıma giriş rejimi ile ilgili bir kontrolü kapsamamaktadır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>ICS, bir üye ülkede başlayan ithalat işlemlerinin, giriş özet beyan (ENS) tekrar sunulmadan başka bir üye ülkede tamamlanabilmesini sağlamaktadır. ENS, daha sonra risk değerlendirmesine girmekte ve emniyet ve güvenlik verisi diğer üye ülkeye iletilmektedir. (www.revenue.ie)</p>
+
+
+
+<p>Ayrıca, İsviçre ve Norveç, ICS2&#8217;nin bir parçası olmak da dahil olmak üzere AB&#8217;de yürürlükte olan aynı emniyet ve güvenlik önlemlerini uygulamayı kabul ettiğinden, bu ülkeler ile AB arasındaki ticaret, giriş ve çıkış özet beyanları sunma zorunluluğundan muaf tutulmaktadır. (TAXUD, 2022)</p>
+
+
+
+<p>Yukarıda da bahsedildiği üzere ICS2 elektronik gümrük sistemi, ekonomik operatörlerin özet beyan bilgilerini sunduğu ve bu bilgilerin emniyet ve güvenlik amaçlı gümrük risk analizine tabi tutulduğu bir sistemdir. Taşıyıcı tarafından, sisteme entegre bir ülke gümrük idaresine özet beyan verildikten sonra, söz konusu bilgiler taşıtın uğrayacağı diğer ülke gümrük idarelerine de iletilmekte bu suretle sisteme entegre diğer ülke gümrük idarelerine tekrar özet beyan verme gereği ortadan kalkmaktadır. Emniyet ve güvenlik açısından AB gümrük bölgesi tek bir birim gibi hareket ettiğinden özet beyan, sisteme üye ülkelerce kendi risk kriterleri yerine AB ortak risk kriterlerine göre risk analizine tabi tutulmaktadır. Ancak sistem, üye ülkelerce ilave risk analizi yapılmasını da engellememektedir. Bununla birlikte, ilave risk analizi sonuçlarının sisteme kaydedilmesi gerekmektedir.</p>
+
+
+
+<p>Eşyaların AB&#8217;ye girişi, 5 aşamalı bir süreçten oluşmaktadır. ICS2, bu aşamalardan ilk üçünü kapsamaktadır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>1) Giriş özet beyanın (entry summary declaration-ENS) sunulması (ICS2 kapsamında)</p>
+
+
+
+<p>2) Taşıma araçlarının varış bildirimi (ICS2 kapsamında)</p>
+
+
+
+<p>3) Eşyaların gümrüğe sunulması (ICS2 kapsamında)</p>
+
+
+
+<p>4) Eşyaların geçici olarak depolanması</p>
+
+
+
+<p>5) Eşyaların bir gümrük rejimine tabi tutulması</p>
+
+
+
+<p>ICS2’de özet beyan verilmesinden sonra özet beyanın AB Ortak Risk Yönetimi Çerçevesi kapsamında emniyet ve güvenlik risk analizine tabi tutulduğunu ifade etmiştik. ICS2’nin en önemli noktalarından biri AB Ortak Risk Yönetimi Çerçevesi olduğundan bu konuya ayrıca değinmek gerekmektedir.</p>
+
+
+
+<p><strong>AB ORTAK RİSK YÖNETİMİ ÇERÇEVESİ (CRMF) NEDİR?</strong></p>
+
+
+
+<p>1992 tarihli UCC’de 2005 yılında yapılan değişiklikle (648/2005 sayılı Konsey Tüzüğü) Birlik gümrük bölgesine giren ve çıkan eşya için Birlik genelinde eşit düzeyde bir gümrük kontrolünün sağlanması amacıyla üzerinde uzlaşılan ortak standartlar ve risk kriterlerinin benimsenmesi, bu nedenle Komisyonun ve üye ülkelerin birlik geneli risk yönetim çerçevesi oluşturması gerekliliği getirilmiştir. 2006 yılında yapılan değişiklik ile de Birlik düzeyindeki risk yönetiminin elektronik veri alışverişine dayalı olarak nasıl yapılacağı detaylı bir şekilde açıklanmıştır.</p>
+
+
+
+<p>Diğer bir ifadeyle, AB Ortak Risk Yönetimi Çerçevesiherhangi bir AB üyesi ülkeye giren bir araç ve eşya için özet beyan verildiğinde AB ortak risk analizi sistemi kapsamında ortak risk kriterleri uygulanmasını belirtmektedir.</p>
+
+
+
+<p><strong>ICS2 AŞAMALI OLARAK UYGULAMAYA GİRECEKTİR</strong></p>
+
+
+
+<p><strong>I. Aşama: 15 Mart 2021</strong></p>
+
+
+
+<p>Hızlı kargo firmaları, posta operatörleri (Avrupa merkezli ve Avrupa&#8217;ya gönderi yapan üçüncü ülke posta operatörleri) – Minimum ENS veri setini kullanarak Yükleme Öncesi Kargo Bilgilerini (Pre-loading Advance Cargo Information- PLACI) ileteceklerdir. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p><a></a>Avrupa Birliği&#8217;nde yerleşik ekspres taşıyıcılar ve posta operatörleri, AB gümrük bölgesine getirmekten sorumlu oldukları tüm eşyalar için ICS2&#8217;ye Elektronik Giriş Özet Beyan (ENS) formatında minimum ön elektronik veri setini sağlayacaklardır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>Elektronik Giriş Özet Beyanı (ENS), Birlik gümrük bölgesine girecek tüm ekspres ve posta gönderileri için zorunlu olacaktır. ICS2, mevcut sivil havacılık güvenlik gereksinimlerine ekstra bir güvenlik katmanı sağlamayı amaçlamaktadır. PLACI, ENS&#8217;nin bir alt kümesi olarak, AB gümrük makamları tarafından hava kargo ve posta güvenliği risk değerlendirmeleri yapmak için kullanılacaktır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>ICS2, PLACI verisini de aldığından PLACI’nın ne olduğu konusunu açıklamak faydalı olabilir.</p>
+
+
+
+<p>PLACI, eşyaların üçüncü bir ülkede uçağa yüklenmesinden önce mümkün olan en kısa sürede doldurulması gereken zorunlu minimum veri seti (7+1) olan bir kısmi ENS dosyalama türünü ifade eder. Yalnızca hava trafiği ile sınırlıdır ve tüm eşyaları (yani genel kargo, ekspres gönderiler ve posta gönderileri) kapsar. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>Dünya Gümrük Örgütü tarafından yayınlanan SAFE Standartlar Çerçevesi’nin 2021 yılı versiyonunda da, Pillar 1- Customs-to-Customs ayağının 2.1 Standart no.lu “Entegre Arz Zinciri Yönetimi” başlığında, gümrük idaresinin ilgili diğer kuruluşlarla işbirliği içerisinde taşıyıcıdan, freight forwarderdan, entegratörden, posta idaresi veya onların acentesinden Ek-III’de yer alan yükleme öncesi veri seti sunulmasını talep ederek hava kargosu ve posta gönderisi için ek bir güvenlik risk değerlendirme katmanı uygulayabileceği belirtilmiştir.</p>
+
+
+
+<p>Ek-III’de 7+1 veri seti, gönderici adı, gönderici adresi, alıcı adı, alıcı adresi, gönderi sayısı, toplam bürüt ağırlık, kısa kargo açıklaması, + hava ara/ana konşimento bilgisini kapsamaktadır.</p>
+
+
+
+<p><strong>II. Aşama</strong>: <strong>1 Mart 2023</strong></p>
+
+
+
+<p>Hızlı kargo firmaları ve posta operatörlerine ilave olarak havayolu taşıyıcıları ve freight forwarderlar hava taşımacılığındaki tüm eşyalar için full ENS veri setini tamamlamalıdırlar. Posta, ekspres ve genel kargo gönderilerinde hava yoluyla taşınan tüm eşyalar, yükleme öncesi veri gereksinimlerine ek olarak, varış öncesi ENS veri gereksinimlerini de tamamlamak zorunda olacaktır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>Diğer bir ifadeyle söz konusu tarihte sadece yükleme öncesi değil varış öncesi bilgiler de özet beyan üzerinden ICS2’ye iletilecektir.</p>
+
+
+
+<p><strong>III. Aşama</strong>: <strong>1 Mart 2024</strong>&nbsp;</p>
+
+
+
+<p>Posta ve ekspres gönderi taşıyıcıları da dahil olmak üzere deniz ve iç su yollarında, karayollarında ve demiryollarında mal taşıyan operatörler tüm eşyalar için full ENS veri setini tamamlamak zorundadır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p><strong>ICS2’NİN TÜRK TAŞIMACILIK SEKTÖRÜNE ETKİLERİ</strong></p>
+
+
+
+<p>Aşağıdaki tabloda da görüleceği üzere, toplam ihracatımızın yaklaşık % 40’ını, ithalatımızın da yaklaşık % 30’unu AB üyesi ülkeler ile yaptığımız dikkate alındığında, ICS2’nin aşamalı olarak devreye alınmasının taşımacılarımızı ve dolayısıyla ihracatçılarımızı önemli derecede etkilemesi beklenmektedir.</p>
+
+
+
+<p><em>Tablo 1: Türkiye AB İthalat-İhracat İstatistikleri</em></p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>&nbsp;</td><td class="has-text-align-center" data-align="center">2019</td><td class="has-text-align-center" data-align="center">2020</td><td class="has-text-align-center" data-align="center">2021</td></tr><tr><td>AB’den İthalat &nbsp;</td><td class="has-text-align-center" data-align="center">&nbsp; 67.976.333</td><td class="has-text-align-center" data-align="center">&nbsp; 73.419.429</td><td class="has-text-align-center" data-align="center">&nbsp; 85.508.858</td></tr><tr><td>AB’nin TR’nin toplam ithalatındaki payı</td><td class="has-text-align-center" data-align="center">&nbsp; % 32</td><td class="has-text-align-center" data-align="center">&nbsp; % 33</td><td class="has-text-align-center" data-align="center">&nbsp; % 31</td></tr><tr><td>AB’ye İhracat</td><td class="has-text-align-center" data-align="center">&nbsp; 78.048.751</td><td class="has-text-align-center" data-align="center">&nbsp; 70.896.437</td><td class="has-text-align-center" data-align="center">&nbsp; 94.333.033</td></tr><tr><td>AB’nin TR’nin toplam ihracatındaki payı</td><td class="has-text-align-center" data-align="center">&nbsp; % 43</td><td class="has-text-align-center" data-align="center">&nbsp; % 41</td><td class="has-text-align-center" data-align="center">&nbsp; % 41</td></tr></tbody></table><figcaption class="wp-element-caption"><em><em>Kaynak: Trade Map</em></em></figcaption></figure>
+
+
+
+<p>Sistemin etkilerinden ilki ICS2’ye entegrasyonda teknik gerekliliklerin sağlanması ile yasal yükümlülüklerin yerine getirilmesidir. Söz konusu yükümlülükler kapsamında ICS2’nin birinci faz aşamasında taşıyıcılar (posta ve hızlı kargo eşyası için) eşyayı uçağa yüklemeden önce PLACI verilerini özet beyan aracılığıyla ICS2’ye sunacaklardır. Daha sonra bu veriler üzerinden yükleme öncesi risk analizi çalıştırılacak, eğer risk analizi sonucu olumlu ise taşıyıcıya risk analizinin tamamlandığı bilgisi, şayet olumsuzsa eşyanın uçağa yüklenmemesi yönünde bildirim iletilecektir. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>Dünya Gümrük Örgütü tarafından yayınlanan SAFE Standartlar Çerçevesi’nin 2021 yılı versiyonunda da, Pillar 1- Customs-to-Customs ayağının 2.1 Standart nolu “Entegre Arz Zinciri Yönetimi” başlığında da, havacılık güvenliğine yönelik riski azaltmak için, gümrük idaresinin, sivil havacılık makamları ve diğer uygun kuruluşlarla işbirliği içinde, yüksek riski zamanında değerlendirebilmek ve yüksek risk taşıyan gönderilerin tespiti halinde eşyanın uçağa yüklenmemesi için “Yükleme (Do Not Load)” mesajını iletebilen bir sistem oluşturulması gerekliliğinden bahsedilmiştir.</p>
+
+
+
+<p>Bu yönleriyle ICS2, SAFE Standartlar Çerçevesi’nde yer verilen hava kargo güvenliği gerekliliklerini de karşılamaktadır.</p>
+
+
+
+<p>1 Mart 2023 tarihinde yürürlüğe girecek ikinci faz aşamasında ise havayolu genel kargo eşyası, ICS2 üzerinden sunulan özet beyan bilgileri üzerinden hem yükleme öncesi hem de varış öncesi risk analizine tabi tutulacaktır. (TAXUD, 2022)&nbsp;</p>
+
+
+
+<p>Taşımacıları etkileyen diğer bir husus ise özet beyanı doldurmakla kimlerin yükümlü olduğudur. Özet beyan genelde taşıyıcılar tarafından doldurulup verilmektedir. Ancak taşıyıcının tüm özet beyan bilgilerine sahip olmaması durumunda freight forwarder ya da ithalatçı tarafından da kısmen doldurulabilmektedir.</p>
+
+
+
+<p>Yukarıdaki bilgilerden de anlaşılacağı üzere, ICS2’de özet beyan verileri üzerinden iki aşamalı risk analizi yapılacaktır. Taşımacılarımızın özellikle ikinci faz aşamasına geçilmeden önce sistemi tanımaları, anlamaları, entegre olmaları ilerde yaşanabilecek muhtemel sorunların önüne geçilmesinde yardımcı olacaktır.</p>
+
+
+
+<p>Bunlardan ayrı olarak ICS2, merkezi özet beyan sistemi ve ortak risk analizi uygulaması nedeniyle gümrük işlemlerinin daha hızlı ve kolay bir şekilde yapılmasını da sağlayacaktır. Örneğin, İtalya’ya gelen bir uçak, özet beyan verdikten ve risk analizine tabi tutulduktan sonra özet beyan verileri ve risk analizi sonuçları merkezi olarak sistemde yer aldığından Almanya’ya uçuşunda tekrar özet beyan vermek zorunda kalmayacaktır. Diğer bir ifadeyle, eşya Birliğe girdikten sonra AB ülkeleri ile sisteme dahil diğer ülkeler arasındaki taşımalarda özet beyan verilmesine ihtiyaç duyulmamaktadır. Bu yönüyle sistem, emniyet ve güvenlik bağlamında AB’yi tek bir alan olarak kabul etmekte, bunun yanında verilerin tekrar tekrar verilmesine ihtiyaç bulunmadığından gümrük işlemlerini hızlandırmaktadır.</p>
+
+
+
+<p><strong>SONUÇ</strong></p>
+
+
+
+<p>ICS2 esas itibariyle AB üyesi ülkeler için oluşturulmuş ve kullanılmakta olan bir sistemdir. Merkezi özet beyan sistemi ve ortak ve tek bir risk analizi sistemiyle AB bölgesel entegrasyonunu gümrük alanında daha ileri bir aşamaya taşımada katkı sağlamaktadır. Diğer taraftan, İsviçre ve Norveç AB üyesi olmamakla birlikte kısaca “gümrük güvenlik bölgesi” anlaşmaları olarak da adlandırılan anlaşmalar (gümrük güvenlik önlemleri ile eşyaların taşınması ilişkin kontrollerin ve formalitelerin basitleştirilmesine ilişkin anlaşmalar) ile sisteme dahil olmuşlardır. Anlaşmalar temel başlıklar itibariyle, akit tarafların eşyaların gümrük bölgesine girişte gümrük emniyet ve güvenlik kontrollerinin uygulanması, özet beyana ilişkin hükümler, ortak risk analizi sisteminin çalışması, ICS2 sistemi entegrasyonu, yetkilendirilmiş yükümlülere ilişkin hükümleri içermektedir.</p>
+
+
+
+<p>Ülkemizin ICS2’ye entegre olmak istemesi durumunda AB üyesi olmadığı için öncelikle İsviçre ve Norveç gibi AB Komisyonu ile gümrük güvenlik bölgesi anlaşması yapması gerekmektedir. Bu kapsamda, ICS2’ye entegrasyon sadece IT entegrasyonu olmayıp öncelikle karşılıklı gümrük formalitelerinin uyumlaştırılması ve AB ortak risk kriterlerinin benimsenmesi konusunda anlaşmaya varılması ve bu anlaşmanın metne dönüştürülmesini gerektirmektedir. IT entegrasyonu söz konusu anlaşmanın imzalanmasından sonra ve anlaşmadaki hükümler doğrultusunda gerçekleştirilebilecek bir aşamadır.</p>
+
+
+
+<p>Bununla birlikte Türkiye’nin ICS2’ye entegrasyonu, AB’nin en önemli ticari partnerimiz olduğu da dikkate alındığında, gümrük işlemlerinin kolaylaştırılması yönüyle büyük katkı sağlayacaktır. Zira, Türkiye’nin AB elektronik gümrük sistemlerine entegrasyon konusunda, NCTS ve REX’de olduğu gibi, yeterli tecrübesi bulunmaktadır.</p>
+
+
+
+<p><strong>KAYNAKÇA</strong></p>
+
+
+
+<p>European Commission, DG TAXUD, Import Control System 2 (ICS2), 16 Ekim 2022 tarihinde <a href="https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0_en">https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0_en</a> adresinden alındı.</p>
+
+
+
+<p>European Commission, DG TAXUD, Import Control System 2 (ICS2) FAQ, 16 Ekim 2022 tarihinde <a href="https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/faq_en">https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/faq_en</a> adresinden alındı.</p>
+
+
+
+<p>European Commission, DG TAXUD, Import Control System 2-Release 1, 18 Ekim 2022 tarihinde <a href="https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/import-control-system-2-release-1_en">https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/import-control-system-2-release-1_en</a> adresinden alındı.</p>
+
+
+
+<p>World Customs Organization (2021), SAFE Framework of Standards, 4 Kasım 2022 tarihinde <a href="http://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/instruments-and-tools/tools/safe-package/safe-framework-of-standards.pdf?la=en">http://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/instruments-and-tools/tools/safe-package/safe-framework-of-standards.pdf?la=en</a> adresinden alındı.</p>
+
+
+
+<p>European Commission, DG TAXUD, Import Control System 2-Release 2, 18 Ekim 2022 tarihinde <a href="https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/import-control-system-2-release-2_en">https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/import-control-system-2-release-2_en</a> adresinden alındı.</p>
+
+
+
+<p>European Commission, DG TAXUD, Customs security, 27 Ekim 2022 tarihinde <a href="https://taxation-customs.ec.europa.eu/customs-4/customs-security/customs-security_en">https://taxation-customs.ec.europa.eu/customs-4/customs-security/customs-security_en</a> adresinden alındı.</p>
+
+
+
+<p>European Commission, DG TAXUD, ICS2 Operational guidance for member states, 23/02/2021, 24 Ekim 2022 tarihinde <a href="https://carina.gov.hr/UserDocsImages/dokumenti/e-Carina/ICS2/ICS2%20Release%201%20Operational%20Guidance%20for%20MS-(2021-02-23)-v0.20.pdf">https://carina.gov.hr/UserDocsImages//dokumenti/e-Carina/ICS2//ICS2%20Release%201%20Operational%20Guidance%20for%20MS-(2021-02-23)-v0.20.pdf</a> adresinden alındı.</p>
+
+
+
+<p>European Commission, DG TAXUD, Import Control System 2-Release 3, 26 Ekim 2022 tarihinde <a href="https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/import-control-system-2-release-3_en">https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0/import-control-system-2-release-3_en</a> adresinden alındı.</p>
+
+
+
+<p>Agreement between the European Community and the Swiss Confederation on the simplification of inspections and formalities in respect of the carriage of goods and on customs security measures, consolidated text, 15.03.2021, 02009A0731(01), 28 Ekim 2022 tarihinde <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02009A0731%2801%29-20210315">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02009A0731%2801%29-20210315</a> adresinden alındı.</p>
+
+
+
+<p>Import Control System (ICS), 13 Kasım 2022 tarihinde, <a href="https://www.revenue.ie/en/customs/businesses/electronic-systems/import-control-system.aspx">https://www.revenue.ie/en/customs/businesses/electronic-systems/import-control-system.aspx</a> adresinden alındı.</p>
+
+
+
+<p>European Commission, DG TAXUD, New customs agreements with Switzerland and Norway, 13 Kasım 2022 tarihinde <a href="https://taxation-customs.ec.europa.eu/news/amendment-customs-security-agreements-switzerland-and-norway-2021-03-15_en">https://taxation-customs.ec.europa.eu/news/amendment-customs-security-agreements-switzerland-and-norway-2021-03-15_en</a> adresinden alındı.</p>
+
+
+
+<p>Commission Implementing Decision (EU) 2019/2151, Official Journal of the European Union, 16.12.2019, L 325/168</p>
+
+
+
+<p>Regulation (EC) No 648/2005 Of The European Parliament And Of The Council, 4.5.2005, L 117/13</p>
+
+
+
+<p>Commission Regulation (EC) No 1875/2006, 19.12.2006, L 360/64</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

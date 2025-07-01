@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ali İhsan Yiğitoğlu &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<atom:link href="https://tiud.org.tr/author/aliihsanyigitoglu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tiud.org.tr</link>
+	<description>Ticaret Uzmanları Derneği</description>
+	<lastBuildDate>Fri, 28 Jun 2024 21:15:02 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://tiud.org.tr/wp-content/uploads/2021/12/cropped-tiud_logo_icon-32x32.png</url>
+	<title>Ali İhsan Yiğitoğlu &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<link>https://tiud.org.tr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Elektronik ATA Karnesi İşlemleri</title>
+		<link>https://tiud.org.tr/2022/07/30/elektronik-ata-karnesi-islemleri/</link>
+		
+		<dc:creator><![CDATA[Ali İhsan Yiğitoğlu]]></dc:creator>
+		<pubDate>Sat, 30 Jul 2022 16:12:09 +0000</pubDate>
+				<category><![CDATA[Ticarette Uzman Görüş 61]]></category>
+		<category><![CDATA[ATA Karnesi]]></category>
+		<category><![CDATA[elektronik ATA Karnesi işlemleri]]></category>
+		<category><![CDATA[geçici ihracat]]></category>
+		<category><![CDATA[Geçici ithalat]]></category>
+		<category><![CDATA[gümrük işlemlerinin kolaylaştırılması]]></category>
+		<guid isPermaLink="false">https://tiud.org.tr/?p=5025</guid>
+
+					<description><![CDATA[ATA Karnesi, geçici ithalat ve geçici ihracat işlemlerinin kolaylaştırılmasına dönük olarak kullanılan ve uluslararası geçerliliği olan bir belgedir. Karne kapsamındaki işlemler, ATA Karnesi Sözleşmesi ve Geçici İthalat Sözleşmesine taraf olan ülkeler arasında kağıt ortamında gerçekleştirilmekle birlikte, Dünya Gümrük Örgütü tarafından bu işlemlerin ülkeler arasında elektronik olarak yapılmasına dönük çalışmalar yürütülmektedir. Ülkemizde de uluslararası çalışmalara ek olarak ATA Karnesi işlemlerinin gümrük idarelerinde daha hızlı gerçekleştirilebilmesi, gümrük idareleri üzerindeki kağıt ortamında yapılan işlemlerin azaltılması ve işlemlerin elektronik olarak takip edilebilmesini teminen ulusal düzeyde elektronik ATA Karnesi çalışmaları yapılmaktadır. Bu çalışmanın amacı, uluslararası alanda yapılan çalışmalar da dikkate alınarak ülkemiz elektronik ATA Karnesine ilişkin uygulamayı değerlendirmektir.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>ÖZET</strong></p>
+
+
+
+<p><em>ATA Karnesi, geçici ithalat ve geçici ihracat işlemlerinin kolaylaştırılmasına dönük olarak kullanılan ve uluslararası geçerliliği olan bir belgedir. Karne kapsamındaki işlemler, ATA Karnesi Sözleşmesi ve Geçici İthalat Sözleşmesine taraf olan ülkeler arasında kağıt ortamında gerçekleştirilmekle birlikte, Dünya Gümrük Örgütü tarafından bu işlemlerin ülkeler arasında elektronik olarak yapılmasına dönük çalışmalar yürütülmektedir. Ülkemizde de uluslararası çalışmalara ek olarak ATA Karnesi işlemlerinin gümrük idarelerinde daha hızlı gerçekleştirilebilmesi, gümrük idareleri üzerindeki kağıt ortamında yapılan işlemlerin azaltılması ve işlemlerin elektronik olarak takip edilebilmesini teminen ulusal düzeyde elektronik ATA Karnesi çalışmaları yapılmaktadır. Bu çalışmanın amacı, uluslararası alanda yapılan çalışmalar da dikkate alınarak ülkemiz elektronik ATA Karnesine ilişkin uygulamayı değerlendirmektir.</em></p>
+
+
+
+<p><strong>Anahtar Kelimeler: </strong>Geçici ithalat, geçici ihracat, ATA Karnesi, elektronik ATA Karnesi işlemleri, gümrük işlemlerinin kolaylaştırılması</p>
+
+
+
+<p><strong>1. GİRİŞ</strong></p>
+
+
+
+<p>ATA Karnesi, geçici ithalat işlemlerinde yaygın olarak kullanılan uluslararası belge niteliğinde olup, gümrük işlemlerinin kolaylaştırılmasında önemli bir işleve sahip bulunmaktadır. Karne kapsamındaki eşyaya ilişkin izin, beyan ve teminat işlemleri, Karne üzerinde gerçekleştirilmekte, geçici ithalat rejimine tabi tutulan eşya için ayrıca izin alınmasına, beyanda bulunulmasına ve teminat verilmesine gerek olmadan işlemler hızlı biçimde gerçekleştirilebilmektedir. ATA Karnesi işlemleri, kağıt ortamında gerçekleştirilmekle birlikte bu işlemlerin elektronik ortama aktarılmasına dönük olarak gerek Dünya Gümrük Örgütü bünyesinde uluslararası düzeyde gerekse ulusay düzeyde çeşitli çalışmalar gerçekleştirmektedir.</p>
+
+
+
+<p>Bu kapsamda, ATA Karnesi işlemlerinin ülkeler arasında elektronik ortama taşınmasına ilişkin çalışmaların yanı sıra ülkeler de bu yönde adımlar atmaktadır. Türk gümrük idaresinde ATA Karnesi işlemlerinin elektronik ortama taşınmasına yönelik uygulama, 2018 yılında başlamış, 2021 yılında yapılan yeni düzenleme ile bu alandaki uygulama daha kapsayıcı bir noktaya gelmiştir. Bu çalışmada, ATA Karnesi işlemlerinin elektronik ortamda yapılmasına dönük yeni düzenleme, eski düzenleme ile karşılaştırılarak ele alınacaktır.</p>
+
+
+
+<p><strong>2. DÜNYA GÜMRÜK ÖRGÜTÜ BÜNYESİNDE YÜRÜTÜLEN ÇALIŞMALAR</strong></p>
+
+
+
+<p>ATA Karnesi, geçici ithalat işlemlerinin kolaylaştırılmasına dönük olarak uluslararası düzeyde kabul gören bir belge niteliği taşımaktadır. ATA Karnesi Sözleşmesi ve Geçici İthalat Sözleşmesi ile karnenin uluslararası düzeyde kullanımı ve şartları da kurala bağlanmıştır.</p>
+
+
+
+<p>Karne kapsamındaki işlemlerin kağıt ortamında yürütülmesi yerine işlemlerin elektronik ortamda gerçekleştirilmesine dönük olarak Dünya Gümrük Örgütü bünyesinde çalışma grupları kurulmak suretiyle çalışmalar yürütülmektedir. Bu çalışmaların amacı nihai olarak,&nbsp; Dünya Gümrük Örgütü, ulusal gümrük idareleri, ulusal kefil kuruluşlar ve uluslararası ticaret odasının içinde bulunduğu bir yapı içerisinde ATA Karnelerinin elektronik ortamda işlem görmesini sağlamaktır. Uluslararası düzeyde elektronik ATA Karnesi işlemleri önemli avantajlar sağlayacaktır. Gümrük idarelerince eşyanın dolaşımının takip edebilmesi, risk yönetiminin ve bilgi yönetiminin daha etki hale getirilmesi, ATA Karnesinin geçerliliğinin kontrolü, gümrük prosedürlerinin standart hale getirilmesi, geçici ithalat ve yeniden ihracat işlemlerine ilişkin iş süreç zamanlarının azaltılmasına önemli katkı sağlayacaktır. Yükümlüler için de bu sistem önemli avantajlar getirecektir. Karne işlemlerinin gümrüklerde daha hızlı gerçekleştirilmesi maliyetleri azaltıcı bir etki yaratacak, kağıt ortamındaki karnenin kaybedilme riskini ve kağıt ortamında işlem yapmanın olumsuz etkilerini ortadan kaldıracaktır. (YİĞİTOĞLU, 2018, s 60)</p>
+
+
+
+<p>Dünya Gümrük Örgütü bünyesinde yürütülen bu çalışmaların tamamlanarak uygulamaya konulması esas itibariyle uzun vadeli hedeftir. Özellikle, Geçici İthalat Sözleşmesine taraf 78 ülke dikkate alındığında tüm üye ülkelerin bu süreci kabulünün ve entegre olmasının oldukça zor bir süreç olduğunu da vurgulamak gerekir.</p>
+
+
+
+<p><strong>3. TÜRK GÜMRÜK İDARESİNDE ELEKTRONİK ATA KARNESİ UYGULAMASI (2018-2021 ARASI DÖNEM)</strong></p>
+
+
+
+<p>Dünya Gümrük Örgütü bünyesinde yürütülen çalışmalar kapsamında ATA Karnesi işlemlerinin elektronik ortamda gerçekleştirilebilmesine dönük olarak Geçici İthalat Sözleşmesinde 2013 yılında düzenleme yapılmış, bu kapsamda Sözleşmenin 21a maddesi ile&nbsp; Sözleşmeye taraf ülkelerin ATA Karnesine ilişkin tüm işlemleri elektronik ortamda gerçekleştirebilecekleri belirtilmiştir. 04.04.2018 tarihli, 30381 sayılı Resmi Gazete’de yayımlanan 2018/11498 sayılı Karar ile Sözleşme hükümlerinin uygulanmasında gerekli olan tüm yöntemlerin elektronik veri işleme teknikleri kullanılarak elektronik olarak yerine getirilebileceği hükmü ulusal mevzuatımıza da aktarılmıştır.</p>
+
+
+
+<p>Ülkemizde ATA Karnelerinin elektronik ortamda işlem görmesi, esas itibariyle yukarıda açıklanan uluslararası çalışmalar dışında yapılan yerel bir uygulama niteliği taşımakla birlikte ileride uluslararası elektronik sisteme entegrasyonda önemli bir kolaylık sağlayacaktır.</p>
+
+
+
+<p>2018 yılına kadar ülkemizde ATA Karnesi işlemleri, sadece kağıt ortamında gerçekleştirilmekteydi. 2018 yılından itibaren ise kağıt ortamında yapılan işlemlerin yanısıra elektronik ortamda da takip edilebilmesine dönük çalışma tamamlanmış, 02.04.2018 tarihi itibariyle ATA Karnesi işlemlerinin, tüm gümrük idarelerinde aynı zamanda BİLGE Sistemi üzerinde gerçekleştirilmesi uygulaması başlamıştır. Bu uygulamaya ilişkin mevzuat düzenlemesi de yapılmış ve ATA Karnesine ilişkin Gümrük Genel Tebliğinde (Geçici İthalat) (Seri No:4), 08.03.2018 tarihli, 30354 sayılı Resmi Gazete’de yayımlanan 6 Seri No.lu Gümrük Genel Tebliği (Geçici İthalat) ile yapılan değişiklik ile işlemlerin BİLGE sistemi üzerinde yapılabileceği düzenlenmiştir. Bu sistem, giriş gümrük idaresi tarafından alınan kağıt nüshaların çıkış gümrüğüne gönderilmesi, kağıt ortamında ayniyet tespit tutanağının düzenlenmesi, tescil defterinin düzenlenmesi gibi bir çok işlemi ortadan kaldırmış ve gümrük idarelerinin ATA Karnesi ile ilgili sistem üzerinden yapılan işlemleri kontrol edebilme ve işlemlerde önemli bir yeri olan ayniyet işlemlerinin de sistem üzerinde yapılabilmesine imkan sağlamıştır. ATA Karnesi uluslararası geçerliliği olan bir belge olması nedeniyle kağıt ortamında işlemler aynen devam ederken ülkemizde yapılan bu işlemlerin BİLGE Sistemi aracılığıyla kayıt altına alınması sağlanmıştır. (YİĞİTOĞLU, 2018, s 61)</p>
+
+
+
+<p><strong>4. TÜRK GÜMRÜK İDARESİNDE ELEKTRONİK ATA KARNESİ UYGULAMASI (2021 SONRASI YENİ UYGULAMA)</strong></p>
+
+
+
+<p>2018 yılında gerçekleştirilen elektronik ATA Karnesi işlemlerinin, 2021 yılında uygulamaya konulan yeni sistem ile daha kapsayıcı ve işlevsel hale getirildiği söyelenilebilir. Yeni sistem ile ATA Karnesine ilişkin sağlanan imkan ve kolaylıklar aşağıda başlıklar halinde açıklanmıştır.</p>
+
+
+
+<p><strong>Beyan Yöntemi</strong></p>
+
+
+
+<p>Yeni sistemde, Türkiye Gümrük Bölgesinden geçici olarak ihraç edilecek eşya için düzenlenecek olan ATA Karneleri ile ilgili başvurular, artık yükümlü tarafından TOBB ATAK sistemi üzerinden elektronik olarak yapılmaya başlanılmıştır. ATAK sisteminde yükümlü öncelikle sisteme kayıt olmak suretiyle karne başvuru işlemlerini yapmakta ve işlemlerini e-imza ile sonuçlandırmaktadır. TOBB tarafından gerçekleştirilen bu işlemlerin gümrük idaresini ilgilendiren yönü, Türk ATA Karnelerine ilişkin bilgilerin, TOBB tarafından gümrük idaresi sistemine elektronik olarak iletilmesidir.</p>
+
+
+
+<p>ATA Karnelerinin yükümlüler tarafından gümrük idaresine beyanı ve gümrük idarelerince kabul, muayene/kontrol ve onay işlemleri ise Ticaret Bakanlığının e-işlemler menüsü altında yer alan <a href="https://uygulama.gtb.gov.tr/eATA/#/login" target="_blank" rel="noreferrer noopener">https://uygulama.gtb.gov.tr/eATA/#/login</a> adresi üzerinden yapılmaktadır. Türkiye&#8217;de düzenlenen ATA Karnelerinin beyan işlemleri sırasında, beyanı verilen ATA Karnesinin bilgileri, söz konusu ATA Karnesinin numarası e-ATA/TR programında ilgili alana yazılarak TOBB veri tabanı üzerinden otomatik olarak getirilmektedir.</p>
+
+
+
+<p>Geçici ithalat işlemleri boyutu incelendiğinde, yine bu sistem üzerinden yükümlünün beyanda bulunması mümkün bulunmakla birlikte yükümlünün sistem üzerinden beyanda bulunamayacağı durumlar için yine eski uygulamada olduğu gibi kağıt ortamında sunulan ATA Karnesi bilgilerinin gümrük memuru tarafından sistem üzerinde kaydının oluşturulması gerekmektedir.</p>
+
+
+
+<p>Ülkemizde uygulanan bu sistemin ulusal nitelikte olması nedeniyle, ATA Karnesinin ilgili sayfa ve dip koçanları üzerinde imza ve mühüre ilişkin işlemlerin gümrük idaresi tarafından Karnenin kağıt nüshası üzerinde manuel uygulanmaya devam ettiğini vurgulamak gerekir.</p>
+
+
+
+<p>Bu yeni sistem ile artık ATA Karnesi beyan işlemleri, BİLGE sistemi üzerinde gerçekleştirilmemekte, Ticaret Bakanlığınca sağlanan yeni uygulama ile gerçekleştirilmektedir. Yeni sistem, daha önceki sistemde ilgili gümrük memuru tarafından BİLGE sistemine bilgilerin girilmesi esası yerine yükümlü tarafından beyan işlemlerinin uygulama üzerinden yapılması esasına dayanmaktadır.</p>
+
+
+
+<p><strong>ATA Karnesi İşlemleri Eki Eşya Listesi</strong></p>
+
+
+
+<p>ATA Karnesi kapsamında geçici ihraç ve geçici ithalatta genellikle birden fazla eşya işleme konu olmakta ve bu eşyalarda Karneye ek olarak eşya listesi olarak sunulmaktadır. Eşya listesi, Karnenin en arkasında yer almaktadır. Elektronik işlemlerde bu karnenin sisteme kaydedilmesinde uygulamada çeşitli sorunlar ile karşılaşılmakta ve bu da yükümlüden flash bellek ile bu listenin gümrük idaresine sunulması yoluyla çözülmeye çalışılmaktadır.</p>
+
+
+
+<p>Yeni sistem, geçici ihraç işlemlerinde eşya listesinin elektronik olarak TOBB üzerinden alınması yoluyla hem yükümlülerin hem de gümrük idaresinin işlemleri daha hızlı gerçekleştirilebilmesine imkan sağlamıştır. Ancak, geçici ithalat işlemlerinde gümrük idaresi tarafından beyanının oluşturulduğu durumda yine eşya listesinin gümrük idaresine sunulması uygulamasına devam edileceğini vurgulamak gerekir.</p>
+
+
+
+<p><strong>Ön Beyan</strong></p>
+
+
+
+<p>Yeni sistemin getirdiği önemli uygulamalardan bir diğeri, ATA Karnesine ilişkin ön beyan yapılabilmesine imkan sağlanması olmuştur. 2 Haziran 2021 tarihli ve 31499 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Gümrük Genel Tebliği (Geçici İthalat) <a href="https://www.mevzuat.net/gumruk/teblig/2005/geciciithalat04.aspx">Seri No: 4’te</a> Değişiklik Yapılmasına Dair Tebliğ (Geçici İthalat) <a href="https://www.mevzuat.net/gumruk/teblig/2005/geciciithalat07.aspx">(Seri No: 7)</a> uyarınca ATA Karnesi kapsamında geçici ithal edilecek eşyanın, giriş gümrük idaresine varışından önce elektronik olarak beyan edilebilmesine imkan sağlanmıştır. İlgili mevzuatta ön beyanın ne kadar süre öncesinde yapılması gerektiğine dair herhangi bir kısıt bulunmamaktadır.</p>
+
+
+
+<p><strong>Transit İşlemleri</strong></p>
+
+
+
+<p>Yeni sistemin sağladığı en önemli kolaylık transit işlemlerine ilişkin beyanın yapılabilmesine imkan sağlaması olmuştur.</p>
+
+
+
+<p>Geçici İthalat Sözleşmesi uyarınca ATA Karnelerinin transit işlemi için kullanılabilmesi mümkün bulunmaktadır. Sözleşmede, her akit tarafın aynı şartlara uygun olarak verilen ve kullanılan geçici ithalat belgelerini gümrük transiti için kabul edilebilir olduğu belirtilmiştir. ATA Karnesi kapsamı geçici ithal eşyasının transit işlemleri, ATA Karnesinin Transit nüshası kullanılmak suretiyle yapılabilmektedir. Ancak, BİLGE Sistemi üzerindeki elektronik işlemlerde, Transit işleminin olmaması nedeniyle uygulamada birtakım sıkıntılar yaşanmaktaydı.</p>
+
+
+
+<p>Yeni uygulama, transit işlemlerinin kağıt ve elektronik ortamda eş zamanlı olarak gerçekleştirilebilmesine imkan sağlamıştır. Bu düzenleme olmadan önce ATA Karnesi olmasına rağmen transit işlemi yapılacak geçici ithal eşyası için bir de transit beyannamesi düzenlenmesi durumunun olması yükümlüler açısından hem maliyet oluşturmakta hem de mevzuat ile sağlanan hakkın kullanımında engel ile karşılaşılmasına sebebiyet vermekteydi. Dolayısıyla yeni uygulamanın transit işlemlerinde önemli bir kolaylık sağladığını vurgulamak gerekir.</p>
+
+
+
+<p><strong>5. SONUÇ</strong></p>
+
+
+
+<p>Ülkemiz gümrük uygulamalarında işlemlerin elektronik ortamda gerçekleştirilmesine dönük bir çok çalışma yapılmakta ve bu çalışmalar, bir yandan yükümlünün işlemlerini kolaylaştırırken diğer yandan gümrük idaresinin işlemleri kayıt altına alarak daha güvenilir biçimde takibine imkan sağlamaktadır. ATA Karnesi işlemlerinin elektronik ortama alınması çalışmalarını da bu kapsamda değerlendirmek gerekir. ATA Karnesi işlemlerinin dış ticaret ve gümrük işlemleri içerisinde yaygın kullanımı dikkate alındığında bu işlemlerin elektronik ortamda takibi büyük önem taşımaktadır.&nbsp;</p>
+
+
+
+<p>2018 yılında yapılan elektronik ATA Karnesi işlemleri sonrasında 2021 yılında uygulamaya konulan yeni sistem, TOBB ile olan bağlantısı dikkate alındığında daha kapsayıcı ve işlemleri daha kolaylaştırıcı niteliktedir. ATA Karnesi işlemlerinin elektronik olarak gerçekleştirilmesi, gümrük idaresinin bu işlemleri takibini önemli ölçüde kolaylaştırmış ve kırtasiyeciliği de önemli ölçüde ortadan kaldırmıştır.</p>
+
+
+
+<p>Yeni uygulamanın sağladığı en önemli faydalardan birinin, kağıt ortamındaki ATA Karnesinde yer alan transit işlemlerinin sisteme de entegre edilmesi, böylece sınırda yükümlünün karşılaştığı ek işlem ve maliyetin ortadan kaldırılması olduğunu vurgulamak gerekir.</p>
+
+
+
+<p><strong>KAYNAKÇA</strong></p>
+
+
+
+<p>-Convention on Temporary Admission (Geçici İthalat-İstanbul Sözleşmesi), &nbsp;<a href="http://www.wcoomd.org/en/about-us/legal-instruments/conventions.aspx">http://www.wcoomd.org/en/about-us/legal-instruments/conventions.aspx</a></p>
+
+
+
+<p>-Customs Convention on the ATA carnet for the temporary admission of goods (ATA Convention) (ATA Karnesi Sözleşmesi), <a href="http://www.wcoomd.org/en/about-us/legal-instruments/conventions.aspx">http://www.wcoomd.org/en/about-us/legal-instruments/conventions.aspx</a></p>
+
+
+
+<p>&#8211; Gümrük Yönetmeliği, 07.10.2009 tarihli, 27369 sayılı Resmi Gazete</p>
+
+
+
+<p>-Gümrük Genel Tebliği (Geçici İthalat) Seri No:4, 21.03.2005 tarihli, 25762 sayılı Resmi Gazete</p>
+
+
+
+<p>-2021/17 Sayılı Genelge, 10.06.2021</p>
+
+
+
+<p>-ICC, e-ATA Carnet, <a href="https://iccwbo.org/media-wall/news-speeches/ata-carnet-steps-digital-age-new-pilot-project">https://iccwbo.org/media-wall/news-speeches/ata-carnet-steps-digital-age-new-pilot-project</a>, 20/06/2018</p>
+
+
+
+<p>-YİĞİTOĞLU, Ali İhsan (2018), “ATA Karnesinde Kağıt Ortamından Elektronik Ortama Geçiş (Ulusal ve Uluslararası Çalışmalar)”, Gümrük ve Ticaret Dünyası, Sayı 99, 60-65.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

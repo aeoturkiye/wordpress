@@ -1,0 +1,79 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*( < 480 )*/
+@media (max-width: 479.98px) {
+	/** General >> Text holder **/
+	.single-blog-style1 > .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _2 **/
+	#post-7675 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _3 **/
+	#post-7677 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _4 **/
+	#post-7621 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _5 **/
+	#post-7636 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _6 **/
+	#post-7628 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _7 **/
+	#post-7649 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _8 **/
+	#post-7615 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _9 **/
+	#post-7647 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _10 **/
+	#post-7643 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _11 **/
+	#post-7663 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+	/** General >> Text holder _12 **/
+	#post-7667 .text-holder {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+}
+

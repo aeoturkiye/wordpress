@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Melek Nebioğlu &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<atom:link href="https://tiud.org.tr/author/meleknebioglu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tiud.org.tr</link>
+	<description>Ticaret Uzmanları Derneği</description>
+	<lastBuildDate>Sat, 11 Jan 2025 13:19:58 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://tiud.org.tr/wp-content/uploads/2021/12/cropped-tiud_logo_icon-32x32.png</url>
+	<title>Melek Nebioğlu &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<link>https://tiud.org.tr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gümrüklerin Modern Yüzü: Komuta Kontrol Merkezi</title>
+		<link>https://tiud.org.tr/2024/12/29/gumruklerin-modern-yuzu-komuta-kontrol-merkezi/</link>
+		
+		<dc:creator><![CDATA[Melek Nebioğlu]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2024 08:13:29 +0000</pubDate>
+				<category><![CDATA[Ticarette Uzman Görüş 66]]></category>
+		<category><![CDATA[Acil Durum Yönetimi]]></category>
+		<category><![CDATA[Kaçakçılıkla Mücadele]]></category>
+		<category><![CDATA[Komuta Kontrol Merkezi]]></category>
+		<category><![CDATA[Merkezileştirilmiş Yönetim]]></category>
+		<category><![CDATA[Teknolojik Altyapı]]></category>
+		<guid isPermaLink="false">https://tiud.org.tr/?p=7615</guid>
+
+					<description><![CDATA[Teknolojik gelişmelerin devlet hizmetlerindeki rolü giderek artmakta, özellikle kritik alanlarda etkili sistemlerin kullanımı büyük önem taşımaktadır. Bu kapsamda komuta kontrol merkezleri, acil durum yönetimi, güvenlik ve sınır kontrolü gibi alanlarda merkezileştirilmiş bir yönetim anlayışı sunarak olayların hızlı ve etkili bir şekilde yönetilmesine katkı sağlamaktadır. Bu merkezler, iş birliği ve koordinasyonun artırılması, teknolojik araçların entegrasyonu ve vatandaşlara daha hızlı hizmet sunulması gibi birçok avantaj sağlamaktadır. Ticaret Bakanlığı tarafından Gümrükler Muhafaza Genel Müdürlüğü bünyesinde kurulan Komuta Kontrol Merkezi de kaçakçılıkla mücadelede modern çözümler sunarak önemli bir rol oynamaktadır. Bu çalışmada, Komuta Kontrol Merkezi’nin teknolojik altyapısı, işlevleri ve sağladığı faydalar ele alınacaktır.]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>ÖZET</strong></p>
+
+
+
+<p>Teknolojik gelişmelerin devlet hizmetlerindeki rolü giderek artmakta, özellikle kritik alanlarda etkili sistemlerin kullanımı büyük önem taşımaktadır. Bu kapsamda komuta kontrol merkezleri, acil durum yönetimi, güvenlik ve sınır kontrolü gibi alanlarda merkezileştirilmiş bir yönetim anlayışı sunarak olayların hızlı ve etkili bir şekilde yönetilmesine katkı sağlamaktadır. Bu merkezler, iş birliği ve koordinasyonun artırılması, teknolojik araçların entegrasyonu ve vatandaşlara daha hızlı hizmet sunulması gibi birçok avantaj sağlamaktadır. Ticaret Bakanlığı tarafından Gümrükler Muhafaza Genel Müdürlüğü bünyesinde kurulan Komuta Kontrol Merkezi de kaçakçılıkla mücadelede modern çözümler sunarak önemli bir rol oynamaktadır. Bu çalışmada, Komuta Kontrol Merkezi’nin teknolojik altyapısı, işlevleri ve sağladığı faydalar ele alınacaktır.</p>
+
+
+
+<p><strong>Anahtar Kelimeler: </strong>Komuta Kontrol Merkezi, Kaçakçılıkla Mücadele, Teknolojik Altyapı, Merkezileştirilmiş Yönetim, Acil Durum Yönetimi, Sınır Kontrolü<strong></strong></p>
+
+
+
+<p class="has-text-align-left"><strong>GİRİŞ</strong></p>
+
+
+
+<p>Günümüzün küreselleşen dünyasında yeni teknolojik gelişmelerin yaşanması, mevcut programların geliştirilerek kullanıma sunulmaları, ülkeler ve ülkelerde görev yapan birimler için bu gelişmelerin yakından takip edilmesini, teknolojinin getirdiği değişikliklerin kendi görev alanlarında en iyi biçimde kullanılmasını zorunlu kılmaktadır. Bu bağlamda, devletler sağlık, ulaşım, güvenlik, sınır güvenliği gibi çok çeşitli alanlarda daha iyi hizmet sunabilmek maksadıyla komuta kontrol merkezleri kurmaktadır.</p>
+
+
+
+<p>Söz konusu merkezler;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Acil durumlar öncesinde hazırlık yapılması ve zararın azaltılması,</li>
+
+
+
+<li>Afet veya acil durumlarda sürecin tek bir noktadan yönetilebilmesi,</li>
+
+
+
+<li>Vatandaşa daha hızlı hizmet verilebilmesi,</li>
+
+
+
+<li>Birey ve toplumun her türlü tehditlerden korunması,</li>
+
+
+
+<li>Kurumlar ve birimler arası işbirliği ve koordinasyonun sağlanması,</li>
+
+
+
+<li>Ülkelerin çağa uygun araç ve gereçleri en etkin biçimde kullanabilmesi,</li>
+
+
+
+<li>Takip ve izleme esnasında müdahale gerektiren durumlarda hızlı hareket edebilmeye imkân sağlaması,</li>
+
+
+
+<li>Kullanıcılar için durumsal farkındalığın artması,</li>
+
+
+
+<li>Risk değerlendirmelerine dayalı olarak oluşabilecek bütün durum ve ihtimallere yönelik senaryolar geliştirilmesi,</li>
+</ul>
+
+
+
+<p>Yönlerinden önemli katkılar sağlamaktadır.</p>
+
+
+
+<p>Özellikle kolluk kuvvetlerinin çalışmalarında, komuta kontrol merkezleri önemli roller üstlenmektedir. Bahse konu merkezler, kolluk birimlerinin tehditlere ve acil durumlara hızlı tepki vermelerini; kurumlar arası iş birliği ve koordinasyonu arttırarak bilgi paylaşımını sağlamaktadır.</p>
+
+
+
+<p>Komuta kontrol merkezlerinin dünyadaki örnekleri incelendiğinde, devletlerin söz konusu merkezlere ciddi miktarlarda yatırım yaptıkları görülmektedir. Dünyada olduğu gibi ülkemizde de sağlık, belediye hizmetleri, kent güvenliğinin sağlanması, sınır güvenliğinin en üst düzeyde tutulması gibi çeşitli alanlarda kurulan merkezler bulunmaktadır. Teknolojinin süratle gelişmesi, bahse konu merkezlerin de çağa uygun şekilde yenilenmesini ve söz konusu gelişmelere paralel olarak yeniden dizayn edilmelerini beraberinde getirmektedir. Günümüzde mobil olarak hizmet veren komuta kontrol merkezleri de bulunmaktadır.</p>
+
+
+
+<p>Ticaret Bakanlığı da dünya ve ülkemizdeki teknolojik gelişmeleri yakından izleyen bir kurum olarak Gümrükler Muhafaza Genel Müdürlüğü bünyesinde bir Komuta Kontrol Merkezi kurmuş ve çeşitli zamanlarda, ihtiyaçlar doğrultusunda anılan merkezi genişleterek, çalışmalarına daha etkin ve hızlı biçimde devam etmesini sağlamış ve sağlamaya devam etmektedir.</p>
+
+
+
+<p>Komuta Kontrol Merkezi, bünyesinde kurulu sistemler ile çok çeşitli alanlarda kaçakçılıkla mücadeleye destek olmaktadır.</p>
+
+
+
+<p><strong>KOMUTA KONTROL MERKEZİ</strong></p>
+
+
+
+<p>Komuta Kontrol Merkezi ülkemiz gümrük bölgesi ile gümrük kapı ve limanlarında yürütülen gümrük gözetim ve denetim faaliyetlerinin daha etkin hale getirilmesi, kaçakçılıkla mücadelede teknik uygulamaların dünya standartlarına ulaştırılması amaçlarıyla görev yapmaktadır.</p>
+
+
+
+<p>Bakanlığımız hizmet binasında bulunan Komuta Kontrol Merkezi, video duvar ekran yönetim sisteminden oluşan izleme ekranları ve çok sayıda operatörün birlikte çalışmasına imkân verecek şekilde tasarlanmış olan çalışma alanı ile faaliyetlerini sürdürmektedir.<a href="#_ftn1" id="_ftnref1"><sup>[1]</sup></a></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="512" height="341" src="https://tiud.org.tr/wp-content/uploads/2024/12/Resim1-2.jpg" alt="" class="wp-image-7652" style="width:836px;height:auto" srcset="https://tiud.org.tr/wp-content/uploads/2024/12/Resim1-2.jpg 512w, https://tiud.org.tr/wp-content/uploads/2024/12/Resim1-2-300x200.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+
+
+
+<p>Komuta Kontrol Merkezi’ndeki gümrük güvenlik sistemleri alt bileşenleri ise şu şekildedir:</p>
+
+
+
+<p>1-&nbsp; Güvenlik Kamera Sistemleri&nbsp;</p>
+
+
+
+<p>2-&nbsp; Plaka Tanıma Sistemi</p>
+
+
+
+<p>3- Araç Takip Sistemi&nbsp;</p>
+
+
+
+<p>4- Akaryakıt Takip Sistemi</p>
+
+
+
+<p>5-&nbsp; Hava Takip Sistemi</p>
+
+
+
+<p>6- Gemi Takip Sistemi</p>
+
+
+
+<p>7- Veri Yönetim Sistemi</p>
+
+
+
+<p>8- Radyasyon İzleme Sistemi&nbsp;&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Güvenlik Kamera Sistemleri (GKS)</strong></li>
+</ul>
+
+
+
+<p>Güvenlik Kamera Sistemleri; kara, deniz ve hava gümrük kapı ve sahalarında kamu düzeninin korunması, kaçakçılıkla mücadele çerçevesinde kişi, eşya ve taşıtların hareketlerinin gerek önleyici gerekse olay sonrası takibat imkânıyla izlenmesi, ayrıca adli tahkikata konu olaylarda somut delil desteği sağlaması amacıyla Komuta Kontrol Merkezi’nde yoğun bir şekilde kullanılan teknolojik araçlar içinde yer almaktadır.</p>
+
+
+
+<p>Günümüzde kolluk kuvvetleri kapalı devre televizyon sistemlerini toplumsal güvenliğin sağlanması, suçların önlenmesi ve işlenen suçların delillendirilmesi amacıyla yoğun bir şekilde kullanmakta olup, bu sistemler merkez ve taşrada görev yapan Gümrük Muhafaza birimlerince de gümrüklü sahalarda aynı amaçlarla yaygın ve etkin bir şekilde kullanılmaktadır. Kara ve deniz gümrük kapılarından alınan görüntüler Bakanlık merkezinde bulunan Komuta Kontrol Merkezi’nden de anlık olarak izlenebilmekte, bu şekilde merkezi ve yerel olmak üzere iki aşamalı gümrüklü sahaların takibi sağlanmaktadır.</p>
+
+
+
+<p>GKS’lerin geriye dönük izlemeye imkân vermesi sahalarda meydana gelen asayiş olaylarında suç ve suç unsurlarının tespitini kolaylaştırmaktadır. Görüntülerin kayıt altına alınması, sadece adli olayların değil idari olaylar ve şikâyetlerin çözümlenmesine de katkı sağlamaktadır.</p>
+
+
+
+<p>Ayrıca, doğu ve güneydoğu gümrük kapılarımızda geçiş yapan yolcu ve araç sürücülerinin yüz eşkâllerinin kameralar vasıtasıyla kayıt altına alınarak, adli soruşturmalar ve istihbarat çalışmaları kapsamında, teşhis ve tespitinin yapılabilmesi amacıyla ilgili idarelerimize “Yüz Kayıt Sistemi” kurulmuştur.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Plaka Tanıma Sistemi&nbsp; (PTS)</strong></li>
+</ul>
+
+
+
+<p>Plaka Tanıma Sistemi’nde ülkemize gelen ve ülkemizden giden tüm araçların plakaları, optik karakter tanımlama özelliğini haiz plaka tanıma kameraları marifetiyle okunarak sisteme otomatik olarak kaydedilmektedir. Sistemin kurulumu ile manuel olarak yürütülen plaka kayıt işlemleri otomatik hale getirilmiş olup, böylece kara kapılarından geçiş yapan araçların bekleme süreleri azaltılarak ülke güvenliği ve kaçakçılıkla mücadele anlamında gümrüklü sahalarda araçların kontrolünün en etkin biçimde yapılması sağlanmıştır.<a href="#_ftn2" id="_ftnref2"><sup>[2]</sup></a></p>
+
+
+
+<p>Plaka Tanıma Sistemi, Latince ve Arapça karakterler bulunan tüm plakaların verilerini alarak yüksek çözünürlüklü araç fotoğrafı ile eşleştirmekte; yüzde yüz algılama, yüksek tanıma oranı ve gece-gündüz faaliyet gösterme olanakları sunmaktadır.<a href="#_ftn3" id="_ftnref3"><sup>[3]</sup></a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Araç Takip Sistemi (ATS)</strong></li>
+</ul>
+
+
+
+<p>10.07.2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi’nin 441’inci maddesinin birinci fıkrasında,</p>
+
+
+
+<p><em>“ğ) Gümrüklü yer ve sahalarda münhasıran, Türkiye Cumhuriyeti Gümrük Bölgesinde gerektiğinde ilgili kuruluşlarla işbirliği yapmak suretiyle kaçakçılığı önlemek, izlemek ve soruşturmak,”</em> hükmü yer almaktadır.</p>
+
+
+
+<p>Nitekim 07.10.2009 tarihli ve 27369 (Mükerrer)&nbsp; sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin “Transit Rejimine Tabi Eşya Taşıyan Taşıtlar” başlıklı 72/C maddesi;</p>
+
+
+
+<p><em>“ (1) Transit rejimi kapsamında eşya taşıyan yerli ve yabancı plakalı taşıtlar, Türkiye Gümrük Bölgesinde seyrettikleri ve bulundukları sürede, gümrük gözetimi ve kontrolüne tabi olup bu taşıtlara ilişkin gümrük gözetimi elektronik uydu takip cihazları vasıtasıyla da gerçekleştirilebilir.</em></p>
+
+
+
+<p><em>(2) Taşıtın Türkiye Gümrük Bölgesinde seyri sırasında, transit rejim hükümlerini ihlal ettiğine dair şüphe durumunda, ilgili gümrük idaresi tarafından mobil kontrol ekipleri vasıtasıyla taşıtın kontrole tabi tutulması sağlanır.”</em> hükmünü amirdir.</p>
+
+
+
+<p>Bu çerçevede, Araç Takip Sistemi mevzuatta da belirtildiği üzere, Türkiye Cumhuriyeti Gümrük Bölgesi’nde kişi, eşya ve taşıtların kaçakçılıkla mücadele kapsamında takibini yapmak, ülkemiz üzerinden transit olarak geçiş yapan araçların kontrolünü sağlamak amaçlarına yönelik olarak oluşturulmuştur. Araç Takip Sistemi, ülkemizden transit geçen veya ülkemizden yurt dışına giden transit taşımacılık yapan araçlara mobil takip cihazı takılarak, araçların hareket gümrük idaresinden varış gümrük idaresine kadar takip etmesi gereken zorunlu güzergâh boyunca uydu üzerinden ve GSM yardımı ile gerek Komuta Kontrol Merkezi gerekse yerel idarelerden anlık olarak izlendiği sistemdir.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="587" height="342" src="https://tiud.org.tr/wp-content/uploads/2024/12/Resim2-1.png" alt="" class="wp-image-7653" style="width:840px;height:auto" srcset="https://tiud.org.tr/wp-content/uploads/2024/12/Resim2-1.png 587w, https://tiud.org.tr/wp-content/uploads/2024/12/Resim2-1-300x175.png 300w" sizes="(max-width: 587px) 100vw, 587px" /></figure>
+
+
+
+<p>Komuta Kontrol Merkezi personeli; 24 saat boyunca sistem üzerinden mobil ünite takılmış olan araçları izlemekte; rotadan çıkma, uzun süre bir noktada bekleme veya mobil üniteyi sökme gibi durumlarda taşradaki mobil müdahale ekipleri ile irtibata geçmektedir.<a href="#_ftn4" id="_ftnref4"><sup>[4]</sup></a></p>
+
+
+
+<p>Araç Takip Sistemi’nde 6.919<a href="#_ftn5" id="_ftnref5"><sup>[5]</sup></a> adet mobil ünite cihazı kullanılmakta olup, 2023 yılı içinde toplam 81.859 adet araca mobil ünite cihazı takılmak suretiyle bu araçların sistem üzerinden izlenmesi sağlanmıştır. Yapılan izlemeler sonucunda, 2023 yılında Komuta Kontrol Merkezi’nden yapılan takipte yaklaşık 1.104.349 TL değerinde kaçakçılık olayı ortaya çıkarılmıştır. Ayrıca 2023 yılında takip ve izlemesi yapılan araçlardan 1.561 tanesine 4458 sayılı Gümrük Kanunu’nun 241’inci maddesine muhalefet suçundan 4.593.906 TL değerinde cezai işlem uygulanmıştır.<a href="#_ftn6" id="_ftnref6"><sup>[6]</sup></a></p>
+
+
+
+<p>Ayrıca, günün teknolojik gelişmelerine uygun olarak KAPAN (Gümrüklü Eşya ve Nesne Takip sistemi-GENTSİS) cihazı üzerinde yer alan sensör grupları) ile kaçakçılıkla mücadelede etkinliğin ve caydırıcılığın artırılması amacıyla, transit rejim hükümleri kapsamında taşımacılık yapan araçlardaki eşyanın rejim hükümlerine aykırı olarak yurt içinde bırakılmasını veya eşyanın değiştirilmesine engel olmak amacı ile eşya taşıyan araçların hareket gümrük idaresinden son varış gümrük idaresine kadar eş zamanlı takiplerinin yapılması ve takipleri esnasında oluşan riskli durumların tespit edilmesi amacıyla&nbsp; tasarlanarak günümüz teknolojik gelişmelerine paralel olarak geliştirilmiştir. Böylece, eşyanın rejim hükümlerine aykırı olarak yurt içinde bırakılması veya değiştirilmesine engel olunması hedeflenmektedir.<a href="#_ftn7" id="_ftnref7"><sup>[7]</sup></a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Akaryakıt Takip Sistemi</strong></li>
+</ul>
+
+
+
+<p>Akaryakıt kaçakçılığı;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Devletin akaryakıt cinsi eşyadan aldığı vergilerde meydana gelen kaybın toplum refahı üzerinde yaratacağı menfi etki,</li>
+
+
+
+<li>Piyasaya sunulan standart dışı ve kalitesiz akaryakıt ile tüketicilerin aldatılması,</li>
+
+
+
+<li>Yasalara uygun hareket eden firmalar karşısında haksız rekabet ortamının doğmasına sebebiyet vermesi,</li>
+
+
+
+<li>İnsan sağlığı ve çevre açısından oluşturduğu tehdit,</li>
+</ul>
+
+
+
+<p>Bakımından ciddi önlemler alınmasını gerektiren bir kaçakçılık türüdür.<a href="#_ftn8" id="_ftnref8"><sup>[8]</sup></a> Dolayısıyla, Akaryakıt Takip Sistemi kapsamında araçların takip ve izlenmesi kaçakçılıkla mücadele açısından önem arz etmektedir.</p>
+
+
+
+<p>Bu bağlamda, 24.07.2012 tarihli ve 28363 sayılı Resmî Gazete’de yayımlanan Gümrük Genel Tebliği (Transit Rejim) (Seri No:3) gereğince, Mersin-Habur ve İskenderun-Habur arasında akaryakıt taşımacılığı yapan araçlar, Akaryakıt Takip Sistemi aracılığıyla takip edilmektedir. Akaryakıt Takip Sistemi, çalışma prensibi olarak Araç Takip Sistemi ile aynı yapıda olmakla birlikte, taşımacılık yapan araçlarda mobil ünite cihazı takibi yapılacak tankerlere sabit bir yapıda monte edilmektedir.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Hava Takip Sistemi</strong></li>
+</ul>
+
+
+
+<p>Hava Takip Sistemi, ülkemize gelen veya ülkemizden giden uçaklardaki yolcu bilgilerinin Varış Öncesi Yolcu Analiz Programı (VÖY) ve Kaçakçılık Bilgi Bankası (KBB)&nbsp; ile eşleştirmesini yapmak suretiyle havalimanlarında görev yapan personelin karar verme sürecine destek olan bir sistemdir.<a href="#_ftn9" id="_ftnref9"><sup>[9]</sup></a></p>
+
+
+
+<p>Komuta Kontrol Merkezi’nde görevli personel tarafından, uçak henüz havada iken yolcuların geçmiş uçuşları, KBB kayıtları, varsa ihbarları değerlendirilerek analiz yapılmakta, riskli görülen yolculara ilişkin veriler, ilgili havalimanlarına bildirerek şüpheli şahısların takip ve kontrolünü talep edilmektedir.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Gemi Takip Sistemi</strong></li>
+</ul>
+
+
+
+<p>Ülkemiz karasuları ve deniz limanlarında kaçakçılığın men ve takibi kapsamında Gümrükler Muhafaza Genel Müdürlüğünce önemli çalışmalar yürütülmektedir. Bu çerçevede, Komuta Kontrol Merkezi’ne karasularımızda ulusal ve uluslararası taşımacılık yapan gemilerin takip edilebildiği Gemi Takip Sistemi kullanılmaktadır.</p>
+
+
+
+<p>Söz konusu sistem ile ülkemiz kara sularında meydana gelebilecek kaçakçılık olaylarını sisteme tanımlanmış olan parametre ve diğer verilerin işlenmesi akabinde programın uyarı mesajı vermesi sağlanarak, en yakın deniz bağlantısı olan Gümrük Muhafaza Kaçakçılık ve İstihbarat Müdürlüklerimizin çok hızlı bir şekilde yerinde ve zamanında operasyonel müdahalesi sağlanmaktadır.<a href="#_ftn10" id="_ftnref10"><sup>[10]</sup></a></p>
+
+
+
+<p>Gemi Takip Sistemi, Bakanlığımızda kullanılmakta olan Kaçakçılık Bilgi Bankası, Gümrük İhbar Programı, Özet Beyan ve Liman Tek Pencere Sistemleri ile entegre bir şekilde çalışmaktadır.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Veri Yönetim Sistemi</strong></li>
+</ul>
+
+
+
+<p>Veri Yönetim Sistemi, araç ve konteyner tarama sistemlerinden alınan tarama görüntülerinin ortak bir sunucuda toplanması, gerekli görülen hallerde taranan bir aracın görüntüsünün geriye dönük izlemesinin yapılması ve operatörler arası bilgi değişiminin sağlanması amacıyla kurulmuştur.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="576" height="265" src="https://tiud.org.tr/wp-content/uploads/2024/12/Resim3.png" alt="" class="wp-image-7654" style="width:840px;height:auto" srcset="https://tiud.org.tr/wp-content/uploads/2024/12/Resim3.png 576w, https://tiud.org.tr/wp-content/uploads/2024/12/Resim3-300x138.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></figure>
+
+
+
+<p>Komuta Kontrol Merkezi’nde, gümrük kapı ve limanlarında kullanılan araç ve konteyner tarama sistemlerinden Veri Yönetim Sistemi sayesinde anlık olarak alınan X-Ray imaj görüntülerinin ikincil kontrol ve denetimi yapılmaktadır. Bu şekilde çift denetimli bir mekanizma ile mücadele faaliyetleri daha etkili ve verimli bir yapıya kavuşmaktadır.</p>
+
+
+
+<p>Araç daha önce kaçak ya da yasa dışı eşyayı ülkeye sokmaya çalışırken tespit edildi ise, söz konusu eşyanın araca zulalandığı yer görülebilmektedir. Böylece, kaçak eşyanın tespiti kolaylaşmaktadır.<a href="#_ftn11" id="_ftnref11"><sup>[11]</sup></a></p>
+
+
+
+<p>Ayrıca ilerleyen süreçte, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) ile yürütülen Tarama Ağı Projesi’nin ulusal ayağı kapsamında Bakanlığımızca kullanılan araç ve konteyner tarama sisteminin marka modelinden bağımsız olarak, ham görüntülerin merkeze aktarılması planlanmaktadır.<a href="#_ftn12" id="_ftnref12"><sup>[12]</sup></a></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Radyasyon İzleme Sistemi</strong></li>
+</ul>
+
+
+
+<p>Bilindiği üzere, nükleer maddelerin ve diğer radyoaktif kaynakların yasa dışı ticareti gerek silahsızlanma gerekse halk ve çevre sağlığı için ciddi bir tehdit oluşturmakta, bu durumun önlenmesi için de gümrük kapılarına anılan maddelerin tespitini yapabilen radyasyon tespit sistemlerinin teçhiz edilip, sürekli bir kontrol mekanizmasının çalıştırılması önem arz etmektedir.</p>
+
+
+
+<p>Sınırlarda etkin gümrük denetimi sağlamak suretiyle Türkiye Gümrük Bölgesi’ne gelen ve giden karayolu taşıtlarının giriş ve çıkışlarda kontrolü yapılmaktadır.</p>
+
+
+
+<p>Nitekim Gümrük Yönetmeliği’nin 72/T. maddesi;</p>
+
+
+
+<p><em>&nbsp;“Kanunun </em><a href="about:blank"><em>33 üncü</em></a><em> maddesinde </em><em>belirtilen yerlerde kişi, eşya ve taşıtların, radyasyon tespit sistemleri vasıtasıyla radyasyon kontrolleri yapılır.”</em> hükmünü amirdir.</p>
+
+
+
+<p>Bu minvalde, Bakanlığımız tarafındanradyoaktif maddelerin yasal ticaretini kontrol altında tutmak ve yasa dışı hareketlerini önlemek amacıyla kara sınır kapılarında, limanlarda ve havalimanlarında araçların ve eşyanın radyoaktif salınım yapıp yapmadığını kontrol amacıyla Nükleer Denetleme Kurumu arasında yapılan protokol kapsamında Radyasyon İzleme Sistemi kurulmuştur. Sistemden alınan alarmlar, Komuta Kontrol Merkezi tarafından ilgili idare ile eş zamanlı olarak izlenebilmekte ve kurulu bulunan portal dedektörlerden gelen veriler takip edilmektedir.<a href="#_ftn13" id="_ftnref13"><sup>[13]</sup></a></p>
+
+
+
+<p><strong>SONUÇ</strong></p>
+
+
+
+<p>Kaçakçılık, suç örgütlerinin faaliyetlerine finansal kaynak sağlamakta, ülkelerin güvenliğini ve düzenini tehdit etmekte, küresel boyutta tüm ülkeler için ciddi bir tehdit unsuru oluşturmaktadır. Ülkemiz için de sorun teşkil eden kaçakçılık faaliyetleri alınan önlemlerle engellenmeye çalışılmaktadır.</p>
+
+
+
+<p>Kaçakçılıkla mücadelede en verimli ve etkin çalışma yöntemlerinin belirlenmesi ve kullanılması; ülkemizin ekonomik yönden zarara uğramasını engellemek adına da önem arz etmektedir.&nbsp; Bu düşünceden hareketle, Bakanlığımız son yıllarda taşra idareleri ve merkezde fiziki ve teknik altyapının geliştirilmesi amacına yönelik olarak önemli yatırımlarda bulunmuş ve bulunmaya devam etmektedir. Gümrükler Muhafaza Genel Müdürlüğü bünyesinde kurulan Komuta Kontrol Merkezi bu yatırımlara gösterilebilecek en iyi örneklerdendir.</p>
+
+
+
+<p>Komuta Kontrol Merkezi’nin izleme, yönlendirme ve takip fonksiyonları ile yarattığı caydırıcılık etkisi, kaçakçılığın önlenmesine büyük katkı sağlamaktadır.<a href="#_ftn14" id="_ftnref14"><sup>[14]</sup></a> Bu bağlamda, Komuta Kontrol Merkezi’ne yönelik olarak gerçekleştirilen yenilenme, fiziki-teknik altyapı çalışmaları kaçakçılıkla mücadele faaliyetleri noktasında önem arz etmektedir.</p>
+
+
+
+<p>Komuta Kontrol Merkezi gerek yurt içi gerekse yurt dışından gelen heyetler tarafından ziyaret edilmekte, böylelikle gümrük idarelerinin modernizasyonu çalışmaları kapsamında bir örnek model teşkil etmektedir.</p>
+
+
+
+<p>Komuta Kontrol Merkezi’nin güncel ihtiyaç ve yeni trendlerle paralel olarak sürekli gelişim göstermesi, dünya gümrüklerinde kullanılan sistem ya da programların analiz edilerek uygulanabilir olanların söz konusu Merkez bünyesinde kullanımına başlanılması; ayrıca, günümüzde özellikle yapay zeka uygulamalarının Bakanlığımızca da kullanılmaya başlanması ile birlikte kaçakçılıkla mücadele faaliyetlerinde bu teknolojinin getireceği faydalardan maksimum düzeyde Komuta Kontrol Merkezi için de istifade edilmesi yararlı olacaktır.</p>
+
+
+
+<p><strong>KAYNAKÇA</strong></p>
+
+
+
+<p>10.07.2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi</p>
+
+
+
+<p>07.10.2009 tarihli ve 27369 (Mükerrer)&nbsp; sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliği</p>
+
+
+
+<p>24.07.2012 tarihli ve 28363 sayılı Resmî Gazete’de yayımlanan Gümrük Genel Tebliği (Transit Rejim) (Seri No:3)</p>
+
+
+
+<p>T.C. Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü 2017 Yılı Faaliyet Raporu</p>
+
+
+
+<p>T.C. Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü 2019 Yılı Faaliyet Raporu</p>
+
+
+
+<p>T.C. Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü 2021 Yılı Faaliyet Raporu</p>
+
+
+
+<p>T.C. Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü 2023 Yılı Faaliyet Raporu</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li></li>
+</ol>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><a href="#_ftnref1" id="_ftn1"><sup>[1]</sup></a> T.C. Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü 2017 Yılı Faaliyet Raporu, ss. 95</p>
+
+
+
+<p><a href="#_ftnref2" id="_ftn2"><sup>[2]</sup></a> T.C. Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü 2021 Yılı Faaliyet Raporu, ss. 71</p>
+
+
+
+<p><a href="#_ftnref3" id="_ftn3"><sup>[3]</sup></a> T.C. Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü 2019 Yılı Faaliyet Raporu, ss. 75</p>
+
+
+
+<p><a href="#_ftnref4" id="_ftn4"><sup>[4]</sup></a> 2016 Yılı GMGM Birim Faaliyet Raporu, ss. 22</p>
+
+
+
+<p><a href="#_ftnref5" id="_ftn5"><sup>[5]</sup></a> 20.12.2024 Tarihi itibariyle</p>
+
+
+
+<p><a href="#_ftnref6" id="_ftn6"><sup>[6]</sup></a> GMGM 2023 Yılı Faaliyet Raporu, ss. 70</p>
+
+
+
+<p><a href="#_ftnref7" id="_ftn7"><sup>[7]</sup></a> GMGM 2023 Yılı Faaliyet Raporu, ss. 70</p>
+
+
+
+<p><a href="#_ftnref8" id="_ftn8"><sup>[8]</sup></a> GMGM 2015 Faaliyet Raporu, ss. 42</p>
+
+
+
+<p><a href="#_ftnref9" id="_ftn9"><sup>[9]</sup></a> GMGM 2017 Yılı Faaliyet Raporu, ss. 100</p>
+
+
+
+<p><a href="#_ftnref10" id="_ftn10"><sup>[10]</sup></a> GMGM 2023 Yılı Faaliyet Raporu, ss. 71</p>
+
+
+
+<p><a href="#_ftnref11" id="_ftn11"><sup>[11]</sup></a> GMGM 2021 Yılı Faaliyet Raporu, ss. 102</p>
+
+
+
+<p><a href="#_ftnref12" id="_ftn12"><sup>[12]</sup></a> GMGM 2023 Yılı Faaliyet Raporu, ss. 72</p>
+
+
+
+<p><a href="#_ftnref13" id="_ftn13"><sup>[13]</sup></a> GMGM 2021 Yılı Faaliyet Raporu, ss. 77</p>
+
+
+
+<p><a href="#_ftnref14" id="_ftn14"><sup>[14]</sup></a> GMGM 2017 Yılı Faaliyet Raporu, ss. 96</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

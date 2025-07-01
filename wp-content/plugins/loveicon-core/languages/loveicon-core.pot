@@ -1,0 +1,3416 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Resido Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-18 11:36+0600\n"
+"PO-Revision-Date: 2019-03-05 12:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: SmartDataSoft <support@smartdatasoft.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../breadcrumb-navxt/breadcrumb-navxt.php:8
+#: ../breadcrumb-navxt/class.bcn_admin.php:26
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:26
+#, php-format
+msgid "Your PHP version is too old, please upgrade to a newer version. Your version is %1$s, Breadcrumb NavXT requires %2$s"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:65
+msgid "Breadcrumb NavXT Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:325
+msgid "Tips for the settings are located below select options."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:326
+msgid "Resources"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:327
+#, php-format
+msgid "%sTutorials and How Tos%s: There are several guides, tutorials, and how tos available on the author's website."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:328
+#, php-format
+msgid "%sOnline Documentation%s: Check out the documentation for more indepth technical information."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:329
+#, php-format
+msgid "%sReport a Bug%s: If you think you have found a bug, please include your WordPress version and details on how to reproduce the bug."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:330
+msgid "Giving Back"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:331
+#, php-format
+msgid "%sDonate%s: Love Breadcrumb NavXT and want to help development? Consider buying the author a beer."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:332
+#, php-format
+msgid "%sTranslate%s: Is your language not available? Visit the Breadcrumb NavXT translation project on WordPress.org to start translating."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:337
+#: ../breadcrumb-navxt/class.bcn_admin.php:494
+#: ../breadcrumb-navxt/class.bcn_admin.php:495
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:41
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:34
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:42
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:40
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:40
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:40
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:40
+msgid "General"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:340
+msgid "For the settings on this page to take effect, you must either use the included Breadcrumb NavXT widget, or place either of the code sections below into your theme."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:341
+msgid "Breadcrumb trail with separators"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:347
+msgid "Breadcrumb trail in list form"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:356
+msgid "Quick Start"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:359
+msgid "Using the code from the Quick Start section above, the following CSS can be used as base for styling your breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:371
+msgid "Styling"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:377
+msgid "Import/Export/Reset"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:401
+msgid "Import"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:402
+msgid "Export"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:403
+msgid "Reset"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:421
+msgid "Warning: Your network settings will override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:425
+#: ../breadcrumb-navxt/class.bcn_admin.php:429
+msgid "Warning: Your network settings may override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:434
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:163
+msgid "Warning: No BCN_SETTINGS_* define statement found, defaulting to BCN_SETTINGS_USE_LOCAL."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:446
+#, php-format
+msgid "Warning: Your are using a deprecated setting \"Title Length\" (see Miscellaneous &gt; Deprecated), please %1$suse CSS instead%2$s."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:446
+msgid "Go to the guide on trimming breadcrumb title lengths with CSS"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:494
+msgid "A collection of settings most likely to be modified are located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:498
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:498
+msgid "Placed in between each breadcrumb."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:502
+msgid "Current Item"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:505
+msgid "Link Current Item"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:505
+msgid "Yes"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:506
+msgctxt "Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:506
+msgid "Place the page number breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:506
+msgid "Indicates that the user is on a page other than the first of a paginated archive or post."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:507
+msgctxt "Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:507
+msgid "The template for paged breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:511
+#: ../breadcrumb-navxt/class.bcn_admin.php:514
+msgid "Home Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:514
+msgid "Place the home breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:515
+msgid "Home Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:515
+msgid "The template for the home breadcrumb."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:516
+msgid "Home Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:516
+msgid "The template for the home breadcrumb, used when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:520
+#: ../breadcrumb-navxt/class.bcn_admin.php:523
+msgid "Blog Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:523
+msgid "Place the blog breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:527
+msgid "Mainsite Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:530
+msgid "Main Site Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:530
+msgid "Place the main site home breadcrumb in the trail in an multisite setup."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:531
+msgid "Main Site Home Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:531
+msgid "The template for the main site home breadcrumb, used only in multisite environments."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:532
+msgid "Main Site Home Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:532
+msgid "The template for the main site home breadcrumb, used only in multisite environments and when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:539
+msgid "The settings for all post types (Posts, Pages, and Custom Post Types) are located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:539
+msgid "Post Types"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:540
+msgid "Posts"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:543
+msgid "Post Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:543
+msgid "The template for post breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:544
+msgid "Post Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:544
+msgid "The template for post breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:545
+msgid "Post Hierarchy Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:545
+msgid "Show the hierarchy (specified below) leading to a post in the breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:546
+msgid "Post Hierarchy Use Parent First"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:546
+msgid "Use the parent of the post as the primary hierarchy, falling back to the hierarchy selected below when the parent hierarchy is exhausted."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:547
+msgid "Post Hierarchy Referer Influence"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:547
+#: ../breadcrumb-navxt/class.bcn_admin.php:629
+msgid "Allow the referring page to influence the taxonomy selected for the hierarchy."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:551
+msgid "Post Hierarchy"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:555
+#: ../breadcrumb-navxt/class.bcn_admin.php:678
+#: ../includes/Posttype/Tours.php:153
+msgid "Categories"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:556
+#: ../breadcrumb-navxt/class.bcn_admin.php:639
+msgid "Dates"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:557
+#: ../breadcrumb-navxt/class.bcn_admin.php:685
+msgid "Tags"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:559
+#: ../breadcrumb-navxt/class.bcn_admin.php:638
+msgid "Post Parent"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:575
+#: ../breadcrumb-navxt/class.bcn_admin.php:663
+msgid "The hierarchy which the breadcrumb trail will show. Note that the \"Post Parent\" option may require an additional plugin to behave as expected since this is a non-hierarchical post type."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:579
+msgid "Pages"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:582
+msgid "Page Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:582
+msgid "The template for page breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:583
+msgid "Page Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:583
+msgid "The template for page breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:589
+msgid "Attachments"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:592
+msgid "Attachment Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:592
+msgid "The template for attachment breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:593
+msgid "Attachment Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:593
+msgid "The template for attachment breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:613
+#: ../breadcrumb-navxt/class.bcn_admin.php:716
+#, php-format
+msgid "%s Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:613
+#: ../breadcrumb-navxt/class.bcn_admin.php:716
+#, php-format
+msgid "The template for %s breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:614
+#: ../breadcrumb-navxt/class.bcn_admin.php:717
+#, php-format
+msgid "%s Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:614
+#: ../breadcrumb-navxt/class.bcn_admin.php:717
+#, php-format
+msgid "The template for %s breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:619
+#, php-format
+msgid "%s Root Page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:622
+#: ../breadcrumb-navxt/class.bcn_admin.php:740
+#: ../includes/Widgets/Service_Sidebar_Menu.php:140
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:626
+#, php-format
+msgid "%s Archive Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:626
+#, php-format
+msgid "Show the breadcrumb for the %s post type archives in the breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:627
+#, php-format
+msgid "%s Hierarchy Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:627
+#, php-format
+msgid "Show the hierarchy (specified below) leading to a %s in the breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:628
+#, php-format
+msgid "%s Hierarchy Use Parent First"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:628
+#, php-format
+msgid "Use the parent of the %s as the primary hierarchy, falling back to the hierarchy selected below when the parent hierarchy is exhausted."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:629
+#, php-format
+msgid "%s Hierarchy Referer Influence"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:633
+#, php-format
+msgid "%s Hierarchy"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:659
+msgid "The hierarchy which the breadcrumb trail will show."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:677
+msgid "The settings for all taxonomies (including Categories, Tags, and custom taxonomies) are located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:677
+msgid "Taxonomies"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:681
+msgid "Category Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:681
+msgid "The template for category breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:682
+msgid "Category Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:682
+msgid "The template for category breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:688
+msgid "Tag Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:688
+msgid "The template for tag breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:689
+msgid "Tag Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:689
+msgid "The template for tag breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:692
+msgid "Post Formats"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:695
+msgid "Post Format Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:695
+msgid "The template for post format breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:696
+msgid "Post Format Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:696
+msgid "The template for post_format breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:726
+msgid "The settings for author and date archives, searches, and 404 pages are located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:726
+#: ../breadcrumb-navxt/class.bcn_admin.php:744
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:727
+msgid "Author Archives"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:730
+msgid "Author Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:730
+msgid "The template for author breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:731
+msgid "Author Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:731
+msgid "The template for author breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:732
+msgid "Author Display Format"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:732
+msgid "display_name uses the name specified in \"Display name publicly as\" under the user profile the others correspond to options in the user profile."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:737
+msgid "Author Root Page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:747
+msgid "Date Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:747
+msgid "The template for date breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:748
+msgid "Date Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:748
+msgid "The template for date breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:749
+msgid "Search Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:749
+msgid "The anchor template for search breadcrumbs, used only when the search results span several pages."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:750
+msgid "Search Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:750
+msgid "The anchor template for search breadcrumbs, used only when the search results span several pages and the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:751
+msgid "404 Title"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:752
+msgid "404 Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:752
+msgid "The template for 404 breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:755
+msgid "Deprecated"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:759
+msgid "Title Length"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:764
+#, php-format
+msgid "Limit the length of the breadcrumb title. (Deprecated, %suse CSS instead%s)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:769
+msgid "Max Title Length: "
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb.php:239
+msgid "bcn_breadcrumb::type must be an array"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:112
+msgid "404"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:462
+msgid "$post global is not of type WP_Post"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:540
+msgctxt "day archive breadcrumb date format"
+msgid "d"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:567
+msgctxt "month archive breadcrumb date format"
+msgid "F"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:594
+msgctxt "year archive breadcrumb date format"
+msgid "Y"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:44
+msgid "Breadcrumb NavXT Network Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:146
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:164
+msgid "Warning: Individual site settings will override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:154
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:158
+msgid "Warning: Individual site settings may override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:77
+msgid "The ID of the post (any type) to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:91
+msgid "The ID of the term to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:97
+msgid "The taxonomy of the term to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:110
+msgid "The ID of the author to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:31
+msgid "Adds a breadcrumb trail to your sidebar"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:108
+#: ../includes/Widgets/Loveicon_Recent_Posts.php:152
+#: ../includes/Widgets/Service_Sidebar_Menu.php:134
+msgid "Title:"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:112
+msgid "Text to show before the trail:"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:116
+msgid "Output trail as:"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:118
+msgid "List"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:119
+msgid "Schema.org BreadcrumbList (RDFa)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:120
+msgid "Schema.org BreadcrumbList (microdata)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:121
+msgid "Plain"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:127
+msgid "Link the breadcrumbs"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:129
+msgid "Reverse the order of the trail"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:131
+msgid "Hide the trail on the front page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:133
+msgid "Ignore breadcrumb cache"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:121
+msgid "Insufficient privileges to proceed."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:228
+msgid "Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:298
+msgid "Your settings are for an older version of this plugin and need to be migrated."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:299
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:308
+msgid "Migrate the settings now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:299
+msgid "Migrate now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:307
+msgid "Your settings are for a newer version of this plugin."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:308
+msgid "Attempt back migration now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:314
+msgid "Your plugin install is incomplete."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:315
+msgid "Load default settings now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:315
+msgid "Complete now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:321
+msgid "One or more of your plugin settings are invalid."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:322
+msgid "Attempt to fix settings now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:322
+msgid "Fix now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:504
+msgid "Settings successfully saved."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:505
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:513
+msgid "Undo the options save."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:505
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:513
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:614
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:637
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:655
+msgid "Undo"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:507
+msgid "Settings did not change, nothing to save."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:509
+msgid "Settings were not saved."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:512
+msgid "Some settings were not saved."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:514
+msgid "The following settings were not saved:"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:518
+#, php-format
+msgid "Please include this message in your %sbug report%s."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:613
+msgid "Settings successfully imported from the uploaded file."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:614
+msgid "Undo the options import."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:617
+msgid "Importing settings from file failed."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:636
+msgid "Settings successfully reset to the default values."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:637
+msgid "Undo the options reset."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:654
+msgid "Settings successfully undid the last operation."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:655
+msgid "Undo the last undo operation."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:688
+msgid "Settings successfully migrated."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:693
+msgid "Default settings successfully installed."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:731
+msgid "adminKit::message is deprecated, use new adminkit_messages instead."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:797
+msgid "Import settings from a XML file, export the current settings to a XML file, or reset to the default settings."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:800
+msgid "Settings File"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:803
+msgid "Select a XML settings file to upload and import settings from."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit_message.php:43
+msgid "$uid must not be null if message is dismissible"
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:16
+#: ../combine-vc-ele-css/classes/class.pb_redux.php:16
+msgid "Combine VC Elementor CSS Options"
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:19
+#: ../combine-vc-ele-css/classes/class.pb_redux.php:18
+msgid "Allows you to customize some settings for Combine VC Elementor CSS."
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:32
+#: ../combine-vc-ele-css/classes/class.pb_redux.php:25
+#: ../combine-vc-ele-css/classes/cvec_button/cvec_button/field_cvec_button.php:110
+msgid "Clear Cache"
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:33
+msgid "Clear Cache."
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:36
+msgid "Edit Pages"
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/cvec_button/cvec_button/field_cvec_button.php:107
+#: ../combine-vc-ele-css/classes/cvec_button/extension_cvec_button.php:83
+msgid "Combine VC Elementor CSS Option"
+msgstr ""
+
+#: ../includes/Admin/Library/Library.php:31
+msgid "No Pages Found!"
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:46
+msgid "Page Settings"
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:75
+msgid "Page widget left or right"
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:88
+msgid "Design Settings"
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:97
+#: ../includes/Admin/Metabox/Metabox.php:116
+msgid "Main Image"
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:107
+msgid "Event Settings"
+msgstr ""
+
+#: ../includes/Elementor/Element.php:55
+msgid "Loveicon"
+msgstr ""
+
+#: ../includes/Elementor/Element.php:62
+msgid "Loveicon Footer"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Animation.php:37
+msgid "Animation Class"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Animation.php:47
+#: ../includes/Elementor/Settings/Header.php:30
+msgid "Delay Time"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Animation.php:51
+msgid "Animation delay value ex:200s."
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:9
+msgid "Animation"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:20
+msgid "Duration Time"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:23
+#: ../includes/Elementor/Settings/Header.php:33
+msgid "Animation duration value ex:200s."
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:50
+msgid "1"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:53
+msgid "2"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:56
+msgid "3"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:59
+msgid "4"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:62
+msgid "6"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:65
+msgid "12"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:73
+msgid "Number Of Coloumns"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:94 ../laborex-core.php:259
+msgid "No contect From 7 form found"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:19
+msgid "Blog Details Text One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:35
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:34
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:34
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:39
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:39
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:39
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:41
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:39
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:37
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:40
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Subscribe.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:40
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:38
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:39
+#: ../includes/Elementor/Widgets/Recent_News.php:39
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:39
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:39
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:38
+msgid "general"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:42
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:57
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:59
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:48
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:98
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:96
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:125
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:67
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:212
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:62
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:219
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:298
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:57
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:119
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:80
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:264
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:306
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:91
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:133
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:63
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:62
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:171
+#: ../includes/Elementor/Widgets/Recent_News.php:70
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:67
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:46
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:57
+msgid "Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:54
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:50
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:46
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:67
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:191
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:168
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:81
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:154
+msgid "Shape"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:66
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:195
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:46
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:193
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:129
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:365
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:69
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:214
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:109
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:358
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:533
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:55
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:168
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:177
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:202
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:309
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:419
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:489
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Subscribe.php:55
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:55
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:58
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:211
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:163
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:107
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:356
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:78
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:62
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:303
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:78
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:416
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:183
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:82
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:221
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:122
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:182
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:327
+msgid "Heading"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:68
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:48
+msgid "Why Donate with LoveIcon"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:75
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:104
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:62
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:55
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:98
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:158
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:78
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:161
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:137
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:551
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:64
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:193
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:234
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:211
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:333
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:428
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:60
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:131
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:339
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:107
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:245
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:296
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:191
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:268
+#: ../includes/Elementor/Widgets/Recent_News.php:90
+#: ../includes/functions.php:278
+msgid "Description"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:77
+msgid "Nostrud tem exrcitation duis laboris nisiut aliquip sedy duis aut cupidata proident sunt culpa adipisicing elit sed eiusmod tempor incididunt."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:86
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:80
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:104
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:303
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:90
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:54
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:117
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:57
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:61
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:58
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:142
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:184
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:310
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:192
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:267
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:89
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:288
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:40
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:143
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:232
+#: ../includes/Elementor/Widgets/Recent_News.php:61
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:58
+msgid "item"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:95
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:175
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:41
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:96
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:41
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:89
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:173
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:139
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:122
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:376
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:99
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:87
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:126
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:78
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:471
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:66
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:47
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:71
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Subscribe.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:47
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:67
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:122
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:151
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:229
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:223
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:416
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:211
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:98
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:155
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:236
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:266
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:124
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:239
+#: ../includes/Elementor/Widgets/Recent_News.php:47
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:47
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:90
+#: ../includes/functions.php:213 ../includes/functions.php:241
+#: ../includes/functions.php:314 ../includes/functions.php:335
+#: ../includes/functions.php:389 ../includes/functions.php:417
+#: ../post-type/Loveicon_Blog.php:93 ../post-type/Loveicon_Causes.php:91
+#: ../post-type/Loveicon_Causes_Item.php:458
+#: ../post-type/Loveicon_Causes_Slider.php:199
+#: ../post-type/Loveicon_Event_Slider.php:100
+msgid "Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:97
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:91
+msgid "A Real Change"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:107
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:101
+msgid "Nostrud fact aliquip exrcation nisiut temp sed dui auty."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:108
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:66
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:85
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:100
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:60
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:102
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:162
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:173
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:82
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:165
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:140
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:73
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:120
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:214
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:337
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:432
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:64
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:83
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:239
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:250
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:111
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:321
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:147
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:108
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:94
+#: ../includes/Elementor/Widgets/Recent_News.php:94
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:73
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:85
+msgid "Type your description here"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:115
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:169
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:276
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:386
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:133
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:203
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:118
+msgid "Image One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:126
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:180
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:287
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:397
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:144
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:214
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:139
+msgid "Image Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:137
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:132
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:173
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:217
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:450
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:127
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:83
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:202
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:245
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:344
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:439
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:91
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:96
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:91
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:147
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:179
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:289
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:384
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:245
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:324
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:171
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:163
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:262
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:375
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:189
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:115
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:101
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:209
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:286
+#: ../includes/Elementor/Widgets/Recent_News.php:127
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:87
+msgid "Repeater List"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:142
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:137
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:178
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:222
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:287
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:455
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:132
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:88
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:207
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:250
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:349
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:444
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:96
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:101
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:96
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:152
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:184
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:294
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:389
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:250
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:329
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:176
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:168
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:267
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:380
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:194
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:120
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:106
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:214
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:291
+#: ../includes/Elementor/Widgets/Recent_News.php:132
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:92
+msgid "Title #1"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:143
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:147
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:138
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:142
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:179
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:183
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:223
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:227
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:288
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:292
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:456
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:133
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:137
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:89
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:93
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:208
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:212
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:251
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:255
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:350
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:354
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:445
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:449
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:97
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:101
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:102
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:106
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:97
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:101
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:153
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:157
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:185
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:189
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:295
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:299
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:390
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:394
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:251
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:255
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:330
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:334
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:177
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:181
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:169
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:173
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:268
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:272
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:381
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:385
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:195
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:199
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:121
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:125
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:107
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:111
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:215
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:219
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:292
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:296
+#: ../includes/Elementor/Widgets/Recent_News.php:133
+#: ../includes/Elementor/Widgets/Recent_News.php:137
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:93
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:97
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:146
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:141
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:182
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:226
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:291
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:136
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:92
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:211
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:254
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:353
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:448
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:100
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:105
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:100
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:156
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:188
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:298
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:393
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:254
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:333
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:180
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:172
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:271
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:384
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:198
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:124
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:110
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:218
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:295
+#: ../includes/Elementor/Widgets/Recent_News.php:136
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:96
+msgid "Title #2"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:157
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:87
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:111
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:155
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:347
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:196
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:524
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:150
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:225
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:462
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:202
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:407
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:347
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:285
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:398
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:516
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:212
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:139
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:125
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:309
+#: ../post-type/Loveicon_Blog.php:84 ../post-type/Loveicon_Causes.php:82
+#: ../post-type/Loveicon_Causes_Item.php:449
+#: ../post-type/Loveicon_Causes_Slider.php:190
+#: ../post-type/Loveicon_Event_Slider.php:91
+msgid "Typography Section"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:166
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:164
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:525
+msgid "Heading "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:187
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:117
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:132
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:185
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:376
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:225
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:581
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:198
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:246
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:510
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:241
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:437
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:386
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:315
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:428
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:555
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:251
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:169
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:155
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:357
+#: ../post-type/Loveicon_Blog.php:114 ../post-type/Loveicon_Causes.php:112
+#: ../post-type/Loveicon_Causes_Item.php:479
+#: ../post-type/Loveicon_Causes_Slider.php:220
+#: ../post-type/Loveicon_Event_Slider.php:121
+msgid "Color Section"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_One.php:207
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:125
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:205
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:230
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:518
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:273
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:445
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:577
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:283
+#: ../includes/functions.php:249 ../includes/functions.php:322
+#: ../includes/functions.php:343 ../includes/functions.php:425
+#: ../post-type/Loveicon_Blog.php:122 ../post-type/Loveicon_Causes.php:120
+#: ../post-type/Loveicon_Causes_Item.php:487
+#: ../post-type/Loveicon_Causes_Slider.php:228
+#: ../post-type/Loveicon_Event_Slider.php:129
+msgid "Title Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:18
+msgid "Blog Details Text Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:43
+msgid "No One Has Ever Become Poor<br> By Giving, Feed the Poor &amp; Hungry"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:50
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:242
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:192
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:87
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:148
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:73
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:134
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:162
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:259
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:59
+msgid "Name"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:52
+msgid "John T. Smith"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:59
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:299
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:131
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:108
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:158
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:71
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:160
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:266
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:360
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:131
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:216
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:75
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:277
+#: ../includes/Elementor/Widgets/Recent_News.php:82
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:79
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:99
+msgid "Icon"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:67
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:317
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:75
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:80
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:76
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:274
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:368
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:230
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:309
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:155
+#: ../includes/Elementor/Widgets/Recent_News.php:111
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:116
+msgid "URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:69
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:319
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:189
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:204
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:396
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:428
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:74
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:232
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:320
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:77
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:82
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:78
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:276
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:370
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:167
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:232
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:311
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:157
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:346
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:400
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:444
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:489
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:167
+#: ../includes/Elementor/Widgets/Recent_News.php:113
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:118
+msgid "https://your-link.com"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:105
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:345
+msgid "Name "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Three.php:137
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:177
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:163
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:390
+msgid "Name Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:18
+msgid "Blog Details Text Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:43
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:70
+msgid "The Challenge"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Details_Text_Two.php:65
+msgid "Nostrud tem exrcitation duis laboris nisi ut aliquip sedy duis aut cupidata proident sunt culpa. Consectetur adipisicing elit sed eiusm sod tempor incididunt aute irure dolor in reprehenderit in voluptate velit esse cillum."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:20
+msgid "Cause Details Box Four"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:68
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:105
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:60
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:159
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:144
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:69
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:59
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:103
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:318
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:81
+msgid "Tag Line"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:77
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:233
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:425
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:69
+msgid "Description One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:80
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:95
+msgid ""
+"Nostrud tem exrcitation duis laboris nisi ut aliquip sedy duis aute cupidata proident sunt \n"
+"                culpa. Consectetur adipisicing elit sed eiusm\n"
+"                sod tempor incididunt."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:92
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:170
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:247
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:82
+msgid "Description Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:120
+msgid "Tagline "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Four.php:140
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:384
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:233
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:323
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:436
+#: ../includes/functions.php:194
+msgid "Tagline Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:21
+msgid "Cause Details Box Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:58
+msgid ""
+"Nostrud tem exrcitation duis laboris nisi ut aliquip sedy duis aut cupidata proident sunt culpa.\n"
+"                Consectetur adipisicing elit sed do eiusmod tempor incididunt."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:110
+msgid "Icon One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Cause_Details_Box_Three.php:121
+msgid "Icon Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:21
+msgid "Loveicon About Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:39
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:48
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:41
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:47
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:47
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:47
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:47
+msgid "Layout Style"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:49
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:50
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:49
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:49
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:50
+msgid "Style One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:50
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:50
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:50
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:51
+msgid "Style Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:85
+msgid "Content Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:87
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:89
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:57
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:76
+msgid "Watch The Intro Video"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:107
+msgid "Donations For Humanity, Safer Way!"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:131
+msgid "Providing Urgent Aid For<br> Your Better  Future"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:141
+msgid "Emergency relief to ongoing aid for those affected by storms."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:161
+msgid "Laboris nisi aliquip sed duis aute lorem ipsum dolor amet consectetur adipisicing elit sed do eiusmod tempor tm incididunts lorem ipsum sed labore dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:202
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:158
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:346
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:146
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:186
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:94
+msgid "Shape Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:223
+msgid "Bottom Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:225
+msgid "Donate With Love & Faith"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:244
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:282
+msgid "Johnson Stainter"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:261
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:180
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:96
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:157
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:82
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:143
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:251
+msgid "Designation"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:263
+msgid "Director LoveIcon"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:280
+msgid "Signature"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:356
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:205
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:407
+#: ../includes/functions.php:158 ../includes/functions.php:186
+msgid "Tagline"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Three.php:396
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:245
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:589
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:218
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:542
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:249
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:394
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:335
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:448
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:564
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:259
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:377
+msgid "Heading Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:22
+msgid "Loveicon About Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:62
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:146
+msgid "Help With Featured Cause"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:71
+msgid "Educate Children In<br> Rural Areas Our Priority"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:81
+msgid "Laboris nisi utm aliquip sed duis aute lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor utm incididunts lorem ipsum sed labore sud dolore magna aliqua."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:90
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:147
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:334
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:134
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:160
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:73
+msgid "Shape One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:113
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:297
+msgid "Extra Class"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:124
+msgid "Finished Projects"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:143
+msgid "Count Number"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:145
+msgid "1.3"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:152
+msgid "Count Unit"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:154
+msgid "k"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_About_Two.php:164
+msgid "Nostrud temp exerction laboris<br> nisi utm aliquip duis aute."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:21
+msgid "Loveicon Banner"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:50
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:50
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:52
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:45
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:50
+msgid "One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:53
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:68
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:46
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:52
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:52
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:63
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:50
+msgid "Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:52
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:52
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:54
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:69
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:47
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:53
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:53
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:64
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:52
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:51
+msgid "Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:53
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:53
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:55
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:70
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:54
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:54
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:65
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:53
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:52
+msgid "Four"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:54
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:56
+msgid "Five"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:64
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:140
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:266
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:365
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:116
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:114
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:184
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:115
+msgid "Item"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:111
+msgid "Every Good<br> Act Is A Charity"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:118
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:367
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:542
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:74
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:49
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:220
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:127
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:71
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:294
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:73
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:230
+msgid "Sub Heading"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:126
+msgid "Sub Heading Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:169
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:385
+msgid "Button One Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:171
+msgid "how we help"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:178
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:417
+msgid "Button Two Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:180
+msgid "support us"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:187
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:394
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:442
+msgid "Button One URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:202
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:426
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:487
+msgid "Button Two URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:238
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:144
+msgid "Social"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:255
+msgid "Social Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:257
+msgid "FOLLOW US"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:266
+msgid "Social Icon"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:274
+msgid "Social URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:282
+msgid "Social List"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:322
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:61
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:127
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:375
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:93
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:60
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:84
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:91
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:97
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:62
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:61
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:45
+msgid "BG Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:360
+msgid "Support & Donate"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:369
+msgid "For Worldwide Covid-19 Pandemic"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:378
+msgid "Veniam quis nostrud exercitation sed ullamco laboris"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:387
+msgid "How we help"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:409
+msgid "Button One Icon"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:419
+msgid "Our Programs"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:442
+msgid "Button Two Icon"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:468
+msgid "Slider Settings"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:474
+msgid "Enable Loop"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:483
+msgid "Enable mouseDrag"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:492
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:502
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:504
+msgid "8000"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:510
+msgid "Enable Arrows"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:560
+msgid "Button One Title "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:569
+msgid "Button Two Title "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:601
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:261
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:406
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:271
+msgid "Sub Heading Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:614
+msgid "Normal"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:621
+msgid "Button One BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:633
+msgid "Button Two BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:645
+msgid "Button One Title Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:658
+msgid "Button Two Title Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:672
+msgid "Hover"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:679
+msgid "Button One Hover BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Banner.php:691
+msgid "Button Two Hover BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:20
+msgid "Loveicon Contact"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:48
+msgid "Support LoveIcon With Heart!"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:57
+msgid "Get In Touch With Us"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:68
+msgid ""
+"Laboris nisi aliquip sed duis aute lorem ipsum dolor amet consectetur adipisicing\n"
+"                sed eiusmod tempor tm incididunts lorem ipsum sed labore dolore magnad aliqua. \n"
+"                Lorem ipsum dolor sit amet consectetur adipisicing."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:80
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Subscribe.php:64
+msgid "Short Code"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:101
+msgid "Visit Office"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:116
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:200
+msgid "Address"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:119
+msgid "83 Andy Street, Madison<br>New Jersey - 78002"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:186
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:221
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:257
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:351
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:146
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:315
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:107
+#: ../post-type/Loveicon_Causes.php:100
+msgid "Button Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:206
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:365
+msgid "Tag Line Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:242
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:430
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:614
+#: ../post-type/Loveicon_Causes.php:145
+#: ../post-type/Loveicon_Causes_Item.php:524
+#: ../post-type/Loveicon_Causes_Slider.php:264
+msgid "Button BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:254
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:557
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:418
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:602
+#: ../post-type/Loveicon_Causes.php:133
+#: ../post-type/Loveicon_Causes_Item.php:512
+#: ../post-type/Loveicon_Causes_Slider.php:252
+msgid "Button Title Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Contact.php:266
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:457
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:442
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:626
+#: ../post-type/Loveicon_Causes.php:157
+#: ../post-type/Loveicon_Causes_Item.php:536
+#: ../post-type/Loveicon_Causes_Slider.php:276
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:19
+msgid "Loveicon FAQ"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:43
+msgid "Per Column Items"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:63
+msgid "Question Content"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:65
+msgid "How will my donation be used?"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:73
+msgid "Answer Content"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_FAQ.php:75
+msgid "Nostrud aliquips exercitation laboris nisiut temp sed duise Lorem ipsum dolor sit amet consectetur adipisicing elit atd eiusmod tempor incididunt labore dolore."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:20
+msgid "Loveicon Fact Counter"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:72
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:96
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:87
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:480
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:242
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:543
+#: ../post-type/Loveicon_Causes_Item.php:265
+msgid "Sub Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:98
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:89
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:51
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:73
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:75
+msgid "We Change Your Life & World"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:169
+msgid "Symbol"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:177
+msgid "Counting Number"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:185
+msgid "Counter Unit"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:195
+msgid "Received Donations From<br>Our Loving People"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Fact_Counter.php:254
+#: ../includes/functions.php:286
+msgid "Description Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:22
+msgid "Loveicon Features"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:64
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:59
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:47
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:46
+msgid "Column Style"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:80
+msgid "Charity With Difference"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:191
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:298
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:408
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:225
+msgid "Image Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:204
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:311
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:421
+msgid "Get Inspire And Help"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:213
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:336
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:431
+msgid "Nostrud temp exercitation duis laboris nisi utm aliquip sed duis aute."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:223
+msgid "read more"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:230
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:165
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:344
+msgid "Button URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:318
+msgid "Heading URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:498
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:374
+msgid "Button Title "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:530
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:590
+#: ../post-type/Loveicon_Blog.php:134 ../post-type/Loveicon_Causes_Item.php:500
+#: ../post-type/Loveicon_Causes_Slider.php:240
+#: ../post-type/Loveicon_Event_Slider.php:141
+msgid "Sub Title Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Features.php:569
+msgid "Button  Hover BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:20
+msgid "Loveicon Footer About"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:48
+msgid "About Us"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_About.php:68
+msgid "Where We Work"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:19
+msgid "Loveicon Footer Campaigns"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:49
+msgid "Campaigns"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Campaigns.php:73
+msgid "Aid for Refugees"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:20
+msgid "Loveicon Footer One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:47
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:69
+msgid "Logo"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:63
+msgid "Excepteur sint occaecat cupidatat none proident sunt culpa officia deserunt mollit anim id est laborum luptatem."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_One.php:80
+msgid "Support Box Content"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Subscribe.php:20
+msgid "Loveicon Footer Subscribe"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Subscribe.php:48
+msgid "Subscribe"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Subscribe.php:57
+msgid "Be the first one to receive latest updates."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:20
+msgid "Loveicon Footer Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:49
+msgid "Recent Appeals"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Footer_Two.php:69
+msgid "Asia Africa Pacific"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:18
+msgid "Loveicon Gallery"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Gallery.php:136
+msgid "Shape Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:23
+msgid "Loveicon Mission"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:60
+msgid "Our Mission & Goals"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:78
+msgid "BG Shape One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:89
+msgid "BG Shape Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:100
+msgid "Left Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:111
+msgid "Title Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:124
+msgid "Small Donations Make Bigger Impact On Someone’s Life, Act Today!"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:133
+msgid "Excepteur sint occaecat dui cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum. Sed ut dui persic iatis unde oms ipsum dolor sed iste natus sit voluptatem."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission.php:153
+msgid "Home Shelter"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:21
+msgid "Loveicon Mission and Vision"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:102
+msgid "BG Image One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:123
+msgid "BG Image Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:165
+msgid "We Bring Lasting Change<br>To People Effected With<br>Coronavirus (Covid-19)"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:203
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:330
+msgid "Tab Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:205
+msgid "How We Work"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:225
+msgid "Donations with help of our partners,<br> Bigger impact on education!"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:236
+msgid ""
+"Excepteur sint ocaecat cupidatat proident sunt culpa officia mollity\n"
+"                anim id est laborum. Sed ut duis persic atis under ipsum dolor natus\n"
+"                sit voluptatem. Lorem ipsum dolor sit amet consectetur."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:259
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:148
+msgid "get in touch"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:332
+msgid "Challenges"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:341
+msgid ""
+"Laboris nisi utm aliquip sed tempor duis aut lorem ipsum sed dolor sitye amet\n"
+"                consecte atur autys adipisicing elit sed dolor eiusmod tempor utm incididunts\n"
+"                lorem ipsum sed labore dolore magna aliqua. Nostrud sed aliquips exercitation\n"
+"                sed laboris nisiut temp ipsum duis autey."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Mission_Vision.php:353
+msgid "Support Us Today"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:21
+msgid "Loveicon Partner"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:51
+msgid "Style Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:52
+msgid "Style Four"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:109
+msgid "Become Support Partner"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:129
+msgid "Provide financing support to help individuals build livelihoods"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Partner.php:365
+msgid "Sub Heading "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:19
+msgid "Loveicon Planning Programs"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:45
+msgid "BG Image "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:71
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:61
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:105
+msgid "We Change Your Life &amp; World"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:80
+msgid "Planning & Programs"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:100
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:238
+msgid "Climate Action"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:110
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:247
+msgid "Nostrud tem exrcitation duis<br>nisi ut aliquip cupidata."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Planning_Programs.php:143
+msgid "Overlay Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:21
+msgid "Loveicon_Projects"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:64
+msgid "Ongoing Projects"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Projects.php:254
+msgid "Title URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:21
+msgid "Loveicon Serving Map"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:80
+msgid "Serving Everywhere"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:212
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:115
+msgid "Shape Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:238
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:136
+msgid "Shape Four"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:317
+#: ../includes/functions.php:269 ../post-type/Loveicon_Causes.php:54
+#: ../post-type/Loveicon_Causes_Item.php:299
+msgid "Content"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:320
+msgid "Syrian Refugee Crises<br>Food & Health Program"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:327
+msgid "Horizontal Position"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Serving_Map.php:350
+msgid "Vertical Position"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:21
+msgid "Loveicon Slogan"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:157
+msgid "Pattern Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:185
+msgid "Service to others<br> is the rent you pay<br> for your room here<br> on earth."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:194
+msgid "Muhammad Ali"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:244
+msgid "Make a Difference Today!"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:269
+msgid "Become a Volunteer"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:298
+msgid "Your Small Donations Make Bigger Impact On Someone’s Life, So Act Today!"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:317
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:381
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:426
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:470
+msgid "register today"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:379
+msgid "Video Button Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:398
+msgid "Video Button URL"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:424
+msgid "Button Title One"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:468
+msgid "Button Title Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Slogan.php:534
+msgid "Title "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:20
+msgid "Loveicon Team"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:84
+msgid "Meet Our Volunteers"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:102
+msgid "BG Shape"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:126
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:89
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:75
+msgid "Scott William"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:165
+msgid "Title Link"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team.php:182
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:98
+msgid "Volunteer"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:21
+msgid "Loveicon Team Three"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:105
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:91
+msgid "Social Content"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team_Three.php:189
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:175
+msgid "Designation Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:20
+msgid "Loveicon Team Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Team_Two.php:84
+msgid "CEO & Founder"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:20
+msgid "Loveicon Testimonials"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:82
+msgid " Image"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:124
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:164
+msgid "Johnny Thomas"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:184
+msgid "Power to create opportunities"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:193
+msgid "Nori grape silver beet broccoli kombu beet greens parsley bean potato quandong celery. Bunya nuts black-eyed pea prairie jícama turnip leek lentil turnip greens parsnip salsify sea."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:202
+msgid "California, USA"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:253
+msgid "Founder of CEO"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:261
+msgid "Mr. Jems Bond"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:270
+msgid "“Praesent scelerisque, odio euferm ntum malesuada, nisi arcu vlutpat nisl, sit amet convallis nunc turpis eget eros.Praesent scelerisque, dio eu ferme ntum malesuada, nisi arcu volutpat.”"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Loveicon_Testimonials.php:336
+msgid "Description "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Recent_News.php:19
+#: ../includes/Elementor/Widgets/Recent_News.php:49
+msgid "Recent News"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Recent_News.php:93
+msgid "Help with Global<br> Charity"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Recent_News.php:102
+msgid "Date"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Recent_News.php:104
+msgid "March 9, 2021"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:19
+msgid "Sidebar Projects Gallery"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Sidebar_Projects_Gallery.php:49
+msgid "Projects Gallery"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:19
+msgid "Single Sidebar Box"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:61
+msgid "Saima Hayden"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box.php:72
+msgid "Nostrud aliquip exrcitation laboris<br>nisiut temp duis autey. Lorem unt<br>ipsum sit amet elit dolor."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:19
+msgid "Single Sidebar Box Two"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:83
+msgid "Small Donations Bigger Impact"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:92
+msgid "Education Health<br>for Every Child"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Single_Sidebar_Box_Two.php:109
+msgid "donate now"
+msgstr ""
+
+#: ../includes/Hooks.php:33
+msgid "We Are Social On:"
+msgstr ""
+
+#: ../includes/Posttype/Destinations.php:31 ../includes/Posttype/Tours.php:36
+msgid "Description."
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:61
+msgctxt "taxonomy general name"
+msgid "Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:62
+msgctxt "taxonomy singular name"
+msgid "Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:63
+msgid "Search Locations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:64
+msgid "All Locations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:65
+msgid "Parent Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:66
+msgid "Parent Location:"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:67
+msgid "Edit Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:68
+msgid "Update Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:69
+msgid "Add New Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:70 ../includes/Posttype/Tours.php:97
+msgid "New Tour Name"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:71
+msgid "Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:88
+msgctxt "taxonomy general name"
+msgid "Type"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:89
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:90
+msgid "Search Types"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:91
+msgid "All Types"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:92
+msgid "Parent Type"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:93
+msgid "Parent Type:"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:94
+msgid "Edit Type"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:95
+msgid "Update Type"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:96
+msgid "Add New Type"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:98
+msgid "Type"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:115
+msgctxt "taxonomy general name"
+msgid "Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:116
+msgctxt "taxonomy singular name"
+msgid "Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:117
+msgid "Search Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:118
+msgid "All Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:119
+msgid "Parent Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:120
+msgid "Parent Durations:"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:121
+msgid "Edit Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:122
+msgid "Update Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:123
+msgid "Add New Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:124
+msgid "New Tour Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:125
+msgid "Durations"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:143
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:144
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:145
+msgid "Search Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:146
+msgid "All Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:147
+msgid "Parent Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:148
+msgid "Parent Category:"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:149
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:150
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:151
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:152
+msgid "New Tour Category"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:178
+msgid "Tour Information"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:187
+msgid "Tour Package Price"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:194
+msgid "Tour Package Member"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:201
+msgid "Package Day"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:208
+msgid "Package Location"
+msgstr ""
+
+#: ../includes/Posttype/Tours.php:215
+msgid "Tour Details Banner"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Recent_Posts.php:22
+msgid "A loveicon Posts Widget"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Recent_Posts.php:25
+msgid "Loveicon Recent Posts"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Recent_Posts.php:50
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Recent_Posts.php:156
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Recent_Posts.php:161
+msgid "Display post date?"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Widget_Selector.php:19
+msgid "Posts Widget Selector From Template"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Widget_Selector.php:26
+msgid "Loveicon Widget Selector"
+msgstr ""
+
+#: ../includes/Widgets/Loveicon_Widget_Selector.php:58
+msgid "Select Template"
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:33
+msgid "Add a Loveicon Services custom menu to your sidebar."
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:36
+msgid "Loveicon Service Menu"
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:126
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:138
+msgid "Select Menu:"
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:156
+msgid "Edit Menu"
+msgstr ""
+
+#: ../includes/functions.php:166 ../includes/functions.php:221
+#: ../includes/functions.php:397
+msgid "Header Tag"
+msgstr ""
+
+#: ../includes/functions.php:305
+msgid "Items"
+msgstr ""
+
+#: ../laborex-core.php:186 ../laborex-core.php:210
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../laborex-core.php:187 ../laborex-core.php:211
+msgid "Elementor ChildIt"
+msgstr ""
+
+#: ../laborex-core.php:188
+msgid "Elementor"
+msgstr ""
+
+#: ../laborex-core.php:212
+msgid "PHP"
+msgstr ""
+
+#: ../laborex-core.php:293
+msgid "Mega menu"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:15
+msgid "Blog Item"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:27 ../post-type/Loveicon_Causes_Slider.php:54
+#: ../post-type/Loveicon_Event_List.php:23
+#: ../post-type/Loveicon_Event_Slider.php:35
+msgid "section design"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:34 ../post-type/Loveicon_Causes.php:40
+#: ../post-type/Loveicon_Causes_Item.php:56
+#: ../post-type/Loveicon_Causes_Slider.php:61
+#: ../post-type/Loveicon_Event_Slider.php:42
+msgid "Select Layout"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:37 ../post-type/Loveicon_Causes.php:43
+#: ../post-type/Loveicon_Causes_Item.php:59
+#: ../post-type/Loveicon_Causes_Slider.php:64
+#: ../post-type/Loveicon_Event_Slider.php:45
+msgid "Style 1"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:38 ../post-type/Loveicon_Causes.php:44
+#: ../post-type/Loveicon_Causes_Item.php:60
+#: ../post-type/Loveicon_Causes_Slider.php:65
+#: ../post-type/Loveicon_Event_Slider.php:46
+msgid "Style 2"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:40 ../post-type/Loveicon_Causes.php:47
+#: ../post-type/Loveicon_Causes_Item.php:64
+#: ../post-type/Loveicon_Causes_Slider.php:68
+#: ../post-type/Loveicon_Event_Slider.php:48
+msgid "style_1"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:46 ../post-type/Loveicon_Causes_Item.php:251
+#: ../post-type/Loveicon_Event_Slider.php:54
+msgid "title"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:53 ../post-type/Loveicon_Event_Slider.php:61
+msgid "sub title"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:60 ../post-type/Loveicon_Event_Slider.php:77
+msgid "section icon"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:70
+msgid "section icon logo"
+msgstr ""
+
+#: ../post-type/Loveicon_Blog.php:102 ../post-type/Loveicon_Causes_Item.php:467
+#: ../post-type/Loveicon_Causes_Slider.php:208
+#: ../post-type/Loveicon_Event_Slider.php:109
+msgid "Sub Title "
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:18
+msgid "Causes List"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:33
+msgid "Content Design"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:45 ../post-type/Loveicon_Causes_Item.php:61
+#: ../post-type/Loveicon_Causes_Slider.php:66
+msgid "Style 3"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:61
+msgid "list global icon"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:70
+#: ../post-type/Loveicon_Causes_Slider.php:129
+msgid "Button Text"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:72
+#: ../post-type/Loveicon_Causes_Item.php:637
+#: ../post-type/Loveicon_Causes_Item.php:639
+#: ../post-type/Loveicon_Causes_Item.php:739
+#: ../post-type/Loveicon_Causes_Item.php:741
+#: ../post-type/Loveicon_Causes_Item.php:934
+#: ../post-type/Loveicon_Causes_Item.php:936
+#: ../post-type/Loveicon_Causes_Slider.php:131
+msgid "Donate Now"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:246 ../post-type/Loveicon_Causes.php:345
+#: ../post-type/Loveicon_Causes.php:452
+#: ../post-type/Loveicon_Causes_Item.php:623
+#: ../post-type/Loveicon_Causes_Item.php:823
+#: ../post-type/Loveicon_Causes_Item.php:919
+#: ../post-type/Loveicon_Causes_Slider.php:399
+#: ../post-type/Loveicon_Causes_Slider.php:443
+#: ../post-type/Loveicon_Causes_Slider.php:532
+#: ../post-type/Loveicon_Causes_Slider.php:637
+#: ../post-type/layouts/single-campaign.php:60
+msgid "Achieved"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:247 ../post-type/Loveicon_Causes.php:346
+#: ../post-type/Loveicon_Causes.php:453
+#: ../post-type/Loveicon_Causes_Item.php:624
+#: ../post-type/Loveicon_Causes_Item.php:824
+#: ../post-type/Loveicon_Causes_Item.php:920
+#: ../post-type/Loveicon_Causes_Slider.php:400
+#: ../post-type/Loveicon_Causes_Slider.php:444
+#: ../post-type/Loveicon_Causes_Slider.php:533
+#: ../post-type/Loveicon_Causes_Slider.php:638
+#: ../post-type/layouts/single-campaign.php:61
+msgid "Target"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:251 ../post-type/Loveicon_Causes.php:350
+#: ../post-type/Loveicon_Causes.php:457
+#: ../post-type/Loveicon_Causes_Item.php:628
+#: ../post-type/Loveicon_Causes_Item.php:730
+#: ../post-type/Loveicon_Causes_Item.php:828
+#: ../post-type/Loveicon_Causes_Item.php:924
+#: ../post-type/Loveicon_Causes_Slider.php:404
+#: ../post-type/Loveicon_Causes_Slider.php:448
+#: ../post-type/Loveicon_Causes_Slider.php:537
+#: ../post-type/Loveicon_Causes_Slider.php:642
+#: ../post-type/layouts/single-campaign.php:65
+msgid "%"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes.php:252 ../post-type/Loveicon_Causes.php:351
+#: ../post-type/Loveicon_Causes.php:458
+#: ../post-type/Loveicon_Causes_Item.php:629
+#: ../post-type/Loveicon_Causes_Item.php:731
+#: ../post-type/Loveicon_Causes_Item.php:829
+#: ../post-type/Loveicon_Causes_Item.php:925
+#: ../post-type/Loveicon_Causes_Slider.php:405
+#: ../post-type/Loveicon_Causes_Slider.php:449
+#: ../post-type/Loveicon_Causes_Slider.php:538
+#: ../post-type/Loveicon_Causes_Slider.php:643
+#: ../post-type/layouts/single-campaign.php:66
+msgid "Pledged So Far"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:17
+msgid "Causes Single "
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:49
+msgid "Campaign Single Item Design"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:62
+msgid "Style 4"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:71
+#: ../post-type/Loveicon_Causes_Item.php:90
+#: ../post-type/Loveicon_Event_Slider.php:69
+msgid "Background"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:108
+#: ../post-type/Loveicon_Causes_Item.php:203
+msgid "Background icon"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:145
+msgid "Background overlay bg"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:174
+msgid "Background from icon"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:229
+msgid "Item Content"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:258
+msgid "Main Title"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:282
+msgid "video url"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:306
+msgid "Item list"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:323
+msgid "signature"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:340
+msgid "authore name"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:357
+msgid "authore position"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:375
+msgid "Img and Content"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:392
+#: ../post-type/Loveicon_Causes_Slider.php:155
+msgid "Section title"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:399
+msgid "Video Url"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:406
+msgid "Custom Donate Button Url"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:414
+msgid "chariti list"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:421
+msgid "chariti image"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:430
+msgid "Campaign Single Item"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:437
+msgid "Campaign List"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:602
+msgid "Featured Cause"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:725
+msgid "Target:"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Item.php:744
+msgid "Cause video"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:18
+msgid "Cause Slider"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:74
+msgid "Background overlay icon"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:104
+msgid "Background overlay icon two"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:138
+msgid "section header"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:145
+msgid "Background Header Img"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:162
+msgid "Section sub title"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:169
+msgid "Section content"
+msgstr ""
+
+#: ../post-type/Loveicon_Causes_Slider.php:288
+#: ../post-type/Loveicon_Event_Slider.php:153
+msgid " Arrow Button Hover Color"
+msgstr ""
+
+#: ../post-type/Loveicon_Event_List.php:11
+msgid "Event list"
+msgstr ""
+
+#: ../post-type/Loveicon_Event_Slider.php:16
+msgid "Event Slider"
+msgstr ""

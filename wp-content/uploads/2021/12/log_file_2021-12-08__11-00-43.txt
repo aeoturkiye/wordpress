@@ -1,0 +1,153 @@
+
+---Downloaded files---
+The import files for: Loveicon were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://tiud.org.tr
+Data file = /home/tiudorg/public_html/wp-content/plugins/loveicon-demo-installer/demo-data/demo1/contents.xml
+Widget file = /home/tiudorg/public_html/wp-content/plugins/loveicon-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /home/tiudorg/public_html/wp-content/plugins/loveicon-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+loveicon_options -> /home/tiudorg/public_html/wp-content/plugins/loveicon-demo-installer/demo-data/demo1/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "breadcrumb-4" (Ortam)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "donations-causes-3" (Ortam)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "instagram" (Ortam)
+[ERROR] Failed to import "linkedin" (Ortam)
+[ERROR] Failed to import "twitter" (Ortam)
+[ERROR] Failed to import "facebook" (Ortam)
+[ERROR] Failed to import "money-dollar-box-line" (Ortam)
+[ERROR] Failed to import "money-dollar-box-line" (Ortam)
+[ERROR] Failed to import "money-dollar-box-line" (Ortam)
+[ERROR] Failed to import "hand-heart-line" (Ortam)
+[ERROR] Failed to import "Group 1" (Ortam)
+[ERROR] Failed to import "Group 1" (Ortam)
+[ERROR] Failed to import "t-shirt-air-line" (Ortam)
+[ERROR] Failed to import "Group 2" (Ortam)
+[ERROR] Failed to import "Mask Group 1" (Ortam)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Laborex Widget Selector - No Title - Imported
+Ara - Search - Imported
+Etiket Bulutu - Tags - Imported
+Kategoriler - No Title - Imported
+Laborex Widget Selector - No Title - Imported
+
+charity Sidebar : 
+
+Laborex Widget Selector - No Title - Imported
+Ara - Search - Imported
+Laborex Widget Selector - No Title - Imported
+Laborex Widget Selector - No Title - Imported
+
+event Sidebar : 
+
+Laborex Widget Selector - No Title - Imported
+Ara - Search - Imported
+Laborex Widget Selector - No Title - Imported
+Laborex Widget Selector - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: loveicon_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

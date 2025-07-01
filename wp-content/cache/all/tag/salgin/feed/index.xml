@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Salgın &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<atom:link href="https://tiud.org.tr/tag/salgin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tiud.org.tr</link>
+	<description>Ticaret Uzmanları Derneği</description>
+	<lastBuildDate>Fri, 28 Jun 2024 21:15:15 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://tiud.org.tr/wp-content/uploads/2021/12/cropped-tiud_logo_icon-32x32.png</url>
+	<title>Salgın &#8211; TİUD &#8211; Ticaret Uzmanları Derneği</title>
+	<link>https://tiud.org.tr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Covid-19 Sonrası Küresel Tedarik Zincirlerindeki Değişimler ve Geleceğe Dönük Beklentiler</title>
+		<link>https://tiud.org.tr/2022/07/30/covid-19-sonrasi-kuresel-tedarik-zincirlerindeki-degisimler-ve-gelecege-donuk-beklentiler/</link>
+		
+		<dc:creator><![CDATA[Kamile Akbaş]]></dc:creator>
+		<pubDate>Sat, 30 Jul 2022 16:14:00 +0000</pubDate>
+				<category><![CDATA[Ticarette Uzman Görüş 61]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Koronavirüs]]></category>
+		<category><![CDATA[KTZ]]></category>
+		<category><![CDATA[Küresel Tedarik Zincirleri]]></category>
+		<category><![CDATA[Salgın]]></category>
+		<category><![CDATA[Tedarik]]></category>
+		<guid isPermaLink="false">https://tiud.org.tr/?p=5021</guid>
+
+					<description><![CDATA[Hayatın hemen her alanında olduğu gibi ekonomi ve uluslararası ticarette de önemli değişimlere sebep olan Covid-19 salgını ile birlikte kapasite sınırları, üretim darboğazları, küresel ölçekteki tedarik sorunları, hızla artan lojistik maliyetleri dünya ticaretinde önemli değişikliklere yol açmış, bu değişiklikler küresel tedarik zincirleri (KTZ) üzerindeki baskıyı da artırarak önemli yapısal değişiklik ihtiyaçlarına kapı aralamıştır. Bu makalede, salgın ve küresel tedarik zincirleri arasındaki ilişki irdelenerek salgınla birlikte küresel tedarik zincirlerinde yaşanan temel değişimler ve gelecek beklentileri ele alınmıştır.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>ÖZET</strong></p>
+
+
+
+<p><em>Hayatın hemen her alanında olduğu gibi ekonomi ve uluslararası ticarette de önemli değişimlere sebep olan Covid-19 salgını ile birlikte kapasite sınırları, üretim darboğazları, küresel ölçekteki tedarik sorunları, hızla artan lojistik maliyetleri dünya ticaretinde önemli değişikliklere yol açmış, bu değişiklikler küresel tedarik zincirleri (KTZ) üzerindeki baskıyı da artırarak önemli yapısal değişiklik ihtiyaçlarına kapı aralamıştır. Bu makalede, salgın ve küresel tedarik zincirleri arasındaki ilişki irdelenerek salgınla birlikte küresel tedarik zincirlerinde yaşanan temel değişimler ve gelecek beklentileri ele alınmıştır.</em></p>
+
+
+
+<p><strong>Anahtar Kelimeler:</strong> Küresel Tedarik Zincirleri (KTZ), Tedarik, Koronavirüs, COVID-19, Salgın,</p>
+
+
+
+<p><strong>1. GİRİŞ</strong></p>
+
+
+
+<p>Covid-19 salgını, 2020 yılında ortaya çıkışıyla hayatın hemen her alanında olduğu gibi ekonomi ve uluslararası ticarette de önemli değişimlere sebep olmuştur. Kapasite sınırları, üretim darboğazları, küresel ölçekteki tedarik sorunları, daha önce tanık olunmamış ölçüde hızla artan lojistik maliyetleri dünya ticaretinde önemli değişikliklere yol açmıştır. Bu değişiklikler küresel tedarik zincirleri (KTZ) üzerindeki baskıyı da artırarak önemli yapısal değişim ihtiyaçlarına kapı aralamıştır.</p>
+
+
+
+<p><strong>2. SALGIN VE KÜRESEL TEDARİK ZİNCİRLERİ</strong></p>
+
+
+
+<p>New York Merkez Bankası tarafından hazırlanan Küresel Tedarik Zincirleri Baskı Endeksine göre (Global Supply Chain Pressure Index-GSCPI), özellikle 2020 yılının ilk 4 ayındaki kriz hali tedarik zincirleri açısından büyük bir çıkmaza işaret etmektedir. GSCPI, başta farklı araçlar kullanılarak yapılan taşıma maliyetleri, ülke bazlı tedarik zinciri değişkenleri, PMI endeksleri olmak üzere 27 farklı değişkeni kullanarak küresel tedarik zinciri üzerindeki baskı miktarını sayısallaştıran bir endeks niteliğindedir. Her ne kadar, 2020 yılı Nisan-Ekim ayları arasında endeks düşüş gösterse de sonrasında daha büyük bir artış eğilimindedir. Aşağıda söz konusu endeksin son 25 yıllık değişimine yer verilmektedir.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="896" height="524" src="https://tiud.org.tr/wp-content/uploads/2022/07/image.png" alt="" class="wp-image-5065" srcset="https://tiud.org.tr/wp-content/uploads/2022/07/image.png 896w, https://tiud.org.tr/wp-content/uploads/2022/07/image-416x243.png 416w, https://tiud.org.tr/wp-content/uploads/2022/07/image-300x175.png 300w, https://tiud.org.tr/wp-content/uploads/2022/07/image-768x449.png 768w" sizes="(max-width: 896px) 100vw, 896px" /></figure>
+
+
+
+<p>Pandeminin ilk aylarında özellikle tıbbi malzeme ve ilaç ticaretinde yaşanan temin sorunları, zamanla artan korumacılık eğilimleri ile gıda ve tarım ürünlerini de kapsayan daha geniş bir alanı etkilemeye başlamıştır.</p>
+
+
+
+<p>Ülkelerin kendi ihtiyaçlarını önceleyerek getirdikleri ihracat yasaklama ve kısıtlamaları, üretim süreçlerinde aksamalara neden olurken, artan taşıma maliyetleri de KTZ’leri daha kırılgan hale getirmiştir. Zincirin uzunluğunu iyi bir yönetişimle maliyetleri düşürme unsuru olarak kullanma esasına dayanan pandemi öncesi yaklaşım, öngörülemeyen riskler ve kırılan halkalarla birlikte uluslararası ticaretteki aksamaları ve maliyet artışlarını derinleştirmiştir.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>Özellikle pandeminin ilk aşamalarında ülkelerin getirdiği kapanma zorunlulukları, sosyal mesafe ve sıkılaştırılmış hijyen şartları lojistik sektörü açısından zorlukları daha da artırmıştır. Fiilen çalışma alanlarında bulunmayı engelleyen bu tür zorunluluklar, depolama ve ulaştırma biçimlerinin yeniden tasarlanmasını zorunlu kılmıştır. Üretim alanlarının geçici kapanmaları ile beraber ortaya çıkan temin zorlukları, sipariş birikmelerine yol açarak daha kısa zamanda daha büyük miktarda teslimatların yapılmasını gerektirmiş; bu durum da hem nitelik hem nicelik açısından tedarik altyapısının güçlendirilmesini önemli bir zorunluluk haline getirmiştir.</p>
+
+
+
+<p>Diğer taraftan, küresel ticarette gerek fiili zorunluluklar gerekse de ülkelerin ticarete getirdiği düzenlemeler dolayısıyla malların dolaşımında ortaya çıkan yeni kısıtlamalar birçok endüstride ve tedarik zincirlerinde transit duraklamalara ve artan bir belirsizliğe yol açmıştır. Bu belirsizlikler yıllardır neredeyse rutin şekilde uygulanan prosedürlerin kimi zaman doğaçlama şekilde yeniden kurgulanmasına ve beklenmeyen yeni çıktılara sebep olmuştur. Sürecin ön aşamalarında hava ve deniz kargo taşımacılık seçeneklerinin yetersizliği nedeniyle, operasyonlar için ortalama teslim süreleri küresel olarak iki katına çıkmıştır. Teslimat sürelerinin en fazla arttığı ülke ve ülke grupları sırasıyla Çin (%222), Güney Kore (%217), Japonya (%209), Avrupa (%201) ve ABD (%200) olarak hesaplanmıştır (Institute for Supply Management).</p>
+
+
+
+<p>Salgının KTZ’leri etkileyen bir diğer önemli boyutu da ticarete konu ürünlere yönelik talepte yaşanan son derece köklü ve muhtemelen kalıcı sonuçlar da üretecek olan değişmelerdir. Salgının sektörler üzerindeki etkisi büyük ölçüde farklılıklar göstermiştir. Kapanmalar döneminde sağlık ürünleri ve hijyenik malzemelerde yaşanan talep patlaması, evden çalışma döneminin yaygınlaştığı sonraki aşamada gıda, yemek, bağışıklık artıcı ürünler için belirginleşmiştir. Aynı dönemde, moda ve giyim alışverişlerinin hem ciddi talep daralması yaşadığı hem de klasik mağazadan temin yönteminin yerini elektronik ticarete bıraktığı gözlenmiştir. Pandemiyle birlikte artış kazanan elektronik ticaret, birçok tüketici açısından hızla adapte olunan ve pandemi sonrasında da etkinliğini sürdüren ciddi bir dağıtım kanalı olmuştur.&nbsp;&nbsp;</p>
+
+
+
+<p>Sürecin başlangıcında tedarik zincirindeki ilk bozulma solunum (ventilatör) cihazlarında görülmüş; dünya genelindeki artan talebe rağmen, söz konusu cihazların farklı ülkelerde üretilen parçalardan oluşması hem temininde hem de dış ticaretinde önemli aksamalara yol açmıştır. Sonraki dönemde, tedarik zinciri ile ilgili sorunlar neredeyse tüm sektörlerde gözlenirken maliyetlerde de kayda değer artışlar yaşanmıştır.&nbsp; &nbsp;&nbsp;</p>
+
+
+
+<p>KTZ’lerin temel felsefesi, üretim ve dağıtım süreçlerinin sadeleştirilerek her aşamada maliyetlerin minimize edilmesi ve bu sayede oluşturulan ölçeğin verimlilik artışı sağlaması şeklinde özetlenebilir. Uzun yıllar boyunca, her aşamada süreç optimizasyonu, maliyetlerin düşürülmesi ve hız en önemli kavramlar olarak öne çıkmıştır. Ancak, pandemi ile beraber gerek üretim gerekse de iletimin birçok aşamasında öngörülemeyen ve kolaylıkla giderilemeyen aksaklıklar bu temel felsefede önemli kırılmalara sebep olmuştur.</p>
+
+
+
+<p>Bir sektördeki tedarik zincirinin uzunluğu açık olunan risk faktörlerinin sayısını çoğalttığı gibi muhatap olunan belirsizlik düzeyini de geometrik biçimde artırmaktadır. Pandemiyle birlikte zincirdeki herhangi bir aktörün yaşadığı aksaklık, sadece tedarikçisi olduğu diğer üreticileri değil ulaştırma, perakende ve hatta ikamesi olan piyasalarda bile önemli dalgalanmalara sebep olmuştur. &nbsp;</p>
+
+
+
+<p>KTZ’lerin dünya ekonomisi içindeki ağırlığı ile orantılı olarak günlük hayatı etkileyen birçok ürün grubunun farklı ülkelerde konumlandırılmış tedarik zincirlerine konu olması etkileşimin hem seviyesini ve hem de sorunların hızlı şekilde diğer alanlara yayılması sonucunu doğurmuştur. Küresel firmalar, operasyonlarını köklü şekilde gözden geçirme durumunda kalmış; pandemi sonrasında bile geçerli olacak çok önemli planlama ve operasyon değişiklikleri yapmışlardır. Institute for Supply Management tarafından 2020 yılı Mart ayı başında yapılan bir ankete katılımcıların yüzde 80’i operasyonlarının salgından etkileneceği cevabını verirken bu oran aynı ayın sonunda yüzde 95’e ulaşmıştır. Sonraki dönemde yaşanan gelişmeler bu beklentinin fazlasıyla gerçekleştiğini ve tedarik zincirlerinin dizaynı itibariyle köklü değişimlerin hayata geçtiğini göstermektedir. (<a href="https://www.ismworld.org">https://www.ismworld.org</a> – 19.04.2022)</p>
+
+
+
+<p>Pandeminin KTZ’ler üzerindeki etkisi esasen bu sistemlerin bünyesinde taşıdığı zayıf yönlerin açığa çıkması ve yeniden düzenlenmesi açısından önemli bir fırsat işlevi de görmüştür. İkincil tedarik zincirlerinin kurulması, tedarikçi havuzunda ve yerelleştirme faaliyetlerinde çeşitlendirmenin artırılması, dijitalleşme alanlarının derinleştirilmesi, dış müdahalelere karşı siber güvenliğin stratejik bir unsur olarak kabul edilmesi, artan sınır kontrolleri ve korumacı eğilimlerin yeni veri olarak modellenmesi, risk davranışlarındaki değişimlerin dikkate alınması salgın sonrası dönemin öne çıkan bileşenleri olarak göze çarpmaktadır. &nbsp;Pandemi sonrası KTZ’lerin tasarımında esneklik, çeviklik ve değişimlere karşı uyum kabiliyeti en önemli unsurlar olarak ortaya çıkmış; küresel firmalar tedarik zincirlerinde bu unsurları merkeze alan yeni bir yaklaşımı belirleme yoluna gitmiştir.</p>
+
+
+
+<p><strong>3. KÜRESEL TEDARİK ZİNCİRLERİNDE YAŞANAN TEMEL DEĞİŞİMLER</strong></p>
+
+
+
+<p>Salgın sonrası operasyonel birimlerin mümkün olan en geniş ölçekte yerelleştirilmesi, üretim tesislerinin nihai kullanıcılara yakınlaştırılması ve yerli tedarik kapasitesinin artırılması ana ekonomik tercihler olarak öne çıkmaktadır. &nbsp;</p>
+
+
+
+<p>Sağlık hizmetlerinde faaliyet gösteren KTZ’ler salgından en fazla etkilenen ancak operasyonlarını bu perspektifle en hızlı şekilde yeni duruma uyarlayan aktörlerin başında gelmektedir. Alınan tedbirler ve benimsenen yenilikçi yaklaşımlar bağlamında bu sektör çok ciddi bir esneklik ve direnç düzeyine ulaşarak yeni şartlara hızlı bir uyum sağlamış görünmektedir. Coğrafi açıdan yerinden yönetim ve yerel tedarik kapasitesine verilen ağırlık, sektörün geleceğe yönelik aldığı en köklü önlem niteliği taşımaktadır.</p>
+
+
+
+<p>Bu yöndeki tercihler, ağır yatırım maliyetleri ile hareket eden havacılık, savunma ve uzay sanayi gibi sektörlerde ise daha sınırlı kalmaktadır. Her ne kadar bu alanlarda faaliyet gösteren firmalar, yaşadıkları tedarik ve lojistik krizlerle bu unsurların önemini kavramış görünse de özellikle çok büyük maliyetlerle kurulan ve yıllara dayalı “know-how”la oluşturulan üretim altyapılarını kolaylıkla değiştirme, bölme ve/veya farklı coğrafi gölgelere yayma şansına sahip görünmemektedir. Benzer dezavantajlar, kimya, madencilik gibi hammaddelerinin bulunduğu yerlere göre üretim birimi tercihi yapmak zorunda olan endüstriler için de geniş ölçüde geçerlidir.</p>
+
+
+
+<p>Yeni yatırım kararlarının hem büyük maliyetler doğurması hem de gerekli fiziki ve beşeri sermayenin oluşturulmasının uzun zaman gerektirmesi bu yöndeki esnekliği büyük oranda ortadan kaldırmaktadır. Buna bağlı olarak, tedarik zincirinin her aşamasının optimizasyonu açısından tüm sektörler için büyük önem taşımaya başlayan dijitalleştirme bu tür kısıtlara sahip endüstriler için daha da hayati bir konum edinmiştir. Salgınla birlikte KTZ’ler normalde yapacakları yatırımın çok üstünde bir miktarı süreçlerinin dijitalleştirilmesi için hayata geçirmiştir. Söz konusu teknolojilerin verimliliğe katkılarının net şekilde görülmesi, bu alanda yapılan yatırımları hem hızlandırmakta hem de daha kapsamlı hale getirmektedir.</p>
+
+
+
+<p><strong>4. KÜRESEL TEDARİK ZİNCİRLERİNDE GELECEK BEKLENTİLERİ</strong></p>
+
+
+
+<p>Salgın sonrası KTZ’lerde yaşanan birçok değişim spontane şekilde ortaya çıkan sorunları çözümlemeye dönük olsa da sonuçları itibariyle köklü ve kalıcı dönüşümleri beraberinde getirecek gibi görünmektedir. Özellikle küresel şirketlerin tedarikçilerinin faaliyetleri konusunda çok daha dikkatli olacakları; bu faaliyetlerin her aşamasını daha sıkı bir gözetim ve iş birliği ile ele alacağı en önemli gelecek beklentileri arasındadır.</p>
+
+
+
+<p>Tedarikçilerinin envanter bilgilerinin görünürlüğünü geliştirmek, bunu yaparken de entegre teknolojik izleme metotlarını artan biçimde kullanmak kaçınılmaz görülmektedir. Zaten içinde bulunduğumuz dönemde bile dijitalleştirmeyi hem nicel hem de nitel olarak çok ciddi oranda artıran şirketler bunun işaretini açık bir şekilde vermiştir. Söz konusu eğilim kriz dönemiyle sınırlı olmayıp, gittikçe her sektöre daha fazla nüfuz eden yapısal ve kalıcı bir dönüşümü göstermektedir. Üretim ilişkilerinin gittikçe giriftleştiği, daha çok KTZ’nin ürünlerinin menşeini belirlemede sorun yasadığı bir ekonomik çerçevede, her türlü teknoloji sadece birinci derecedeki tedarikçilerin değil, alt taşeronların dahi faaliyetlerinin ve envanterlerinin kontrol edilmesi amacıyla şimdiden kullanılmaya başlanmıştır.</p>
+
+
+
+<p><strong>5. SONUÇ</strong></p>
+
+
+
+<p>Salgının yarattığı talep dalgalanmalarının firmalar açısından ne kadar hayati sonuçlar ürettiği içinde bulunduğumuz süreçte ortaya çıkan bir diğer gerçektir. Firmalar, verinin önemini daha yakından kavramış; ortaya çıkabilecek dışsal faktörleri gözeterek karşılaşacakları talebi gerçekçi şekilde tahmin etmenin ne kadar önemli olduğunu anlamıştır. Gelişmiş modelleme çabaları ile gerçekçi talep tahminleri karar alıcılar açısından daha da önemli hale gelmiştir. Bu amaçla, birçok KTZ bu alandaki kabiliyetlerini artırmaya dönük yatırımlar yapmaya başlamıştır. Söz konusu eğilim de geçici olması bir yana gittikçe ivme kazanacak gibi görünmektedir.</p>
+
+
+
+<p>Ayrıca, makine öğrenmesi, nesnelerin interneti, bulut bilgi işlem altyapısı gibi araçların yanında birçok yapay zeka enstrümanın firma faaliyetlerine adapte edilmesine dayalı kapasite oluşturulması ve/veya bu amaçla danışmanlık hizmeti alınması küresel firmalar bir yana orta ölçekli firmaların bile gündemini şimdiden işgal etmeye başlamıştır.</p>
+
+
+
+<p>Esnek tedarikçi sözleşmeleri ve ilişkileri ile sınırlı, merkezi olmayan, çevik “mini işletme” modelleri ile karakterize edilen ve satın alma noktasına daha yakın üretimi esas alan “mikro tedarik zincirlerinin” geliştirilmesine yönelik yatırımların artması da geleceğe dönük bir başka beklentidir.</p>
+
+
+
+<p>Son olarak, salgınla birlikte çok büyük artış gösteren elektronik ticaretin gelecekte daha da önemli bir dağıtım kanalı haline geleceği öngörülmektedir. Online satış platformları sadece küresel markalar açısından değil küçük ve orta ölçekli firmalar için de çok önemli bir işlev görecektir. Orta ve uzun vadede otomatik teslim araçlarına ciddi yatırımların yapılması, insan unsurundan kaynaklı gecikmelerin giderilmesi, teslim sürelerinin kısaltılarak, şartlarının iyileştirilmesi uzunca bir süre firmaların gündemini meşgul edecek, kayda değer yatırım alanlarından birini oluşturacaktır. Dijitalleşme ve otomasyon tedarik zincirlerinde olduğu gibi son kullanıcıya ulaşma açısından da önemini gittikçe artıracak faktörlerdir.</p>
+
+
+
+<p><strong>KAYNAKLAR</strong></p>
+
+
+
+<p>A New Barometer of Global Supply Chain Pressures, Federal Reserve Bank of New York, 2022.</p>
+
+
+
+<p>How Covid Broke Supply Chains, and How AI and Blockchain Could Fix Them, Axa Research Fund Award at Cornell University, 2022.</p>
+
+
+
+<p>How COVID-19 is reshaping supply chains, McKinsey &amp; Company, 2021.</p>
+
+
+
+<p>A Pandemic Disruption: The Future of Supply Chains in The Post-Covid Era, Reply Consulting, 2020.</p>
+
+
+
+<p>The Future of Global Supply Chains in a Post-COVID-19 World, R. Panwar, J.Pinkse, V. Marchi, California Management Review, 2022.</p>
+
+
+
+<p><a href="https://www.ismworld.org/supply-management-news-and-reports/reports/research-and-surveys/white-papers/covid-19s-global-impact-on-supply-chains/">https://www.ismworld.org/supply-management-news-and-reports/reports/research-and-surveys/white-papers/covid-19s-global-impact-on-supply-chains/</a> &#8211; 22.04.2022</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Covid-19 Salgını ve Online Market Uygulamalarının Yükselişi</title>
+		<link>https://tiud.org.tr/2022/07/30/covid-19-salgini-ve-online-market-uygulamalarinin-yukselisi/</link>
+		
+		<dc:creator><![CDATA[Hazal Oğuz Sarıkaya]]></dc:creator>
+		<pubDate>Sat, 30 Jul 2022 16:11:00 +0000</pubDate>
+				<category><![CDATA[Ticarette Uzman Görüş 61]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dijitalleşme]]></category>
+		<category><![CDATA[Esnaf]]></category>
+		<category><![CDATA[Online market]]></category>
+		<category><![CDATA[Salgın]]></category>
+		<guid isPermaLink="false">https://tiud.org.tr/?p=5023</guid>
+
+					<description><![CDATA[Tüketicilerin gıda, temizlik ürünleri, kişisel bakım, aksesuar gibi günlük hayatını kolaylaştıran ve temel ihtiyaç maddeleri sınıfına giren bu türden ürünleri satın aldığı fiziksel marketler bugünün ihtiyaçları doğrultusunda ve dijitalleşmenin de hız kazanmasıyla yönünü sanal ortama doğru çevirmektedir. Tüm dünyayı kısa sürede etkisi altına alan Covid-19 salgını sürecinde daha güçlü bir alternatif olarak karşımıza çıkan online marketlerin yükselişi hem tüketicilerin beğeni ve beklentilerini anlamak hem de ülkemizde hala önemli birer ekonomik aktör olarak varlığını sürdüren esnaf ve sanatkârlara yeni bir model teşkil etme potansiyeli açısından önemli bir konudur. Bu çalışmada dijitalleşme ve dijitale adaptasyon kavramları bağlamında elektronik perakendeciliğin en bilinen örneklerinden olan ve pandemi döneminde giderek yükselişe geçen online market uygulamaları tartışılacaktır.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>ÖZET</strong></p>
+
+
+
+<p><em>Tüketicilerin gıda, temizlik ürünleri, kişisel bakım, aksesuar gibi günlük hayatını kolaylaştıran ve temel ihtiyaç maddeleri sınıfına giren bu türden ürünleri satın aldığı fiziksel marketler bugünün ihtiyaçları doğrultusunda ve dijitalleşmenin de hız kazanmasıyla yönünü sanal ortama doğru çevirmektedir. Tüm dünyayı kısa sürede etkisi altına alan Covid-19 salgını sürecinde daha güçlü bir alternatif olarak karşımıza çıkan online marketlerin yükselişi hem tüketicilerin beğeni ve beklentilerini anlamak hem de ülkemizde hala önemli birer ekonomik aktör olarak varlığını sürdüren esnaf ve sanatkârlara yeni bir model teşkil etme potansiyeli açısından önemli bir konudur. Bu çalışmada dijitalleşme ve dijitale adaptasyon kavramları bağlamında elektronik perakendeciliğin en bilinen örneklerinden olan ve pandemi döneminde giderek yükselişe geçen online market uygulamaları tartışılacaktır.</em></p>
+
+
+
+<p><strong>Anahtar kelimeler:</strong> Online market, Covid-19, Esnaf, Dijitalleşme, Salgın</p>
+
+
+
+<p><strong>THE COVID-19 PANDEMIC AND THE RISE OF ONLINE MARKET APPS</strong></p>
+
+
+
+<p><strong>ABSTRACT</strong></p>
+
+
+
+<p><em>In line with today’s needs, physical markets, where consumers buy products such as food, cleaning products, personal care, and accessories that are classified as basic necessities and facilitate their daily life, turn their direction towards the virtual environment with the acceleration of digitalization. The rise of online markets, which emerged as a more potent alternative in the process of the Covid-19 epidemic, that affected the whole world in a short time, is important issue both in terms of understanding the tastes and expectations of consumers and the potential to constitute a new model for tradesmen and artisans who still exist as important economic actors in our country. This study will discuss online market applications, which are some of the most well-known examples of electronic retail in the context of digitalization and adaptation to digital and have been on the rise during the pandemic period.</em></p>
+
+
+
+<p><strong>Keywords:</strong> Online market, Covid-19, Tradesmen, Digitalization, Pandemic</p>
+
+
+
+<p><strong>GİRİŞ</strong></p>
+
+
+
+<p>Günümüzde akıllı telefon kullanımındaki gözle görülür artış ve gelişen internet altyapısı, kullanıcıların gündelik yaşam pratiklerinin pek çok alanında olduğu gibi alışveriş deneyiminde de değişim sürecini başlatmıştır. Bu bağlamda kullanımı yaygınlaşan elektronik perakendecilik, yer ve zaman kısıtlarını ortadan kaldıran yapısı sayesinde tüketicilere ulaşılmasını kolaylaştırmaktadır (Chu, ArcaUrze ve Cebollada-Calvo, 2010; Gupta ve Kim, 2010).</p>
+
+
+
+<p>Ayrıca tüketici davranışlarının daha kolay gözlemlenebilmesi sayesinde (Ferreira, 2009), kişiselleştirilmiş ürün ve hizmetlerin sunulması gibi firmalar için birçok avantajı da beraberinde getirmektedir (Chu ve diğerleri, 2010). Tüketiciler ise daha kolay fiyat karşılaştırması yapma, zaman ve enerjiden tasarruf etme gibi gerekçelerle e-perakendecilik uygulamalarını hızla benimsemişlerdir. Küresel ve ulusal çapta yaşanan birtakım değişiklikler bu değişim sürecine ivme kazandırmaktadır. 2020 yılının başından itibaren tüm dünyayı etkisi altına alan covid-19 salgını ve akabinde bireylerin günlük hayatında doğrudan yaşanan değişimler söz konusu farklılaşmanın örneği olmuştur. Bu çalışmada elektronik perakendeciliğin en bilinen örneklerinden ve pandemi döneminde giderek yükselişe geçen online market uygulamaları tartışılacak; Getir, İstegelsin, Migros Sanal Market ve mahalleesnafi.com gibi popüler örnekler aracılığıyla bu tip uygulamaların esnaf ve sanatkârlar için yeni bir model arayışı olma potansiyeli üzerinde durulacaktır.</p>
+
+
+
+<p><strong>COVİD-19 SALGINI VE DİJİTALLEŞME</strong></p>
+
+
+
+<p>İlk olarak Çin’in Wuhan Eyaleti’nde 2019’un sonlarında görülmeye başlanan yeni tip koronavirüs vakaları 13 Ocak 2020’de resmi olarak tanımlanmıştır. Kısa sürede dünya çapında yayılım gösteren covid-19, ülkemizde de ilk vakalarını resmi sonuçlara göre 10 Mart 2020’de göstermeye başlamıştır (Anadolu Ajansı, 2020). Bunun bir sonucu olarak ülke geneli pek çok sektör çalışmaya ara vermek durumunda kalmış ve belirli sürelerle sokağa çıkma yasağı konularak tüm ülkede fiziksel ulaşım ve etkileşim durma noktasına gelmiştir. Ancak sürecin belirsiz oluşu, tedavi ve/veya önlem amaçlı bir aşının henüz geliştirilememiş olması gibi nedenlerle pek çok sektörde uzaktan, dijital yöntemlerle süreç atlatılmaya çalışılmıştır. Enformasyon teknolojilerin çeşitlenmesi ve gelişmesi sayesinde zaten başlamış olan dijital dönüşüm pandemi süreci ile birlikte ivme kazanarak (Develi, 2020) daha çok “uzaktan/evden” diye nitelendirilen iş yapış süreçleri yaygınlaşmıştır.</p>
+
+
+
+<p>Bununla birlikte, tüketim alışkanlıkları birçok yönüyle dönüşüme uğramıştır. Hacıalioğlu ve Sağlam (2021) pandemi sürecindeki tüketici davranışları ve e-ticaretteki değişimleri ele aldıkları çalışmalarında tıpkı savaş zamanlarında ihtiyaç duyulan fakat daha sonra unutulan “stok yapma” anlayışının Covid-19 pandemisi dönemiyle yeniden değer kazandığını ve tüketicilerin satın alma önceliklerinin yanı sıra satın alma şekillerinin de değişiklik gösterdiğine dikkat çekmiştir. Raf ömrü uzun olan ürünler ile dezenfektan, maske, eldiven gibi tıbbi ürünlerin talebi artmış, siparişler çok fazla kişinin dokunmadığı düşüncesi ile online olarak verilmiştir (Yıldız, 2020: 386). Mesafeli satış yöntemiyle ürün satın alma eylemi giderek yaygın hale gelmiş çevrimiçi alışverişe olan ilgin ile yüz yüze temas içeren hizmetlere olan talep bu süreçte büyük oranda düşmüştür. Alibaba&#8217;nın çevrimiçi süpermarketi, virüsün yayılmaya başlaması ile siparişlerin yıldan yıla %220 oranında arttığını bildirmiştir. Amerika Birleşik Devletleri&#8217;nde, çevrimiçi teslimat hizmeti Instacart&#8217;ın aboneliklerinin en çok vaka görülen eyaletlerde 10-20 kat civarında arttığı ortaya çıkmıştır (Accenture Survey, 2020: 15).</p>
+
+
+
+<p>Diğer yandan, Covid-19, iş ve sosyal hayatın mümkün olduğunca pandemi öncesi olduğu gibi devam edebilmesini sağlayan dijitale hazırlık süreçlerinin önemini göstermiştir. Dijital hazırlık endeksi; temel ihtiyaçlar, işletme ve devlet yatırımları, iş yapma kolaylığı, beşeri sermaye, start-up çevresi, teknolojiyi benimseme ve teknolojik alt yapı bileşenleri çerçevesinde ülkelere dijital dönüşümü tanımlama, anlama, sorun alanlarını tespit etme, politika ve strateji önceliklerini belirleme konularına kaynaklık eden bir ölçümlemedir. Bu anlamda en son teknolojide güncel kalmak için uygun altyapıları kurmak, herhangi bir işletme veya ülkenin pandemi sonrası dünyada rekabet edebilmesi ve teknoloji yönetiminde insan merkezli ve kapsayıcı bir yaklaşım benimsemesi için gerekli görünmektedir.</p>
+
+
+
+<p>Bugün elektronik ticaret sektöründe hizmet veren firmaların kullanıcıların birçok alanda internet üzerinden ihtiyaçlarını karşılaması adına teknolojik altyapı faaliyetlerini ilerletme çabasında olduğu görülmektedir. Alışveriş, eğitim, sağlık, bankacılık gibi sıklıkla ihtiyaç duyulan kurumlara internet altyapıları ile erişimin artması şu anda geleceğe yönelik bir teknolojik devrime gidildiğini göstermekte ve yaşam koşullarının buna göre tekrardan düzenleneceğinin işaretini vermektedir.</p>
+
+
+
+<p><strong>DİJİTALE ADAPTASYON VE ONLINE MARKET UYGULAMALARI</strong></p>
+
+
+
+<p>Son yıllardaki dijital dönüşümle tüketicilerin hayatına giren online market uygulamaları koronavirüs salgını döneminde gündelik yaşamı kolaylaştıran hizmetlerden biri olmuştur. Evde geçirilen süre arttıkça kullanıcıların bu tarz uygulamalara yönelmesi de doğal karşılanır olmuştur.</p>
+
+
+
+<p>Diğer yandan, Bilgi Teknolojileri ve İletişim Kurumunun (BTK) yılın dört çeyreğinde yayınladığı üç aylık pazar raporu verileri ışığında genişbant verilerine bakıldığında, 18,1 milyonu sabit abone, yaklaşık 70 milyonu mobil abone olmak üzere toplam yaklaşık 88,2 milyon genişbant internet abone sayısına ulaşılmış, internet abone sayısı bir önceki yılın aynı dönemine kıyasla %7 artmıştır. En yüksek artış %29,4’lük bir oranla “Eve Kadar Fiber” abone sayısında, müteakiben %6,8’lik bir oranla da “Mobil Cepte İnternet” abone sayısında gerçekleşmiştir. Sabit genişbant abonelerinin aylık ortalama data kullanımı 204 GB olmuştur (BTK, 2022).</p>
+
+
+
+<p>Sektörel araştırmaların sonuçları Türkiye nüfusunun büyük çoğunluğu interneti aktif ve yaygın biçimde kullandığını ortaya koymaktadır. Diğer yandan, mobile artan ilgi ile cep telefonları ve tabletlerin, bilgisayarlara giderek daha fazla alternatif teşkil eder hale gelmesi tüketicinin hızlı karar alma ve sipariş oluşturma eğilimini artırmıştır. Benzer şekilde sosyal medya kullanımının artışı ve platformların dizaynlarında meydana gelen değişiklikler tüketicilerin alışveriş fikri oluşmadığı anlarda bile bir ürün / hizmetin fiyatını öğrenebilmeleri veya oldukça basit ve pratik yöntemlerle sepete ürün ekleyebilmelerini sağlamaktadır. Ayrıca dijital pazarlamanın geleneksel pazarlama yöntemlerine göre yeni dünyaya daha hızlı uyum sağlayan tekniklerden oluştuğunu ifade etmek gerekir. Güncel satış tekniklerinde dönüşüm Covid-19 pandemisinin ortaya çıkışından çok önce başlamakla birlikte bu dönemde hız kazanmış, tüketicileri en hızlı, en güvenli ve en risksiz alışveriş yöntemleri ile buluşturmuştur.</p>
+
+
+
+<p><strong>ONLINE MARKET/PAZARYERİ UYGULAMALARININ AVANTAJLARI</strong></p>
+
+
+
+<p>Her ne kadar içlerinden bazıları pandemi ortaya çıkmadan çok daha önce tasarlanmış ve Apple/Andorid marketlerde tüketicilerin kullanımına sunulmuşsa da online süpermarket uygulamalarının çoğu salgın sürecinde popülerleşmiştir. Dahası, bu uygulamaların tüketiciler tarafından sıkça tercih edilmesinin risk azaldığında veya tam kapanma periyotları sona erdiğinde de sürdüğünü hatırlatmak gerekir. Öyle ki her yaş grubundan kişinin deneyimlediği online marketler artık hayatın vazgeçilmez bir parçası haline gelmiş durumdadır. Kısmen açılma sonrası online alışverişe talep artarken en fazla büyüme online market-gıda kategorisinde yaşanmıştır (Çakır &amp; Kazançoğlu, 2020). Sadece fiziki market olarak işlerini yürüten pek çok işletmenin de online platformlarda var olmadan yetersiz kalacaklarını fark ederek işlerini e-ticarete taşıma konusunda harekete geçtiği görülmektedir. Bu noktada araştırmacılar ve konuyla doğrudan ilgilenenlerin üzerinde yoğunlaşabileceği “söz konusu market uygulamalarının avantajları nelerdir?” sorusu göze çarpmaktadır.</p>
+
+
+
+<p>Tüketicilerin evde kalmak zorunda olduğu bu süreçte hijyenik şartlarda deyim yerindeyse “ayağına kadar getirilen” ürünler dışarıdaki pek çok riske karşı koruma görevini üstlenmektedir. Bunun yanında evden çalışmayı devam ettiren kesim için ise online market siparişleri zaman tasarrufu açısından kritiktir. Her ne kadar kendilerine yönelik kısıtlamalar resmi olarak sona ermişse de 65 yaş üstü grubun ve risk altındaki kişilerin sağlık açısından sokağa çıkma kısıtlamasına tabi oldukları dönemlerde sanal market alışverişleri tepe noktasına ulaşmış ve bugün de çeşitli promosyonlar ve kuponlar ile hala en cazip seçenekler arasında yer aldığından dikkat çekmektedir.</p>
+
+
+
+<p>Online marketlerin tüketicileri çekmesi için sahip olması gereken birtakım özellikler şu şekilde sıralanabilir:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Sanal market ürün çeşitliliği</li>
+</ul>
+
+
+
+<p>Tüketiciler ev ihtiyaçlarını sanal market üzerinden sipariş vermektedir. Sipariş hacimlerinin arttığı online alışverişlerde, sanal markette geniş ürün yelpazesi sunulması sayesinde işletmeler sepet ortalamalarında yüksek tutarlara ulaşabilecektir. Tüketicilerin aradığı niş ürünlerin satışının gerçekleştirilmesi de sanal marketin tercih edilme oranını arttırabilir.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Kullanıcı dostu sanal mağaza</li>
+</ul>
+
+
+
+<p>Pratik, güvenli ve kullanıcı dostu bir sanal market ile müşteri sayısı artırabilecektir. Ayrıca ürünlere kolay ulaşmayı sağlayan filtreleme özellikleri, sade bir tasarım, ürün özellikleri hakkında detaylı bilgi, anlaşılır bir fiyatlandırma sistemi, ürün görsellerinin açıklayıcı olması, kg, adet gibi alanlarda tüketicilerin karar mekanizmalarının işlediği bir alışveriş ortamı sunulması işletmelere fayda sağlayacak bir diğer faktördür.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Gelişmiş teslimat olanakları</li>
+</ul>
+
+
+
+<p>Mesafeli satışlarda teslimat bilgileri oldukça önemlidir. Dağıtım kapasitesine göre online markete alışveriş amaçlı gelen müşterilere teslimat bilgileri ve saatleri gösterilmelidir. Uygun teslimat seçenekleri arasından müşterilere seçim yaptırılabilecektir. Aynı zamanda girilen adrese göre filtreleme yapılarak uygun teslimat günü ve saatleri bölge bazlı değiştirebilecektir.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Güvenli ödeme sistemleri</li>
+</ul>
+
+
+
+<p>Tüketiciler özellikle pandemi sürecinde temassız e-ticareti tercih etmektedir. Online marketin en önemli alanı olan ödeme sayfasını doğru bir şekilde kurgulamak ve yeniliklere göre optimize etmek işletmeler için faydalı bir çözümdür. Bu noktada güvenli ödeme sistemleri sunulması elzemdir. Salgının en yoğun olduğu 2020-2021 döneminde online alışverişlerin yüzde 63’ü temassız işlem olarak gerçekleştirilmiştir. Bu anlamda sanal mağazada online ödeme ayrıcalıklarını sunmak hızlı ve hijyenik teslimatı da olanaklı kılacaktır.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Sipariş aşaması ve sonrası iletişim</li>
+</ul>
+
+
+
+<p>Kullanıcılara sepet aşamasında adrese teslim ya da mağazadan teslim gibi farklı teslimat şekilleri sunmak da işletmelerin tercih edebileceği bir yöntemdir. Ayrıca teslimat zamanını sepet aşamasında gösterilen ve Getir’de olduğu gibi kimi uygulamalarda kullanılan ‘temassız teslimat’ ‘zili çalma’ gibi farklı alanlar, sıfır temas ile siparişlerin teslimatını sağlama ve tüketicilerin güvenini tesis etmede önem teşkil eder. Gönderim ve paketleme işlemlerinin hijyenik koşullarda yapıldığına dair bilgilendirme yapılması da kritiktir.</p>
+
+
+
+<p>Bunun yanında bu türden online market uygulamalarında kullanıcılar verdikleri siparişle ilgili özel olarak bazı isteklerde bulunabilmektedir. İşte tam da bunlara ilişkin, sipariş ile ilgili birtakım notlar bırakma talepleri de yerine getirilmelidir. İşletmeler sepet aşamasına sipariş notu bölümü ekleyebilir. Sipariş işlemi gerçekleştikten sonra tüketicilere tahmini gönderim günü ve saati hakkında dinamik bildirimler yapılabilir. SMS ve e-posta aracılığı ile sipariş bilgileri iletilerek siparişlerin takip edebilmesi sağlanabilir. Elbette tüm bunlar için çok ciddi altyapı yatırımları yapılması ve iyi yazılım uzmanları ile çalışılması gerekmektedir.</p>
+
+
+
+<p><strong>MOBİL UYGULAMA ÖRNEKLERİ</strong></p>
+
+
+
+<p>Çalışmanın başında da belirtildiği üzere Covid-19 salgını nedeniyle tüm dünyada olduğu gibi ülkemizde de elektronik ticarette özellikle online market alışverişlerinde çok ciddi bir artış söz konusudur. Bankalararası Kart Merkezi’nin (BKM) verilerine göre 1-22 Şubat ile 1-22 Mart 2021 tarihleri arasında Türkiye’de internet üzerinden yapılan alışveriş rakamları karşılaştırıldığında en kayda değer büyümenin yüzde 32 ile market-gıda kategorisinde olduğu görülmektedir (BKM, 2021). İnternetten yapılan kartlı ödeme işlemlerine yönelik 2022 yılının ilk 3 aylık verileri dikkate alındığında yerli ve yabancı kartların yurtiçi kullanımı açısından “çeşitli gıda” kategorisi altında 18.815.381 adet işlem gerçekleştirildiği ve bu işlemlerin 2.708,57 milyon TL tutarına ulaştığı gözlemlenmektedir (BKM, 2022).</p>
+
+
+
+<p>Bu olağanüstü günlerde artan talebi karşılama adına online market platformları, hızlı teslimat uygulamaları ve pazar yeri siteleri büyük bir özveri ile çalışmaktadırlar. Normal şartların çok üstünde seyreden alışveriş trafikleri zaman zaman teslimat sürelerinin uzamasına neden olsa da şu ana dek sektör oyuncularının çok aktif olduğu gözükmektedir.</p>
+
+
+
+<p>Bu süreçte tüketicinin değişen market alışverişi alışkanlıklarında birtakım detaylar öne çıkmaktadır. Sektörün önemli oyuncuları Migros Sanal Market, Getir, Banabi ve İstegelsin’e bakıldığında, pandemi sürecinin online market alışverişlerini nasıl etkilediği açığa çıkmaktadır. Örneğin Migros Sanal Market, hem web üzerinden hem de mobil uygulama üzerinden 81 ilde hizmet sunmaktadır. Nisan ayında Migros’un evlere teslim ettiği sipariş sayısı 3 katına çıkmıştır (Önemli, 2020).</p>
+
+
+
+<p>Dolayısıyla, evde geçirilen sürenin artmasıyla beraber, tüketicilerin temel gıdadan temizlik ürününe kadar birçok ihtiyaç için verdiği siparişte artış yaşanmaktadır. Bu sayede dışarı ile temas minimum seviyeye çekilmekte alışveriş birçok ürün grubuna erişimi arttırdığı için kolaylaşmaktadır. Bu süreçte ebeveynlerin başka şehirde yaşayan çocukları ve yetişkinlerin de uzaktaki 65 yaş üstü anne ve babaları için yaptıkları alışverişlerde artış bulunmaktadır.</p>
+
+
+
+<p>Bu süreçte sepet ortalamalarında birtakım değişimler yaşanmıştır. Örneğin Migros Nisan ayında evlere teslim ettikleri sipariş sayısının katlanarak arttığını ve bu süreci desteklemek adına aynı zamanda istihdam seferberliği başlattıklarını belirtmektedir. Korona virüs sürecinde en çok sipariş verilen ürünlere bakıldığında ise meyve – sebze, Türk kahvesi, maden suyu, süt, su, ıslak mendil, makarna, ekmek, yumurta, un ve pirinç gibi temel gıda maddeleri ile hijyene/temizliğe yönelik ürünler olduğu göze çarpmaktadır.</p>
+
+
+
+<p>Benzer şekilde Getir isimli online market uygulaması da incelendiğinde, platformun daha önce satmadıkları kadar çok pirinç, bulgur ve makarna sattıkları görülmektedir. Hatta kısıtlamaların başladığı ilk üç günde, bir hafta öncesine göre 22 katı makarna talebi gördükleri belirtilmektedir (Önemli, 2020) Yanı sıra, koronavirüsün sosyal etkileşimle yayılmasını azaltmak; dolayısıyla hem tüketicilerin hem kendi çalışanlarının sağlığını korumak için 17 Mart 2020 tarihinde “Siparişi Kapıya Bırak” gibi bir özellik devreye aldıklarını belirtmektedirler. Bu gibi kolaylıklar da tüketicilerin söz konusu işletmeyi bir sonraki alışverişte daha çok tercih etmesinin önünü açmaktadır.</p>
+
+
+
+<p>Diğer yandan, İstegelsin uygulamasına bakıldığında da pandemi sürecinde en çok taze meyve sebze sipariş edildiği görülmektedir. Diğer yandan kutu oyunlarına ilgi artışı dikkat çekicidir. Nitekim tüketiciler evde geçirdikleri sürelerin giderek artmasından dolayı bu türden hobi ve oyunlara daha çok yönelmektedir.</p>
+
+
+
+<p><strong>ESNAF VE SANATKÂRLARA YENİ BİR MODEL ARAYIŞI</strong></p>
+
+
+
+<p>Son üç yılda 7.5 kat büyüyen online market pazarında hizmet veren oyunculardan biri de mahalleesnafi.com’dur. Esasında 2013 yılından bu yana web sayfası ve mobil uygulama üzerinden hizmet veren platformun portföyünde 100 bin adetten fazla barkodlu ürün bilgisi olduğu görülmektedir. Bu uygulamanın yalnızca nihai tüketici ile ilgili yeni olanaklar sağlamakla kalmayıp esnafa da dikkat çeken bir satış imkanı sunduğu tespit edilmiştir. Nitekim platforma kayıt olan esnaflar, sisteme farklı farklı ürünler dahil edebilmekte ve herhangi bir zaman diliminde ürünler ile ilgili güncelleme yapabilmektedirler. Bu kapsamda 56 binden fazla tüketici ve esnaf tarafından kullanılan bahse konu uygulamaya yalnızca bakkal veya manavlar değil yemek servisi veren işletmeler de eklemlenebilmektedir (Dünya, 2020).</p>
+
+
+
+<p>Yanı sıra, Nisan 2021 itibariyle Getir; Getir, Getir Büyük, Getir Yemek, Getir Su gibi dört alt başlığın yanına Getir Çarşı’yı eklediklerini duyurmuştur. Uygulama içinden erişim sağlanabilen bu yenilik ile tüketicinin bulunduğu yerdeki, mahallesindeki kasap, manav, fırın gibi esnafların ürünlerinin satışı hedeflenmektedir. Türkiye Esnaf ve Sanatkarları Konfederasyonu’nun (TESK) 30 Nisan 2022 tarihli güncel verilerine göre ülkemizde 2 milyonu geçmiştir (TESK, 2022). Esnafların 200 binden fazlası İstanbul’da konumlandığından, anılan şirket bu uygulamayı öncelikle İstanbul’da başlattığını açıklamıştır. Ayrıca, tüketicilerin sipariş vermesini teşvik edici promosyonlar ve ilk alışveriş indirimleriyle uygulamanın bu yeni yüzüne tüketicileri çekmek amaçlanmıştır.</p>
+
+
+
+<p>Bahse konu uygulamalar sayesinde bireysel çapta adımlar atmaya çalışan ancak bilişim okuryazarlığı ve finansal &#8211; teknolojik altyapılar açısından henüz yeterli düzeyde olmayan, daha geleneksel sayılan ancak ülkemizde hala toplumsal yaşamda yeri olan ekonomik aktörler, bir diğer deyişle esnaflar güvenli, hızlı ve gelişkin ağlar kurup daha çok tüketiciye ulaşabilecektir. Tanınırlıklarının artması, özgün değerlerinin korunması ve böylece son kertede satışlarını arttırmaları açısından yukarıda örnekleri verilen uygulamaların esnaf ve sanatkârlar için &#8211; rekabete rağmen – ilk bakışta olumsuz gibi görünen bir Kurumsal şirketlerin ve güçlü oyuncuların olduğu bu pazarda esnafın kendini korumasını ve satış gelirlerini artırmasını sağlaması açısından bu türden uygulamalar önemlidir. Böylece mahalle esnafının stok kayıtları, satış ve teslimata gibi pek çok konuda dijitalleşmesi ve daha çok tüketiciye ulaşmasının kapısı aralanacaktır.</p>
+
+
+
+<p><strong><strong>SONUÇ VE DEĞERLENDİRME</strong></strong></p>
+
+
+
+<p>Covid-19 salgını başından itibaren dünyada ve ülkemizde yaşanan tüm olağanüstü gelişmeler her şeyi değiştirdiği gibi tüketicilerin alışveriş alışkanlıklarını da gözle görülür bir şekilde değiştirmiştir. Bu itibarla, sanal market alışverişinin kullanım oranları ve gelişmekte olan pazar yapısı Türkiye’de gözle görülür bir ivme kazanmıştır.</p>
+
+
+
+<p>Bununla birlikte, tüketicilerin alışkanlıklarının büyük ölçüde değiştiği göz önüne alındığında, çevrimiçi market, giyim ve eğlence alışverişlerinin, toplumda virüse yönelik bağışıklık tamamen gelişene dek fiziki mağaza ve alışveriş merkezlerinin ziyaretlerine güçlü bir alternatif oluşturacağı yorumunda bulunabiliriz. Koronavirüs sürecinde bazı ürün gruplarının talebinde önemli bir yükselme trendi görülmektedir. Tüketiciler hijyeni optimize etmek ve kişisel teması sıfıra indirmek amacıyla online market uygulamalarına giderek daha çok rağbet etmekte; yalnızca konjonktürel bağlamda virüs dolayısıyla maske, kişisel bakım ve temizlik ürünleri değil, su, süt, yumurta, un gibi temel ihtiyaç maddelerini satın alabilmek için de bu türden uygulamaları kullanmaktadırlar.</p>
+
+
+
+<p>Çalışmada popüler örnekler üzerinden ele alınan online market uygulamalarının bugün gelinen noktada tüketici tercihleri açısından önemli birer alternatif olduğu görülmektedir. Gerek finansal gerekse bilişim altyapıları, dağıtım kanalları ve iletişim stratejileri sayesinde başlangıçta küçük işletmelere ciddi rakip gibi görünseler de yerel esnafların özgünlüğünü koruyarak sisteme entegre olmaları ve güven – süreklilik esasının devamı ile daha çok sayıda tüketiciye ulaşmalarının sağlanması vasıtasıyla bilinirlik oranının artması sağlanabilecektir. Tek başına reklam yapması ve tanıtım faaliyetleri yürütmesi zor ve maliyetli olacak yerel esnaflar için yeni gelişen bu dünya lehe çevrilebilecek bir model önerisi sunmaktadır. Yanı sıra, fiziki alışveriş sırasında tutulamayacak kayıtlar ve edinilemeyecek tüketici profilleri, sisteme entegre olunduğu için bu tip uygulamaların altyapısında saklanacaktır. Bu sayede, sonraki alışverişlerde müşteri sadakati sağlamak ve uygulamadan uzaklaşan müşteriyi yeniden kazanmak/alışveriş yapma sürekliliğini sağlamak mümkün hale gelebilecek profile ve konuma uygun kampanyalar tasarlanması ve tanımlanması gerçekleşebilecektir.</p>
+
+
+
+<p><strong>KAYNAKÇA</strong></p>
+
+
+
+<p>ACCENTURE SURVEY, (2020). How COVID-19 Will Permanently Change Consumer Behavior, <a href="https://www.accenture.com/us-en/insights/consumer-goods-services/coronavirus-consumer-behavior-research">https://www.accenture.com/us-en/insights/consumer-goods-services/coronavirus-consumer-behavior-research</a>.</p>
+
+
+
+<p>ANADOLU AJANSI. (2020, Mart 11). <em>Sağlık Bakanı Koca Türkiye&#8217;de ilk koronavirüs vakasının görüldüğünü açıkladı.</em> Erişim Tarihi 3 Mart 2021, <a href="https://www.aa.com.tr/tr/koronavirus/saglik-bakani-koca-turkiyede-ilkkoronavirus-vakasinin-goruldugunu-acikladi/1761466">https://www.aa.com.tr/tr/koronavirus/saglik-bakani-koca-turkiyede-ilkkoronavirus-vakasinin-goruldugunu-acikladi/1761466</a>.</p>
+
+
+
+<p>BANKALARARASI KART MERKEZİ. (2021). <em>Basın Bültenleri 2020.</em> Erişim Tarihi 15 Nisan 2021, <a href="https://bkm.com.tr/kurumsal-iletisim/basin-bultenleri/basin-bultenleri-2020/">https://bkm.com.tr/kurumsal-iletisim/basin-bultenleri/basin-bultenleri-2020/</a>.</p>
+
+
+
+<p>BANKALARARASI KART MERKEZİ (2022). İnternetten Yapılan Kartlı Ödeme İşlemleri. Erişim Tarihi 26 Nisan 2022, <a href="https://bkm.com.tr/internetten-yapilan-kartli-odeme-islemlerinin-sektorel-dagilimi/?filter_group=20&amp;List=Listele">https://bkm.com.tr/internetten-yapilan-kartli-odeme-islemlerinin-sektorel-dagilimi/?filter_group=20&amp;List=Listele</a>.</p>
+
+
+
+<p>BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU. (2021). <em>Türkiye Elektronik Haberleşme Sektörü Üç Aylık Pazar Verileri Raporu.</em> Erişim Tarihi 10 Mayıs 2022, <a href="https://www.btk.gov.tr/uploads/pages/pazar-verileri/2021-4-pazar-verileri-raporu.pdf">https://www.btk.gov.tr/uploads/pages/pazar-verileri/2021-4-pazar-verileri-raporu.pdf</a>.</p>
+
+
+
+<p>CHU, J., ARCA-URZE, M. ve CEBOLLADA-CALVO, J. (2010). An empirical analysis of shopping behavior across online and offline channels for grocery products: The moderating effects of household and product characteristics. <em>Journal of Interactive Marketing, 24</em> (4), 251-268.</p>
+
+
+
+<p>ÇAKIR, İ., &amp; KAZANÇOĞLU, İ. (2020). Sanal Market Alışverişi Yapma Niyetinde Genişletilmiş Teknoloji Kabul Modeli Bileşenleri ile Risk Algılarının Etkisi. <em>Manisa Celal Bayar Üniversitesi Sosyal Bilimler Dergisi, 18</em>(2), 305-326.</p>
+
+
+
+<p>FERREIRA, M. P. (2009). (R)evolution of e-grocery ındustry: strategic ımplications. <em>Universidade Católica Portuguesa (Porto).</em></p>
+
+
+
+<p>GUPTA, S. ve KIM, H. (2010). Value-driven internet shopping: the mental accounting theory perspective. <em>Psychology and Marketing, 27</em>(1), 13-35.</p>
+
+
+
+<p>“Mahalle esnafı da sanal market pazarında”. (2020). <em>Dünya Gazetesi. </em>Erişim Tarihi 14 Nisan 2021, <a href="https://www.dunya.com/sirketler/mahalle-esnafi-da-sanal-market-pazarinda-haberi-462276">https://www.dunya.com/sirketler/mahalle-esnafi-da-sanal-market-pazarinda-haberi-462276</a>.</p>
+
+
+
+<p>HACIALİOĞLU, A. &amp; SAĞLAM, M. (2021). Covid-19 Pandemi Sürecinde Tüketici Davranışları ve E-Ticaretteki Değişimler. <em>Medya ve Kültürel Çalışmalar Dergisi, 3</em>(1), 16-29.</p>
+
+
+
+<p>ÖNEMLİ, S. (2020). Online market alışverişlerine koronavirüs etkisi. <em>Dijitalage.</em> Erişim Tarihi 8 Şubat 2021, <a href="https://digitalage.com.tr/online-market-alisverislerine-koronavirus-etkisi/">https://digitalage.com.tr/online-market-alisverislerine-koronavirus-etkisi/</a>.</p>
+
+
+
+<p>TÜRKİYE ESNAF VE SANATKÂRLARI KONFEDERASYONU. (2022). <em>İllere Göre Esnaf, İşyeri, Nüfus ve Oda Bilgileri (30/04/2022).</em> Erişim Tarihi15 Mayıs 2022 , <a href="https://www.tesk.org.tr/resimler/sicil/4.pdf">https://www.tesk.org.tr/resimler/sicil/4.pdf</a>.</p>
+
+
+
+<p>YILDIZ, A. (2020). Kriz dönemlerinde tüketici davranışlarının incelenmesi. <em>Uluslararası Sosyal Bilimler Akademi Dergisi, 2</em>(3), 377-390.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

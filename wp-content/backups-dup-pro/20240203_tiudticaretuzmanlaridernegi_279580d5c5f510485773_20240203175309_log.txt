@@ -1,0 +1,149 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2024-02-03 17:58:01
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.8.1
+WORDPRESS:	6.4.3
+PHP INFO:	7.4.33 | SAPI: fpm-fcgi
+SERVER:		Apache 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	18MB
+ARCHIVE ENGINE: DupArchive
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 52 | filtered:0 | create:52
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wprx_users NUM ROWS: 27
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wprx_users NUM ROWS: 27
+INSERT ROWS TABLE[INDEX:1] wprx_usermeta NUM ROWS: 563
+INSERT ROWS TABLE[INDEX:2] wprx_actionscheduler_actions NUM ROWS: 6948
+INSERT ROWS TABLE[INDEX:3] wprx_actionscheduler_claims NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:4] wprx_actionscheduler_groups NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:5] wprx_actionscheduler_logs NUM ROWS: 20832
+INSERT ROWS TABLE[INDEX:6] wprx_addonlibrary_addons NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] wprx_addonlibrary_categories NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:8] wprx_avc_page_visit_history NUM ROWS: 25810
+INSERT ROWS TABLE[INDEX:9] wprx_charitable_campaign_donations NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:10] wprx_charitable_donormeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:11] wprx_charitable_donors NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:12] wprx_commentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wprx_comments NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:14] wprx_duplicator_pro_entities NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:15] wprx_duplicator_pro_packages NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:16] wprx_e_events NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:17] wprx_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:18] wprx_loginizer_logs NUM ROWS: 275
+INSERT ROWS TABLE[INDEX:19] wprx_micro_revisions NUM ROWS: 50
+INSERT ROWS TABLE[INDEX:20] wprx_options NUM ROWS: 763
+INSERT ROWS TABLE[INDEX:21] wprx_orgseriesicons NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:22] wprx_pda_passwords NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:23] wprx_postmeta NUM ROWS: 23915
+INSERT ROWS TABLE[INDEX:24] wprx_posts NUM ROWS: 3946
+INSERT ROWS TABLE[INDEX:25] wprx_post_views NUM ROWS: 1071
+INSERT ROWS TABLE[INDEX:26] wprx_prli_clicks NUM ROWS: 5456
+INSERT ROWS TABLE[INDEX:27] wprx_prli_links NUM ROWS: 8
+INSERT ROWS TABLE[INDEX:28] wprx_prli_link_metas NUM ROWS: 8
+INSERT ROWS TABLE[INDEX:29] wprx_redirection_404 NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:30] wprx_redirection_groups NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:31] wprx_redirection_items NUM ROWS: 45
+INSERT ROWS TABLE[INDEX:32] wprx_redirection_logs NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:33] wprx_termmeta NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:34] wprx_terms NUM ROWS: 188
+INSERT ROWS TABLE[INDEX:35] wprx_term_relationships NUM ROWS: 261
+INSERT ROWS TABLE[INDEX:36] wprx_term_taxonomy NUM ROWS: 188
+INSERT ROWS TABLE[INDEX:37] wprx_trp_dictionary_tr_tr_en_us NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:38] wprx_trp_gettext_en_us NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:39] wprx_trp_gettext_tr_tr NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:40] wprx_trp_original_meta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:41] wprx_trp_original_strings NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:42] wprx_wfu_dbxqueue NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:43] wprx_wfu_log NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:44] wprx_wfu_userdata NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:45] wprx_wow_mwp NUM ROWS: 20
+INSERT ROWS TABLE[INDEX:46] wprx_wpforms_tasks_meta NUM ROWS: 25
+INSERT ROWS TABLE[INDEX:47] wprx_wpmailsmtp_debug_events NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:48] wprx_wpmailsmtp_tasks_meta NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:49] wprx_wpmm_subscribers NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:50] wprx_wsal_metadata NUM ROWS: 408
+INSERT ROWS TABLE[INDEX:51] wprx_wsal_occurrences NUM ROWS: 81
+SQL FILE SIZE CHECK OK, SIZE: 105213870
+SQL CREATED: 20240203_tiudticaretuzmanlaridernegi_279580d5c5f510485773_20240203175309_database.sql
+SQL FILE SIZE: 100.34MB
+SQL FILE TIME: 2024-02-03 17:58:21
+SQL RUNTIME: 20.244 sec.
+MEMORY STACK: 20MB
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /var/www/vhosts/tiud.org.tr/httpdocs
+ARCHIVE FILE: 20240203_tiudticaretuzmanlaridernegi_279580d5c5f510485773_20240203175309_archive.daf
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	1.04GB
+STATS:	Dirs 3,001 | Files 24,491 | Total 27,492
+CREATE ARCHIVE STATE FOR DUP ARCHIVE
+COMPRESSED SIZE: 829.93MB
+ARCHIVE RUNTIME: 246.092 sec.
+MEMORY STACK: 12MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+LOCAL: Default, /var/www/vhosts/tiud.org.tr/httpdocs/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 100.34MB
+INSTALLER FILE: 148.74KB
+ARCHIVE FILE: 829.93MB 
+EXPECTED FILE/DIRECTORY COUNT: 27,492
+ACTUAL FILE/DIRECTORY COUNT: 27,493
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 270.370 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20240203_tiudticaretuzmanlaridernegi 2024-02-03 18:02:31
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** LOCAL [Name: Default] [ID: -2] **
+SUCCESS: copied to default location: /var/www/vhosts/tiud.org.tr/httpdocs/wp-content/backups-dup-pro
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+MAX PACKAGES: 20
+OLD PACKAGES LIST Array
+(
+    [0] => /var/www/vhosts/tiud.org.tr/httpdocs/wp-content/backups-dup-pro/20221223_tiudticaretuzmanlaridernegi_cf3846b4d95a7c4c3105_20221223084349_archive.daf
+    [1] => /var/www/vhosts/tiud.org.tr/httpdocs/wp-content/backups-dup-pro/20240203_tiudticaretuzmanlaridernegi_279580d5c5f510485773_20240203175309_archive.daf
+)
+
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2024-02-03 18:02:35
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
